@@ -1,4 +1,6 @@
 name: Only update strava activities
+on:
+  workflow_dispatch:
 jobs:
   update-strava-history:
     name: Only Update strava activities
