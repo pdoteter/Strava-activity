@@ -7,24 +7,26 @@ RUN apt-get update && apt-get install -y \
     unzip \
     nginx
 
-COPY --chmod=u+x bin/console bin/console
+ADD --chmod=u+x bin/console bin/console
 RUN dos2unix bin/console
 
 #schedule shell
-COPY --chmod=u+x cron.sh cron.sh
+ADD --chmod=u+x docker/cron.sh cron.sh
 RUN dos2unix cron.sh
 
-COPY src src
-COPY build build
+ADD src/** src
+ADD build/** build
 
-COPY composer.lock .
-COPY composer.json .
+ADD composer.lock .
+ADD composer.json .
 
-COPY docker-entrypoint.d /docker-entrypoint.d
-COPY docker-entrypoint.sh /docker-entrypoint.sh
+ADD --chmod=u+x docker/docker-entrypoint.d /docker-entrypoint.d
+ADD --chmod=u+x docker/docker-entrypoint.sh /usr/local/bin/
+#RUN dos2unix /usr/local/bin/docker-entrypoint.sh
+#RUN dos2unix /docker-entrypoint.d/*
 
 # webserver config
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 
 COPY --from=composer /usr/bin/composer /usr/bin/composer
 
