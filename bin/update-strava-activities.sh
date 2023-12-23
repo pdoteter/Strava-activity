@@ -75,8 +75,8 @@ bin/console app:strava:build-files
 bin/console app:strava:vacuum
 
 # Generate charts
-npm ci
-node echart.js
+#npm ci
+#node echart.js
 
 # Push changes
 git add .
