@@ -5,6 +5,7 @@ FROM php:8.2.0-cli
 RUN apt-get update && apt-get install -y \
 #    dos2unix \
     unzip \
+    cron \
     nginx
 
 ADD --chmod=u+x bin/console bin/console
@@ -28,11 +29,15 @@ ADD --chmod=u+x docker/docker-entrypoint.sh /usr/local/bin/
 # webserver config
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 
+# php composer
 COPY --from=composer /usr/bin/composer /usr/bin/composer
 
 ENV COMPOSER_ALLOW_SUPERUSER 1
 
 RUN composer install --prefer-dist
+
+# Add Schedule for automatic updates
+RUN echo '30 1 * * * root /cron.sh' >> /etc/crontab
 
 ENTRYPOINT [ "docker-entrypoint.sh" ]
 EXPOSE 80
