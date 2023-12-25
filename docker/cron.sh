@@ -10,11 +10,11 @@ if [ "$1" == "--only-template" ]; then
 fi
 
 # Update strava stats.
-bin/console app:strava:import-data
-bin/console app:strava:build-files
+#bin/console app:strava:import-data
+#bin/console app:strava:build-files
 
 # Vacuum database
-bin/console app:strava:vacuum
+#bin/console app:strava:vacuum
 
 # Generate charts
 npm ci
