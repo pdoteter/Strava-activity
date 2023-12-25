@@ -37,7 +37,8 @@ ENV COMPOSER_ALLOW_SUPERUSER 1
 RUN composer install --prefer-dist
 
 # Add Schedule for automatic updates
-RUN echo '30 1 * * * root /cron.sh' >> /etc/crontab
+RUN echo '30 1 * * * root /cron.sh' >> /etc/cron.d/strava
+RUN crontab -u root /etc/cron.d/strava
 
 ENTRYPOINT [ "docker-entrypoint.sh" ]
 EXPOSE 80
