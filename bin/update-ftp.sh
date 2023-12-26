@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+echo test
 set -e
 
 # Make sure database and migration directories exist
