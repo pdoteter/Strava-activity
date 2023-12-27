@@ -7,14 +7,22 @@ git clone https://github.com/robiningelbrecht/strava-activities-template.git --d
 mv -f strava-activities-template/.gitignore .gitignore
 mv -f strava-activities-template/bin/console bin/console
 mv -f strava-activities-template/bin/doctrine-migrations bin/doctrine-migrations
-rm -Rf config/* && mv -f strava-activities-template/config/* config/
-rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
-rm -Rf public/* && mv -f strava-activities-template/public/* public/
-rm -Rf src/* && mv -f strava-activities-template/src/* src/
-rm -Rf templates/* && mv -f strava-activities-template/templates/* templates/
+rm -Rf config/* && rmdir config 
+mkdir config && mv -f strava-activities-template/config/* config/
+rm -Rf migrations/* && rmdir migrations 
+mkdir migrations && mv -f strava-activities-template/migrations/* migrations/
+rm -Rf public/* && rmdir public 
+mkdir public && mv -f strava-activities-template/public/* public/
+rm -Rf src/* && rmdir src 
+mkdir src && mv -f strava-activities-template/src/* src/
+rm -Rf templates/* && rmdir templates 
+mkdir templates && mv -f strava-activities-template/templates/* templates/
 ## Build asset files
-rm -Rf build/html/echarts/* && mv -f strava-activities-template/build/html/echarts/* build/html/echarts/
-rm -Rf build/html/flowbite/* && mv -f strava-activities-template/build/html/flowbite/* build/html/flowbite/
+rm -Rf build/html/echarts/* && rmdir build/html/echarts 
+mkdir build/html/echarts && mv -f strava-activities-template/build/html/echarts/* build/html/echarts/
+rm -Rf build/html/flowbite/* && rmdir build/html/flowbite 
+mkdir build/html/flowbite && mv -f strava-activities-template/build/html/flowbite/* build/html/flowbite/
+rm -Rf build/html/leaflet/* && rmdir build/html/leaflet 
 mkdir -p build/html/leaflet && rm -Rf build/html/leaflet/* && mv -f strava-activities-template/build/html/leaflet/* build/html/leaflet/
 mv -f strava-activities-template/build/html/dark-mode-toggle.js build/html/dark-mode-toggle.js
 mv -f strava-activities-template/build/html/favicon.ico build/html/favicon.ico
