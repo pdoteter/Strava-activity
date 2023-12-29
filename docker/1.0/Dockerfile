@@ -2,7 +2,16 @@
 FROM php:8.2.0-cli
 
 #dependencies
-RUN apt-get update && apt-get install -y \
+#node.js V20
+RUN apt-get update
+RUN apt-get install -y ca-certificates curl gnupg
+RUN mkdir -p /etc/apt/keyrings
+RUN curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+RUN NODE_MAJOR=20
+RUN echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_$NODE_MAJOR.x nodistro main" | tee /etc/apt/sources.list.d/nodesource.list
+RUN apt-get update
+
+RUN apt-get install -y \
     dos2unix \
     unzip \
     cron \
@@ -11,6 +20,8 @@ RUN apt-get update && apt-get install -y \
     npm \
     nginx
 
+#Our app stuff
+WORKDIR /strava
 ADD src/** src
 ADD build/** build
 ADD echart.js .
@@ -26,7 +37,7 @@ ENV COMPOSER_ALLOW_SUPERUSER 1
 # will be run in cron.sh RUN composer install --prefer-dist
 
 # Add Schedule for automatic updates
-RUN echo '30 1 * * * root /cron.sh' >> /etc/cron.d/strava
+RUN echo '30 1 * * * root /strava/cron.sh' >> /etc/cron.d/strava
 RUN crontab -u root /etc/cron.d/strava
 
 ADD --chmod=u+x docker/cron.sh cron.sh
