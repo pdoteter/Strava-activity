@@ -11,6 +11,6 @@ The database folder should at least be mapped to a volume or local drive, so tha
 A docker componse file is created, run it like this:
 
 ```powershell
-docker compose -f .\docker\docker-compose.yml -p strava up -d
+docker compose -f .\docker\docker-compose.yml --env-file .\docker\.env.private -p strava up -d
 ```
 
