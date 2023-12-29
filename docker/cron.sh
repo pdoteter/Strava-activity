@@ -52,6 +52,18 @@ rm -Rf config/container_test.php
 # Delete template again.
 rm -Rf strava-activities-template
 
+#make .env
+rm .env
+echo ENVIRONMENT=dev >> .env
+echo DISPLAY_ERROR_DETAILS=1 >> .env
+echo LOG_ERRORS=0 >> .env
+echo LOG_ERROR_DETAILS=0 >> .env
+echo DATABASE_NAME="database/db.strava" >> .env
+echo REPOSITORY_NAME=localhost >> .env  #todo potential problem
+#should be done through docker run echo STRAVA_CLIENT_ID=${{ secrets.STRAVA_CLIENT_ID }} >> .env
+#should be done through docker run echo STRAVA_CLIENT_SECRET=${{ secrets.STRAVA_CLIENT_SECRET }} >> .env
+#should be done through docker run echo STRAVA_REFRESH_TOKEN=${{ secrets.STRAVA_REFRESH_TOKEN }} >> .env
+
 composer install --prefer-dist
 
 # Run migrations.
