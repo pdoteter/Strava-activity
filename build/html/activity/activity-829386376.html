@@ -1,180 +1,1377 @@
-
     <!-- Modal header -->
     <div class="z-[10000] sticky top-0 bg-white dark:bg-gray-700 flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
         <h3 class="max-w-[30%] sm:max-w-[50%] md:max-w-[100%] truncate text-lg font-semibold text-gray-900 dark:text-white">
-            <a class="hover:underline" href="https://www.strava.com/activities/829386376" rel="nofollow">Fietsen: Weg</a>
+            <a class="flex items-center gap-x-1 hover:underline" href="https://www.strava.com/activities/829386376" target="_blank"
+               rel="nofollow">
+                Fietsen: Weg
+                <svg class="w-2 h-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                     viewBox="0 0 18 18">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M15 11v4.833A1.166 1.166 0 0 1 13.833 17H2.167A1.167 1.167 0 0 1 1 15.833V4.167A1.166 1.166 0 0 1 2.167 3h4.618m4.447-2H17v5.768M9.111 8.889l7.778-7.778"/>
+                </svg>
+            </a>
         </h3>
         <span class="mx-1 text-xs font-normal text-gray-500 dark:text-gray-400">-</span>
         <span class="text-xs font-normal text-gray-500 dark:text-gray-400">
             09:16 on Saturday,
-            <a href="#" data-model-content-url="month/month-2008-03.html" class="hover:underline">March</a>
+            <a href="#" data-model-content-url="month/month-2008-03.html"
+               class="hover:underline">March</a>
              29, 2008
         </span>
-        <button type="button" class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
+        <button type="button"
+                class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
             <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
             </svg>
             <span class="sr-only">Close modal</span>
         </button>
     </div>
     <!-- Modal body -->
     <div class="p-4 md:p-5 space-y-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
-            <div>
-                <div class="mb-4 grid grid-cols-6 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
-                            <dt class="font-extrabold">91<span class="text-xs">km</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
-                            <dt class="font-extrabold">3:37:49</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
-                            <dt class="font-extrabold">171<span class="text-xs">m</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
-                            <dt class="font-extrabold">2639</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
-                            <dt class="text-xs font-extrabold">Other</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
-                            <dt class="text-xs font-extrabold">None</dt>
-                        </div>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+        <div>
+            <div class="mb-4 grid grid-cols-6 gap-2">
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
+                        <dt class="font-extrabold">91<span
+                                    class="text-xs">km</span></dt>
                     </div>
                 </div>
-                                                    <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
-                        Clear, 7.1 °C,
-                        Humidity 76%,
-                        Wind 27.4km/h from SW.
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
+                        <dt class="font-extrabold">3:37:49</dt>
                     </div>
-                                                <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
+                        <dt class="font-extrabold">171<span
+                                    class="text-xs">m</span></dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
+                        <dt class="font-extrabold">2639</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
+                        <dt class="text-xs font-extrabold">Other</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
+                        <dt class="text-xs font-extrabold">None</dt>
+                    </div>
+                </div>
+            </div>
+                                        <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
+                    Clear, 7.1 °C,
+                    Humidity 76%,
+                    Wind 27.4km/h from SW.
+                </div>
+                                    <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                    <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                    <tr>
+                        <th scope="col" class="px-2 py-2">
+
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Speed
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Heart rate
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Cadence
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Power
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr class="border-b dark:border-gray-600">
+                        <th class="px-2 py-2">
+                            Avg
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        25.1<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        160<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        n/a
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        181<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    <tr>
+                        <th class="px-2 py-2">
+                            Max
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        60.5<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        186<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        n/a
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        669<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+                            <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                     <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
                         <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                                                                        <tr>
+                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5s
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 1m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 20m
+                                    </th>
+                                                                                    </tr>
+                        </thead>
+                        <tbody>
                         <tr>
-                            <th scope="col" class="px-2 py-2">
+                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        635<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        8.12<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        514<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        6.57<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        335<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        4.28<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        277<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        3.54<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                    </tr>
+                        </tbody>
+                    </table>
+                </div>
+                    </div>
+                                <div class="h-[350px]" style="background-color:#bbbbb7"
+                 data-leaflet='{"routes":["_ggwHobo^kCgGhF`BcHdCj@|KtRbPhIhp@bPy@_UhWtJiInfB`Vr\\zq@bz@rSjh@x`@x\\|cA{Zf`@_Brn@fNl_@vGn}AnVp[iFx]aOdK~A`R`Wt]qHtUlNjb@vcAoAxJd\\xhAwjAfTNpI~Qh_@eq@pFwz@nHuN_TseA~Kq]yBqa@fOqa@rY`Q|QsHcGoX`I{j@uHuSxJoi@qRoi@hVcXwAid@dl@qPvS|Tl^hEvm@m~@fCf_@zVvXhZzz@nPgDlPzXvs@hfCf@d|@~P`kBh`AcHw@`WaZra@`A|i@~Lj`@{KrPlCrYeMd{@tEpz@_O~CcUqQuhAjnApBn|@yKrLfI`b@uAtt@hSbz@mUvvApg@|sCqSxV|Ins@m]`d@dLpY{SrQoYRyS}q@oZcDu\\d{ByKhOxYp}AumDueAid@ut@I_cAyFaQcWy]}LnIgFsKjJqnBi]aTwKwX_@}cAsIeb@hCg[cj@c`A{h@yAcPhnAcJtO{VsSmq@Pyh@}XuUrJsQon@c`AeSkOuNeTcq@sVgOHg[eW{]|KoYYahAan@_bCC_tD{QqgBByp@}OPqSum@db@ca@|p@qM_TexAnT{Z_Cc\\dYcL`H{Q{N|BqJ_s@}RsPdDcIeEo@dEn@"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
+            </div>
+            <div class="grid grid-cols-1 gap-4">
+            <div id="accordion-segments" data-accordion="collapse"
+                 data-active-classes="text-gray-900 dark:text-white"
+                 data-inactive-classes="text-gray-900 dark:text-white">
+                <a id="accordion-segments-heading" data-accordion-target="#accordion-segments-body" aria-expanded="false"
+                   aria-controls="accordion-segments-body"
+                   class="hover:underline cursor-pointer flex items-center gap-3 justify-between w-full px-2 py-3 font-medium rtl:text-right text-gray-900 dark:text-white">
+                    <span>Segments (54)</span>
+                    <svg data-accordion-icon class="w-3 h-3 shrink-0" aria-hidden="true"
+                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M9 5 5 1 1 5"/>
+                    </svg>
+                </a>
+                <div id="accordion-segments-body" class="hidden relative overflow-x-auto"
+                     aria-labelledby="accordion-segments-heading">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-800 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-3 text-left">
 
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Speed
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M12 8V12L15 15" stroke="#F26722" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="9" stroke="#F26722" stroke-width="2"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Heart rate
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M6.34315 17.6569C5.22433 16.538 4.4624 15.1126 4.15372 13.5607C3.84504 12.0089 4.00346 10.4003 4.60896 8.93853C5.21446 7.47672 6.23984 6.22729 7.55544 5.34824C8.87103 4.46919 10.4177 4 12 4C13.5823 4 15.129 4.46919 16.4446 5.34824C17.7602 6.22729 18.7855 7.47672 19.391 8.93853C19.9965 10.4003 20.155 12.0089 19.8463 13.5607C19.5376 15.1126 18.7757 16.538 17.6569 17.6569" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12L16 10" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Cadence
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><polygon fill="none" stroke="#F26722" stroke-width="2" stroke-miterlimit="10" points="8.29 1.71 18.5 1.71 13.86 9.14 17.57 9.14 7.36 20.29 9.21 12.86 5.5 12.86 8.29 1.71"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Power
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="3" stroke="#F26722" fill="none"><path d="M17.94,54.81a.1.1,0,0,1-.14,0c-1-1.11-11.69-13.23-11.69-21.26,0-9.94,6.5-12.24,11.76-12.24,4.84,0,11.06,2.6,11.06,12.24C28.93,41.84,18.87,53.72,17.94,54.81Z"/><circle cx="17.52" cy="31.38" r="4.75"/><path d="M49.58,34.77a.11.11,0,0,1-.15,0c-.87-1-9.19-10.45-9.19-16.74,0-7.84,5.12-9.65,9.27-9.65,3.81,0,8.71,2,8.71,9.65C58.22,24.52,50.4,33.81,49.58,34.77Z"/><circle cx="49.23" cy="17.32" r="3.75"/><path d="M17.87,54.89a28.73,28.73,0,0,0,3.9.89"/><path d="M24.68,56.07c2.79.12,5.85-.28,7.9-2.08,5.8-5.09,2.89-11.25,6.75-14.71a16.72,16.72,0,0,1,4.93-3" stroke-dasharray="7.8 2.92"/><path d="M45.63,35.8a23,23,0,0,1,3.88-.95"/></svg>
+                                </div>
                             </th>
                         </tr>
                         </thead>
                         <tbody>
-                        <tr class="border-b dark:border-gray-600">
-                            <th class="px-2 py-2">
-                                Avg
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    25.1<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    160<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                n/a
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    181<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        <tr>
-                            <th class="px-2 py-2">
-                                Max
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    60.5<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    186<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                n/a
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    669<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        </tbody>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-3748066.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Brug Hoolst</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    31s
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            217<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.24<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9688680.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">sprint waterhoekje</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    21s
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            417<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.16<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23449550.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Waterhoek naar Rustpunt</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:12
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            360<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.71<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4560484.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Toriaweg Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:38
+                                </td>
+                                <td class="px-2 py-2">
+                                    23.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            173<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.63<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7809712.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">edeldemdijk</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:30
+                                </td>
+                                <td class="px-2 py-2">
+                                    25.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            104<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.64<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7501971.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">klim bij omleiding</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    24s
+                                </td>
+                                <td class="px-2 py-2">
+                                    28.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            296<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.19<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7954353.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Kiezel</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:09
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            421<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.47<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28592999.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">groenpoort knalle</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:22
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            241<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.04<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-34535179.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Paal-Vleugt</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    10:50
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            269<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.91<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-17104985.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rothstraat</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            242<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.15<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4984078.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Schellekensberg</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:08
+                                </td>
+                                <td class="px-2 py-2">
+                                    22.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            405<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.41<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8437848.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">kelberg dh</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            11<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.66<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32754635.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Kerkstraat helling</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:19
+                                </td>
+                                <td class="px-2 py-2">
+                                    25.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            535<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.56<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-17707874.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint naar Rodeberg</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:48
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            275<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.74<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22554460.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Vennestraat O-W</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:34
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            143<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.12<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-3576519.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Dassenaarde</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:50
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            109<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.77<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-6832980.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">asdonk all the way</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:46
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            149<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.77<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-17840182.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">korte asdonk</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    54s
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            182<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.37<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19438356.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Brabantsebaan helling</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:03
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            244<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.46<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-30666993.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Weefbergstraat omgekeerd</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    42s
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            215<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.31<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28167810.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Langen eiken reverse</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:57
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            235<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.79<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21835345.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Stokheide</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:41
+                                </td>
+                                <td class="px-2 py-2">
+                                    25.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            63<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.72<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22678859.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Veelsebaan Z-N</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:08
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            54<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.93<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22678871.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bleidenhoek O-W</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            464<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.19<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-20188067.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">🇧🇪 ▲ Kapittelberg</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:18
+                                </td>
+                                <td class="px-2 py-2">
+                                    28.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            229<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.61<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-11727427.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Kapittelberg short</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    47s
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            271<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.35<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22678890.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Drie Eikenstraat Z-N tot veerlepad</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:34
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            180<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.77<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-2977747.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Drie Eikenstraat richting bergom</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            140<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.61<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7973793.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Citroen Herselt -> Bergom</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:33
+                                </td>
+                                <td class="px-2 py-2">
+                                    32.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            104<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.04<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7736041.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Afdaling 3 Eiken</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:04
+                                </td>
+                                <td class="px-2 py-2">
+                                    36.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            18<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.65<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-11250629.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">korte klim 3 eiken over naar oude baan</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    29s
+                                </td>
+                                <td class="px-2 py-2">
+                                    32.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            182<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.26<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14927486.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">sprint van in den draai tot einde baan</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:22
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            104<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.72<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7819726.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">oude baan, stijl en stenen</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    20s
+                                </td>
+                                <td class="px-2 py-2">
+                                    38.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            180<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.21<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19416393.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bergom => Varendonk</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:43
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            137<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.98<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-11459692.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Trichelhoek short W-O</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:04
+                                </td>
+                                <td class="px-2 py-2">
+                                    32.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            110<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.66<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14856433.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Trichelhoek - West naar Oost</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:38
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            108<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.95<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23137145.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Molenstraat-Oude Veerlebaan</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            86<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.31<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14340747.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Eindhoutseweg</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:34
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            317<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.78<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22873775.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">NEW oosterlo- stelen ( brug is steiler geworden )</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:30
+                                </td>
+                                <td class="px-2 py-2">
+                                    32.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            160<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.37<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8075080.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">brug E313</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    18s
+                                </td>
+                                <td class="px-2 py-2">
+                                    34.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            115<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.17<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-1854805.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Brug stelen Zuid</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:18
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            207<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.67<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4879973.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Wilders Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    58s
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            25<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.50<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-16045828.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">wilders</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:39
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            80<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.89<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4960625.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Het wereldkampioenschap lang</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:40
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            91<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.89<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4952094.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Het wereldkampioenschap</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    41s
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            58<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.34<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-5753733.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">hondstraat</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            94<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.25<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10595257.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint naast de Ring</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    32s
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            122<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.27<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15189445.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Malosewaver</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:38
+                                </td>
+                                <td class="px-2 py-2">
+                                    28.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            106<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.70<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14350726.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Malosewaver --> Oost</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    9:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    14.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            91<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.32<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-18815792.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Door Bel</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    11:30
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            102<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.12<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7904697.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint Bel</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    30s
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            135<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.16<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-22911463.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Volmolenbaan W->E</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            76<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.15<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15031502.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Brug Rosselaar-Hoolst</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:12
+                                </td>
+                                <td class="px-2 py-2">
+                                    23.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            455<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.46<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10928477.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">ramp olmensebaan</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3s
+                                </td>
+                                <td class="px-2 py-2">
+                                    64.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            33<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.05<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                </tbody>
                     </table>
                 </div>
-                                    <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
-                            <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
-                                                                                    <tr>
-                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5s
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 1m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 20m
-                                        </th>
-                                                                                                </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            635<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            8.12<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            514<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            6.57<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            335<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            4.28<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            277<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            3.54<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                            </div>
-                                            <div class="h-[350px]" style="background-color:#bbbbb7" data-leaflet='{"routes":["_ggwHobo^kCgGhF`BcHdCj@|KtRbPhIhp@bPy@_UhWtJiInfB`Vr\\zq@bz@rSjh@x`@x\\|cA{Zf`@_Brn@fNl_@vGn}AnVp[iFx]aOdK~A`R`Wt]qHtUlNjb@vcAoAxJd\\xhAwjAfTNpI~Qh_@eq@pFwz@nHuN_TseA~Kq]yBqa@fOqa@rY`Q|QsHcGoX`I{j@uHuSxJoi@qRoi@hVcXwAid@dl@qPvS|Tl^hEvm@m~@fCf_@zVvXhZzz@nPgDlPzXvs@hfCf@d|@~P`kBh`AcHw@`WaZra@`A|i@~Lj`@{KrPlCrYeMd{@tEpz@_O~CcUqQuhAjnApBn|@yKrLfI`b@uAtt@hSbz@mUvvApg@|sCqSxV|Ins@m]`d@dLpY{SrQoYRyS}q@oZcDu\\d{ByKhOxYp}AumDueAid@ut@I_cAyFaQcWy]}LnIgFsKjJqnBi]aTwKwX_@}cAsIeb@hCg[cj@c`A{h@yAcPhnAcJtO{VsSmq@Pyh@}XuUrJsQon@c`AeSkOuNeTcq@sVgOHg[eW{]|KoYYahAan@_bCC_tD{QqgBByp@}OPqSum@db@ca@|p@qM_TexAnT{Z_Cc\\dYcL`H{Q{N|BqJ_s@}RsPdDcIeEo@dEn@"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
-                    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            </div>
+        </div>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
                             <div>
                     <h3 class="font-bold mb-1 text-center">Power distribution</h3>
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[0,29,58,87,116,145,174,203,232,261,290,319,348,377,406,435,464,493,522,551,580,609,638,667,696,700],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":16.007403490216817},"series":[{"data":[13.339502908514014,6.240084611316764,12.704918032786885,9.875727128503438,8.857747223691169,6.4648334214701215,6.71602326811211,5.790586991010048,3.4637757800105766,6.398730830248546,5.037017451084083,4.058699101004759,3.305129561078794,2.60444209413009,1.189846641988366,1.4410364886303544,0.819672131147541,0.48915917503966155,0.15864621893178213,0.5288207297726071,0.3040719196192491,0.10576414595452141,0.052882072977260705,0.052882072977260705,0,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbolSize":45,"symbol":"roundRect","itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":181,"coord":[6,14.406663141195136]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":6,"yAxis":0},{"xAxis":6,"yAxis":14.406663141195136}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"100%"}]],"silent":true}}]}'></div>
@@ -184,4 +1381,4 @@
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[60,65,70,75,80,85,90,95,100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,180,185,190,195,200],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":28.577472236911685},"series":[{"data":[0,0,0,0,0,0.026441036488630353,0.03966155473294553,0.06610259122157588,0.33051295610787945,0.6213643574828134,0.39661554732945536,0.14542570068746694,0.10576414595452141,0.1850872554204125,1.2823902696985723,2.4986779481755685,4.600740349021681,9.201480698043362,10.549973558963512,12.53305129561079,14.740877842411424,20.412480169222633,14.52934955050238,5.61872025383395,2.0491803278688523,0.06610259122157588,0,0,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbol":"path:\/\/M2 9.1371C2 14 6.01943 16.5914 8.96173 18.9109C10 19.7294 11 20.5 12 20.5C13 20.5 14 19.7294 15.0383 18.9109C17.9806 16.5914 22 14 22 9.1371C22 4.27416 16.4998 0.825464 12 5.50063C7.50016 0.825464 2 4.27416 2 9.1371Z","symbolSize":[55,48],"itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":160,"coord":[20,22.861977789529348]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":20,"yAxis":0},{"xAxis":20,"yAxis":22.861977789529348}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"21.785714285714%"}],[{"name":"Zone 1\n50% - 60%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#DF584A"},"x":"21.785714285714%"},{"x":"34.714285714286%"}],[{"name":"Zone 2\n60% - 70%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#D63522"},"x":"34.714285714286%"},{"x":"47.642857142857%"}],[{"name":"Zone 3\n70% - 80%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#BD2D22"},"x":"47.642857142857%"},{"x":"60.571428571429%"}],[{"name":"Zone 4\n80% - 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#942319"},"x":"60.571428571429%"},{"x":"73.5%"}],[{"name":"Zone 5\n> 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#6A1009"},"x":"73.5%"},[]]],"silent":true}}]}'></div>
                 </div>
                     </div>
-    </div>
+    

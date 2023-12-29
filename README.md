@@ -4,19 +4,19 @@
 </p>
 
 Since I began cycling `18 years and 5 months` ago on `02-01-2007`,
-I had `1258 cycling days`.<br />
-I recorded a total distance of `53 299 km`
+I had `1254 cycling days`.<br />
+I recorded a total distance of `53 140 km`
 (`1.33` trips around the world 🌍 and
-`0.139` trips to the moon 🌕),
-an elevation of `629 041 m`
-(`71.1` times Mount Everest 🏔)
-and a total time of `4mos 2w 2d 7h 39m` 🎉
+`0.138` trips to the moon 🌕),
+an elevation of `628 661 m`
+(`71.0` times Mount Everest 🏔)
+and a total time of `4mos 2w 2d 2h 30m` 🎉
 
 That's a daily average of `9 km`,
 a weekly average of `60 km` and a
-monthly average of `261 km` 🐣
+monthly average of `260 km` 🐣
 
-I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
+I burned `1351357 calories` doing so, that's about `5 005` pizza slices 🍕
 
 ---
 
@@ -53,8 +53,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <tr>
             <td>26-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10440344414" title="Kcal: 210 | Gear: Tacx Neo ">ROUVY - Valdresflye to Sjo...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Valdresflye to Sjodalsvatnet | Norway" title="ROUVY - Valdresflye to Sjodalsvatnet | Norway"/>
+<a href="https://www.strava.com/activities/10440344414" title="Kcal: 210 | Gear: Tacx Neo ">ROUVY - Valdresflye to Sjo...</a>
             </td>
             <td align="center">22 <sup><sub>km</sub></sup></td>
             <td align="center">80 <sup><sub>m</sub></sup></td>
@@ -66,8 +66,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <tr>
             <td>26-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10440118301" title="Kcal: 290 | Gear: Tacx Neo ">ROUVY - Atlantic Road | No...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Atlantic Road | Norway" title="ROUVY - Atlantic Road | Norway"/>
+<a href="https://www.strava.com/activities/10440118301" title="Kcal: 290 | Gear: Tacx Neo ">ROUVY - Atlantic Road | No...</a>
             </td>
             <td align="center">19 <sup><sub>km</sub></sup></td>
             <td align="center">120 <sup><sub>m</sub></sup></td>
@@ -79,8 +79,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <tr>
             <td>23-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10425665938" title="Kcal: 573 | Gear: Tacx Neo ">ROUVY - Zion National Park...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Zion National Park | USA" title="ROUVY - Zion National Park | USA"/>
+<a href="https://www.strava.com/activities/10425665938" title="Kcal: 573 | Gear: Tacx Neo ">ROUVY - Zion National Park...</a>
             </td>
             <td align="center">18 <sup><sub>km</sub></sup></td>
             <td align="center">548 <sup><sub>m</sub></sup></td>
@@ -92,8 +92,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <tr>
             <td>19-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10405328999" title="Kcal: 677 | Gear: Tacx Neo ">ROUVY - Around Mara Dam | ...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Around Mara Dam | Slovakia" title="ROUVY - Around Mara Dam | Slovakia"/>
+<a href="https://www.strava.com/activities/10405328999" title="Kcal: 677 | Gear: Tacx Neo ">ROUVY - Around Mara Dam | ...</a>
             </td>
             <td align="center">23 <sup><sub>km</sub></sup></td>
             <td align="center">615 <sup><sub>m</sub></sup></td>
@@ -105,8 +105,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <tr>
             <td>17-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10393805186" title="Kcal: 826 | Gear: Tacx Neo ">ROUVY - Panorama Route 2 |...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Panorama Route 2 | High Tatras | Slovakia" title="ROUVY - Panorama Route 2 | High Tatras | Slovakia"/>
+<a href="https://www.strava.com/activities/10393805186" title="Kcal: 826 | Gear: Tacx Neo ">ROUVY - Panorama Route 2 |...</a>
             </td>
             <td align="center">32 <sup><sub>km</sub></sup></td>
             <td align="center">735 <sup><sub>m</sub></sup></td>
@@ -132,8 +132,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>14-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10379873729" title="Kcal: 487 | Gear: Tacx Neo ">ROUVY - Through Moravian H...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Through Moravian Hills | Czech Tour | Stage 1" title="ROUVY - Through Moravian Hills | Czech Tour | Stage 1"/>
+<a href="https://www.strava.com/activities/10379873729" title="Kcal: 487 | Gear: Tacx Neo ">ROUVY - Through Moravian H...</a>
                 </td>
                 <td align="center">31 <sup><sub>km</sub></sup></td>
                 <td align="center">463 <sup><sub>m</sub></sup></td>
@@ -145,8 +145,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>12-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10369280368" title="Kcal: 616 | Gear: Tacx Neo ">ROUVY - Kralova Lehota | L...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Kralova Lehota | Low Tatras | Slovakia" title="ROUVY - Kralova Lehota | Low Tatras | Slovakia"/>
+<a href="https://www.strava.com/activities/10369280368" title="Kcal: 616 | Gear: Tacx Neo ">ROUVY - Kralova Lehota | L...</a>
                 </td>
                 <td align="center">18 <sup><sub>km</sub></sup></td>
                 <td align="center">580 <sup><sub>m</sub></sup></td>
@@ -158,8 +158,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>10-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10357843621" title="Kcal: 753 | Gear: Tacx Neo ">ROUVY - Panorama Route 1 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Panorama Route 1 | High Tatras | Slovakia" title="ROUVY - Panorama Route 1 | High Tatras | Slovakia"/>
+<a href="https://www.strava.com/activities/10357843621" title="Kcal: 753 | Gear: Tacx Neo ">ROUVY - Panorama Route 1 |...</a>
                 </td>
                 <td align="center">33 <sup><sub>km</sub></sup></td>
                 <td align="center">640 <sup><sub>m</sub></sup></td>
@@ -171,8 +171,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>07-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10343598574" title="Kcal: 551 | Gear: Tacx Neo ">ROUVY - Demanovska Valley ...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Demanovska Valley | Low Tatras | Slovakia" title="ROUVY - Demanovska Valley | Low Tatras | Slovakia"/>
+<a href="https://www.strava.com/activities/10343598574" title="Kcal: 551 | Gear: Tacx Neo ">ROUVY - Demanovska Valley ...</a>
                 </td>
                 <td align="center">14 <sup><sub>km</sub></sup></td>
                 <td align="center">548 <sup><sub>m</sub></sup></td>
@@ -184,8 +184,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>05-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10332904831" title="Kcal: 495 | Gear: Tacx Neo ">ROUVY - Arthur's Pass Nati...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Arthur&#039;s Pass National Park | New Zealand" title="ROUVY - Arthur&#039;s Pass National Park | New Zealand"/>
+<a href="https://www.strava.com/activities/10332904831" title="Kcal: 495 | Gear: Tacx Neo ">ROUVY - Arthur&#039;s Pass Nati...</a>
                 </td>
                 <td align="center">21 <sup><sub>km</sub></sup></td>
                 <td align="center">401 <sup><sub>m</sub></sup></td>
@@ -197,8 +197,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>03-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10321137116" title="Kcal: 831 | Gear: Tacx Neo ">ROUVY - Three Valley Lake ...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Three Valley Lake from Sicamous | Canada" title="ROUVY - Three Valley Lake from Sicamous | Canada"/>
+<a href="https://www.strava.com/activities/10321137116" title="Kcal: 831 | Gear: Tacx Neo ">ROUVY - Three Valley Lake ...</a>
                 </td>
                 <td align="center">49 <sup><sub>km</sub></sup></td>
                 <td align="center">329 <sup><sub>m</sub></sup></td>
@@ -210,8 +210,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>30-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10306851472" title="Kcal: 428 | Gear: Tacx Neo ">ROUVY - Biggesee | Germany</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Biggesee | Germany" title="ROUVY - Biggesee | Germany"/>
+<a href="https://www.strava.com/activities/10306851472" title="Kcal: 428 | Gear: Tacx Neo ">ROUVY - Biggesee | Germany</a>
                 </td>
                 <td align="center">27 <sup><sub>km</sub></sup></td>
                 <td align="center">276 <sup><sub>m</sub></sup></td>
@@ -223,8 +223,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>20-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10251798166" title="Kcal: 404 | Gear: Tacx Neo ">ROUVY - Challenge Canberra...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Canberra | Australia 20 km" title="ROUVY - Challenge Canberra | Australia 20 km"/>
+<a href="https://www.strava.com/activities/10251798166" title="Kcal: 404 | Gear: Tacx Neo ">ROUVY - Challenge Canberra...</a>
                 </td>
                 <td align="center">21 <sup><sub>km</sub></sup></td>
                 <td align="center">314 <sup><sub>m</sub></sup></td>
@@ -236,8 +236,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>16-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10229400306" title="Kcal: 179 | Gear: Tacx Neo ">ROUVY - Along the North Sa...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Along the North Saskatchewan River | Canada" title="ROUVY - Along the North Saskatchewan River | Canada"/>
+<a href="https://www.strava.com/activities/10229400306" title="Kcal: 179 | Gear: Tacx Neo ">ROUVY - Along the North Sa...</a>
                 </td>
                 <td align="center">12 <sup><sub>km</sub></sup></td>
                 <td align="center">93 <sup><sub>m</sub></sup></td>
@@ -249,8 +249,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>16-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10229281385" title="Kcal: 299 | Gear: Tacx Neo ">ROUVY - Valley of Yoho Nat...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Valley of Yoho National Park | Canada" title="ROUVY - Valley of Yoho National Park | Canada"/>
+<a href="https://www.strava.com/activities/10229281385" title="Kcal: 299 | Gear: Tacx Neo ">ROUVY - Valley of Yoho Nat...</a>
                 </td>
                 <td align="center">17 <sup><sub>km</sub></sup></td>
                 <td align="center">179 <sup><sub>m</sub></sup></td>
@@ -262,8 +262,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>14-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10217587901" title="Kcal: 353 | Gear: Tacx Neo ">ROUVY - Three Valley Lake ...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Three Valley Lake to Revelstoke | Canada" title="ROUVY - Three Valley Lake to Revelstoke | Canada"/>
+<a href="https://www.strava.com/activities/10217587901" title="Kcal: 353 | Gear: Tacx Neo ">ROUVY - Three Valley Lake ...</a>
                 </td>
                 <td align="center">23 <sup><sub>km</sub></sup></td>
                 <td align="center">155 <sup><sub>m</sub></sup></td>
@@ -275,8 +275,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>12-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10204590126" title="Kcal: 374 | Gear: Tacx Neo ">ROUVY - Along the Okanagan...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Along the Okanagan Lake | Canada" title="ROUVY - Along the Okanagan Lake | Canada"/>
+<a href="https://www.strava.com/activities/10204590126" title="Kcal: 374 | Gear: Tacx Neo ">ROUVY - Along the Okanagan...</a>
                 </td>
                 <td align="center">18 <sup><sub>km</sub></sup></td>
                 <td align="center">251 <sup><sub>m</sub></sup></td>
@@ -288,8 +288,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>12-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10204230023" title="Kcal: 159 | Gear: Tacx Neo ">ROUVY - Lake Minnewanka to...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Lake Minnewanka to Banff Village | Canada" title="ROUVY - Lake Minnewanka to Banff Village | Canada"/>
+<a href="https://www.strava.com/activities/10204230023" title="Kcal: 159 | Gear: Tacx Neo ">ROUVY - Lake Minnewanka to...</a>
                 </td>
                 <td align="center">10 <sup><sub>km</sub></sup></td>
                 <td align="center">75 <sup><sub>m</sub></sup></td>
@@ -301,8 +301,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>07-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10177403978" title="Kcal: 552 | Gear: Tacx Neo ">ROUVY - Lavender fields in...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Lavender fields in Provence | France" title="ROUVY - Lavender fields in Provence | France"/>
+<a href="https://www.strava.com/activities/10177403978" title="Kcal: 552 | Gear: Tacx Neo ">ROUVY - Lavender fields in...</a>
                 </td>
                 <td align="center">34 <sup><sub>km</sub></sup></td>
                 <td align="center">281 <sup><sub>m</sub></sup></td>
@@ -314,8 +314,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>29-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10123915600" title="Kcal: 145 | Gear: Tacx Neo ">ROUVY - West Coast Nationa...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - West Coast National Park | South Africa" title="ROUVY - West Coast National Park | South Africa"/>
+<a href="https://www.strava.com/activities/10123915600" title="Kcal: 145 | Gear: Tacx Neo ">ROUVY - West Coast Nationa...</a>
                 </td>
                 <td align="center">8 <sup><sub>km</sub></sup></td>
                 <td align="center">123 <sup><sub>m</sub></sup></td>
@@ -327,8 +327,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>29-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10123726786" title="Kcal: 421 | Gear: Tacx Neo ">ROUVY - High Alpine Road |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - High Alpine Road | Bruck to Ferleiten | Austria" title="ROUVY - High Alpine Road | Bruck to Ferleiten | Austria"/>
+<a href="https://www.strava.com/activities/10123726786" title="Kcal: 421 | Gear: Tacx Neo ">ROUVY - High Alpine Road |...</a>
                 </td>
                 <td align="center">13 <sup><sub>km</sub></sup></td>
                 <td align="center">371 <sup><sub>m</sub></sup></td>
@@ -340,8 +340,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>24-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10096677515" title="Kcal: 51 | Gear: Tacx Neo ">ROUVY - High Alpine Road |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - High Alpine Road | Bruck to Ferleiten | Austria" title="ROUVY - High Alpine Road | Bruck to Ferleiten | Austria"/>
+<a href="https://www.strava.com/activities/10096677515" title="Kcal: 51 | Gear: Tacx Neo ">ROUVY - High Alpine Road |...</a>
                 </td>
                 <td align="center">3 <sup><sub>km</sub></sup></td>
                 <td align="center">37 <sup><sub>m</sub></sup></td>
@@ -353,8 +353,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>24-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10096616987" title="Kcal: 297 | Gear: Tacx Neo ">ROUVY - Devils Tower Natio...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Devils Tower National Monument | Wyoming | USA" title="ROUVY - Devils Tower National Monument | Wyoming | USA"/>
+<a href="https://www.strava.com/activities/10096616987" title="Kcal: 297 | Gear: Tacx Neo ">ROUVY - Devils Tower Natio...</a>
                 </td>
                 <td align="center">15 <sup><sub>km</sub></sup></td>
                 <td align="center">244 <sup><sub>m</sub></sup></td>
@@ -366,8 +366,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>14-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10037541921" title="Kcal: 405 | Gear: Tacx Neo ">ROUVY - Colorado River | U...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Colorado River | UTAH | USA" title="ROUVY - Colorado River | UTAH | USA"/>
+<a href="https://www.strava.com/activities/10037541921" title="Kcal: 405 | Gear: Tacx Neo ">ROUVY - Colorado River | U...</a>
                 </td>
                 <td align="center">31 <sup><sub>km</sub></sup></td>
                 <td align="center">153 <sup><sub>m</sub></sup></td>
@@ -379,8 +379,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>13-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10031184594" title="Kcal: 42 | Gear: Tacx Neo ">ROUVY - ROUVY Tutorial ride</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - ROUVY Tutorial ride" title="ROUVY - ROUVY Tutorial ride"/>
+<a href="https://www.strava.com/activities/10031184594" title="Kcal: 42 | Gear: Tacx Neo ">ROUVY - ROUVY Tutorial ride</a>
                 </td>
                 <td align="center">3 <sup><sub>km</sub></sup></td>
                 <td align="center">20 <sup><sub>m</sub></sup></td>
@@ -392,8 +392,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>07-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9993028435" title="Kcal: 2717 | Gear: YT Szepter ">🌧 Maasmechelen, Vlaanderen...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌧 Maasmechelen, Vlaanderen - Morning Gravel Ride" title="🌧 Maasmechelen, Vlaanderen - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/9993028435" title="Kcal: 2717 | Gear: YT Szepter ">🌧 Maasmechelen, Vlaanderen...</a>
                 </td>
                 <td align="center">94 <sup><sub>km</sub></sup></td>
                 <td align="center">509 <sup><sub>m</sub></sup></td>
@@ -405,8 +405,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>01-10-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9958644119" title="Kcal: 1127 | Gear: Stumpie ">☀️ Herentals, Vlaanderen -...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Herentals, Vlaanderen - Afternoon Mountain Bike Ride" title="☀️ Herentals, Vlaanderen - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9958644119" title="Kcal: 1127 | Gear: Stumpie ">☀️ Herentals, Vlaanderen -...</a>
                 </td>
                 <td align="center">34 <sup><sub>km</sub></sup></td>
                 <td align="center">217 <sup><sub>m</sub></sup></td>
@@ -418,8 +418,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>28-09-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9937923689" title="Kcal: 1101 | Gear: Litespeed T5G ">⛅ Sint-Pieters-Woluwe, Bru...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Sint-Pieters-Woluwe, Brussel - Afternoon Ride" title="⛅ Sint-Pieters-Woluwe, Brussel - Afternoon Ride"/>
+<a href="https://www.strava.com/activities/9937923689" title="Kcal: 1101 | Gear: Litespeed T5G ">⛅ Sint-Pieters-Woluwe, Bru...</a>
                 </td>
                 <td align="center">46 <sup><sub>km</sub></sup></td>
                 <td align="center">535 <sup><sub>m</sub></sup></td>
@@ -431,8 +431,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>24-09-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9910498448" title="Kcal: 1314 | Gear: YT Szepter ">☀️ Zoersel, Vlaanderen - M...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Zoersel, Vlaanderen - Morning Gravel Ride" title="☀️ Zoersel, Vlaanderen - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/9910498448" title="Kcal: 1314 | Gear: YT Szepter ">☀️ Zoersel, Vlaanderen - M...</a>
                 </td>
                 <td align="center">46 <sup><sub>km</sub></sup></td>
                 <td align="center">102 <sup><sub>m</sub></sup></td>
@@ -444,8 +444,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>07-09-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9801960528" title="Kcal: 1265 | Gear: YT Szepter ">⛅ Een boodschap met een de...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Een boodschap met een detour langs de Heimat" title="⛅ Een boodschap met een detour langs de Heimat"/>
+<a href="https://www.strava.com/activities/9801960528" title="Kcal: 1265 | Gear: YT Szepter ">⛅ Een boodschap met een de...</a>
                 </td>
                 <td align="center">54 <sup><sub>km</sub></sup></td>
                 <td align="center">147 <sup><sub>m</sub></sup></td>
@@ -457,8 +457,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>03-09-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9774140038" title="Kcal: 1818 | Gear: YT Szepter ">⛅ Gravel op de TT Poederlee</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Gravel op de TT Poederlee" title="⛅ Gravel op de TT Poederlee"/>
+<a href="https://www.strava.com/activities/9774140038" title="Kcal: 1818 | Gear: YT Szepter ">⛅ Gravel op de TT Poederlee</a>
                 </td>
                 <td align="center">61 <sup><sub>km</sub></sup></td>
                 <td align="center">122 <sup><sub>m</sub></sup></td>
@@ -470,8 +470,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>27-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9729997442" title="Kcal: 1482 | Gear: YT Szepter ">⛅ Zoersel, Vlaanderen - Mo...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Zoersel, Vlaanderen - Morning Gravel Ride" title="⛅ Zoersel, Vlaanderen - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/9729997442" title="Kcal: 1482 | Gear: YT Szepter ">⛅ Zoersel, Vlaanderen - Mo...</a>
                 </td>
                 <td align="center">53 <sup><sub>km</sub></sup></td>
                 <td align="center">72 <sup><sub>m</sub></sup></td>
@@ -483,8 +483,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>22-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9699500721" title="Kcal: 1359 | Gear: Stumpie ">⛅ Aarschot, Vlaanderen - A...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Aarschot, Vlaanderen - Afternoon Mountain Bike Ride" title="⛅ Aarschot, Vlaanderen - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9699500721" title="Kcal: 1359 | Gear: Stumpie ">⛅ Aarschot, Vlaanderen - A...</a>
                 </td>
                 <td align="center">39 <sup><sub>km</sub></sup></td>
                 <td align="center">498 <sup><sub>m</sub></sup></td>
@@ -496,8 +496,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>20-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9684999438" title="Kcal: 2714 | Gear: YT Szepter ">☀️ Sint-Katelijne-Waver, V...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Sint-Katelijne-Waver, Vlaanderen - Morning Gravel Ride" title="☀️ Sint-Katelijne-Waver, Vlaanderen - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/9684999438" title="Kcal: 2714 | Gear: YT Szepter ">☀️ Sint-Katelijne-Waver, V...</a>
                 </td>
                 <td align="center">100 <sup><sub>km</sub></sup></td>
                 <td align="center">185 <sup><sub>m</sub></sup></td>
@@ -509,8 +509,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>16-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9660205552" title="Kcal: 1164 | Gear: Stumpie ">⛅ Oud-Heverlee, Vlaanderen...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride" title="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9660205552" title="Kcal: 1164 | Gear: Stumpie ">⛅ Oud-Heverlee, Vlaanderen...</a>
                 </td>
                 <td align="center">32 <sup><sub>km</sub></sup></td>
                 <td align="center">454 <sup><sub>m</sub></sup></td>
@@ -522,8 +522,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>13-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9638991174" title="Kcal: 1273 | Gear: Stumpie ">⛅ Herentals, Vlaanderen - ...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Herentals, Vlaanderen - Lunch Mountain Bike Ride" title="⛅ Herentals, Vlaanderen - Lunch Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9638991174" title="Kcal: 1273 | Gear: Stumpie ">⛅ Herentals, Vlaanderen - ...</a>
                 </td>
                 <td align="center">35 <sup><sub>km</sub></sup></td>
                 <td align="center">297 <sup><sub>m</sub></sup></td>
@@ -535,8 +535,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>10-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9620781211" title="Kcal: 1264 | Gear: YT Szepter ">☀️ Sint-Pieters-Woluwe, Br...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Sint-Pieters-Woluwe, Brussel - Afternoon Gravel Ride" title="☀️ Sint-Pieters-Woluwe, Brussel - Afternoon Gravel Ride"/>
+<a href="https://www.strava.com/activities/9620781211" title="Kcal: 1264 | Gear: YT Szepter ">☀️ Sint-Pieters-Woluwe, Br...</a>
                 </td>
                 <td align="center">42 <sup><sub>km</sub></sup></td>
                 <td align="center">476 <sup><sub>m</sub></sup></td>
@@ -548,8 +548,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>08-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9607478485" title="Kcal: 1535 | Gear: YT Szepter ">⛅ Tervuren, Vlaanderen - A...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Tervuren, Vlaanderen - Afternoon Gravel Ride" title="⛅ Tervuren, Vlaanderen - Afternoon Gravel Ride"/>
+<a href="https://www.strava.com/activities/9607478485" title="Kcal: 1535 | Gear: YT Szepter ">⛅ Tervuren, Vlaanderen - A...</a>
                 </td>
                 <td align="center">49 <sup><sub>km</sub></sup></td>
                 <td align="center">632 <sup><sub>m</sub></sup></td>
@@ -561,8 +561,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>08-08-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9606452607" title="Kcal: 220 | Gear: YT Szepter ">⛅ Zaventem, Vlaanderen - A...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Zaventem, Vlaanderen - Afternoon Gravel Ride" title="⛅ Zaventem, Vlaanderen - Afternoon Gravel Ride"/>
+<a href="https://www.strava.com/activities/9606452607" title="Kcal: 220 | Gear: YT Szepter ">⛅ Zaventem, Vlaanderen - A...</a>
                 </td>
                 <td align="center">8 <sup><sub>km</sub></sup></td>
                 <td align="center">65 <sup><sub>m</sub></sup></td>
@@ -574,8 +574,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>30-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9548483629" title="Kcal: 1259 | Gear: Stumpie ">⛅ Grenspark perfecte condi...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Grenspark perfecte condities" title="⛅ Grenspark perfecte condities"/>
+<a href="https://www.strava.com/activities/9548483629" title="Kcal: 1259 | Gear: Stumpie ">⛅ Grenspark perfecte condi...</a>
                 </td>
                 <td align="center">35 <sup><sub>km</sub></sup></td>
                 <td align="center">174 <sup><sub>m</sub></sup></td>
@@ -587,8 +587,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>28-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9538005100" title="Kcal: 1296 | Gear: YT Szepter ">⛅ Mortsel, Vlaanderen - Af...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Mortsel, Vlaanderen - Afternoon Gravel Ride" title="⛅ Mortsel, Vlaanderen - Afternoon Gravel Ride"/>
+<a href="https://www.strava.com/activities/9538005100" title="Kcal: 1296 | Gear: YT Szepter ">⛅ Mortsel, Vlaanderen - Af...</a>
                 </td>
                 <td align="center">47 <sup><sub>km</sub></sup></td>
                 <td align="center">101 <sup><sub>m</sub></sup></td>
@@ -600,8 +600,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>18-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9475164227" title="Kcal: 2065 | Gear: Stumpie ">☀️ Bormio, Lombardia - Mor...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Bormio, Lombardia - Morning Mountain Bike Ride" title="☀️ Bormio, Lombardia - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9475164227" title="Kcal: 2065 | Gear: Stumpie ">☀️ Bormio, Lombardia - Mor...</a>
                 </td>
                 <td align="center">49 <sup><sub>km</sub></sup></td>
                 <td align="center">1 265 <sup><sub>m</sub></sup></td>
@@ -613,8 +613,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>17-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9468406737" title="Kcal: 2696 | Gear: Stumpie ">☀️ Livigno, Lombardia - Mo...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Livigno, Lombardia - Morning Mountain Bike Ride" title="☀️ Livigno, Lombardia - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9468406737" title="Kcal: 2696 | Gear: Stumpie ">☀️ Livigno, Lombardia - Mo...</a>
                 </td>
                 <td align="center">60 <sup><sub>km</sub></sup></td>
                 <td align="center">1 476 <sup><sub>m</sub></sup></td>
@@ -626,8 +626,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>16-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9462654978" title="Kcal: 2526 | Gear: Stumpie ">☀️ Tutti Frutti XL - Freeride</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Tutti Frutti XL - Freeride" title="☀️ Tutti Frutti XL - Freeride"/>
+<a href="https://www.strava.com/activities/9462654978" title="Kcal: 2526 | Gear: Stumpie ">☀️ Tutti Frutti XL - Freer...</a>
                 </td>
                 <td align="center">72 <sup><sub>km</sub></sup></td>
                 <td align="center">4 441 <sup><sub>m</sub></sup></td>
@@ -639,8 +639,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>15-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9456458962" title="Kcal: 3343 | Gear: Stumpie ">☀️ Livigno, Lombardia - Mo...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Livigno, Lombardia - Morning Mountain Bike Ride" title="☀️ Livigno, Lombardia - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9456458962" title="Kcal: 3343 | Gear: Stumpie ">☀️ Livigno, Lombardia - Mo...</a>
                 </td>
                 <td align="center">77 <sup><sub>km</sub></sup></td>
                 <td align="center">1 711 <sup><sub>m</sub></sup></td>
@@ -652,8 +652,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>14-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9450211209" title="Kcal: 2866 | Gear: Stumpie ">⛅ Livigno, Lombardia - Mor...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Livigno, Lombardia - Morning Mountain Bike Ride" title="⛅ Livigno, Lombardia - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9450211209" title="Kcal: 2866 | Gear: Stumpie ">⛅ Livigno, Lombardia - Mor...</a>
                 </td>
                 <td align="center">63 <sup><sub>km</sub></sup></td>
                 <td align="center">1 714 <sup><sub>m</sub></sup></td>
@@ -665,8 +665,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>13-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9443899619" title="Kcal: 2178 | Gear: Stumpie ">⛅ Livigno, Lombardia - Mor...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Livigno, Lombardia - Morning Mountain Bike Ride" title="⛅ Livigno, Lombardia - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9443899619" title="Kcal: 2178 | Gear: Stumpie ">⛅ Livigno, Lombardia - Mor...</a>
                 </td>
                 <td align="center">39 <sup><sub>km</sub></sup></td>
                 <td align="center">1 052 <sup><sub>m</sub></sup></td>
@@ -678,8 +678,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>12-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9438041720" title="Kcal: 1803 | Gear: Stumpie ">⛅ Livigno, Lombardia - Aft...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Livigno, Lombardia - Afternoon Mountain Bike Ride" title="⛅ Livigno, Lombardia - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9438041720" title="Kcal: 1803 | Gear: Stumpie ">⛅ Livigno, Lombardia - Aft...</a>
                 </td>
                 <td align="center">43 <sup><sub>km</sub></sup></td>
                 <td align="center">1 081 <sup><sub>m</sub></sup></td>
@@ -691,8 +691,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>08-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9411021675" title="Kcal: 1717 | Gear: Stumpie ">☀️ Maaseik, Vlaanderen - M...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Maaseik, Vlaanderen - Morning Mountain Bike Ride" title="☀️ Maaseik, Vlaanderen - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9411021675" title="Kcal: 1717 | Gear: Stumpie ">☀️ Maaseik, Vlaanderen - M...</a>
                 </td>
                 <td align="center">50 <sup><sub>km</sub></sup></td>
                 <td align="center">622 <sup><sub>m</sub></sup></td>
@@ -704,8 +704,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>02-07-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9374904385" title="Kcal: 3432 | Gear: YT Szepter ">⛅ Maasmechelen, Vlaanderen...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Maasmechelen, Vlaanderen - Morning Gravel Ride" title="⛅ Maasmechelen, Vlaanderen - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/9374904385" title="Kcal: 3432 | Gear: YT Szepter ">⛅ Maasmechelen, Vlaanderen...</a>
                 </td>
                 <td align="center">114 <sup><sub>km</sub></sup></td>
                 <td align="center">1 100 <sup><sub>m</sub></sup></td>
@@ -717,8 +717,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>30-06-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9363047139" title="Kcal: 1190 | Gear: Litespeed T5G ">☀️ Mortsel, Vlaanderen - A...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Mortsel, Vlaanderen - Afternoon Ride" title="☀️ Mortsel, Vlaanderen - Afternoon Ride"/>
+<a href="https://www.strava.com/activities/9363047139" title="Kcal: 1190 | Gear: Litespeed T5G ">☀️ Mortsel, Vlaanderen - A...</a>
                 </td>
                 <td align="center">49 <sup><sub>km</sub></sup></td>
                 <td align="center">157 <sup><sub>m</sub></sup></td>
@@ -730,8 +730,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>25-06-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9332639058" title="Kcal: 2835 | Gear: Stumpie ">☀️ Esneux, Wallonie - Morn...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Esneux, Wallonie - Morning Mountain Bike Ride" title="☀️ Esneux, Wallonie - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9332639058" title="Kcal: 2835 | Gear: Stumpie ">☀️ Esneux, Wallonie - Morn...</a>
                 </td>
                 <td align="center">65 <sup><sub>km</sub></sup></td>
                 <td align="center">1 725 <sup><sub>m</sub></sup></td>
@@ -743,8 +743,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>23-06-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9320313575" title="Kcal: 1320 | Gear: Stumpie ">⛅ Oud-Heverlee, Vlaanderen...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride" title="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/9320313575" title="Kcal: 1320 | Gear: Stumpie ">⛅ Oud-Heverlee, Vlaanderen...</a>
                 </td>
                 <td align="center">36 <sup><sub>km</sub></sup></td>
                 <td align="center">604 <sup><sub>m</sub></sup></td>
@@ -756,8 +756,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>21-06-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9308517153" title="Kcal: 1612 | Gear: YT Szepter ">☀️ Zaventem, Vlaanderen - ...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Zaventem, Vlaanderen - Afternoon Gravel Ride" title="☀️ Zaventem, Vlaanderen - Afternoon Gravel Ride"/>
+<a href="https://www.strava.com/activities/9308517153" title="Kcal: 1612 | Gear: YT Szepter ">☀️ Zaventem, Vlaanderen - ...</a>
                 </td>
                 <td align="center">55 <sup><sub>km</sub></sup></td>
                 <td align="center">584 <sup><sub>m</sub></sup></td>
@@ -769,8 +769,8 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
                     <tr>
                 <td>17-06-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/9282046291" title="Kcal: 2025 | Gear: YT Szepter ">⛅ Stabroek, Vlaanderen - s...</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Stabroek, Vlaanderen - stoffige Gravel Ride" title="⛅ Stabroek, Vlaanderen - stoffige Gravel Ride"/>
+<a href="https://www.strava.com/activities/9282046291" title="Kcal: 2025 | Gear: YT Szepter ">⛅ Stabroek, Vlaanderen - s...</a>
                 </td>
                 <td align="center">68 <sup><sub>km</sub></sup></td>
                 <td align="center">239 <sup><sub>m</sub></sup></td>
@@ -1903,10 +1903,10 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">March 2011</td>
-            <td align="center">6</td>
-            <td align="center">359 <sup><sub>km</sub></sup></td>
+            <td align="center">5</td>
+            <td align="center">309 <sup><sub>km</sub></sup></td>
             <td align="center">2 520 <sup><sub>m</sub></sup></td>
-            <td align="center">14h 34m</td>
+            <td align="center">12h 43m</td>
             <td align="center">0</td>
         </tr>
             <tr>
@@ -2039,10 +2039,10 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">May 2009</td>
-            <td align="center">12</td>
-            <td align="center">757 <sup><sub>km</sub></sup></td>
-            <td align="center">13 950 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 19h 48m</td>
+            <td align="center">11</td>
+            <td align="center">719 <sup><sub>km</sub></sup></td>
+            <td align="center">13 570 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 17h 54m</td>
             <td align="center">0</td>
         </tr>
             <tr>
@@ -2191,10 +2191,10 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">October 2007</td>
-            <td align="center">8</td>
-            <td align="center">367 <sup><sub>km</sub></sup></td>
+            <td align="center">7</td>
+            <td align="center">337 <sup><sub>km</sub></sup></td>
             <td align="center">6 117 <sup><sub>m</sub></sup></td>
-            <td align="center">22h 21m</td>
+            <td align="center">22h 20m</td>
             <td align="center">0</td>
         </tr>
             <tr>
@@ -2255,10 +2255,10 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">February 2007</td>
-            <td align="center">11</td>
-            <td align="center">103 <sup><sub>km</sub></sup></td>
+            <td align="center">10</td>
+            <td align="center">62 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">20h 44m</td>
+            <td align="center">19h 21m</td>
             <td align="center">0</td>
         </tr>
             <tr>
@@ -2271,26 +2271,26 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
         <tr>
         <td align="center"><b>Virtual/Indoor</b></td>
-        <td align="center"><b>405</td>
-        <td align="center"><b>9 597 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>403</td>
+        <td align="center"><b>9 526 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>95 400 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>2w 4d 9h</b></td>
+        <td align="center"><b>2w 4d 7h 36m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>932</td>
-        <td align="center"><b>43 703 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>533 641 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>3mos 3w 4d 22h 39m</b></td>
+        <td align="center"><b>930</td>
+        <td align="center"><b>43 614 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>533 261 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>3mos 3w 4d 18h 54m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>1337</td>
-        <td align="center"><b>53 299 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>629 041 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>4mos 2w 2d 7h 39m</b></td>
+        <td align="center"><b>1333</td>
+        <td align="center"><b>53 140 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>628 661 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>4mos 2w 2d 2h 30m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -2329,25 +2329,25 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Tuesday</td>
-            <td align="center">273</td>
+            <td align="center">272</td>
             <td align="center">
-                                    28 <sup><sub>km avg</sub></sup> /
-                    7 509 <sup><sub>km total</sub></sup>
+                                    27 <sup><sub>km avg</sub></sup> /
+                    7 459 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">83 107 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 3d 9h 41m</td>
-            <td align="center">18.0 <sup><sub>km/h</sub></sup></td>
+            <td align="center">2w 3d 7h 50m</td>
+            <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Wednesday</td>
-            <td align="center">44</td>
+            <td align="center">43</td>
             <td align="center">
                                     34 <sup><sub>km avg</sub></sup> /
-                    1 510 <sup><sub>km total</sub></sup>
+                    1 480 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">32 594 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 15h 54m</td>
-            <td align="center">13.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">4d 15h 53m</td>
+            <td align="center">13.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Thursday</td>
@@ -2373,24 +2373,24 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Saturday</td>
-            <td align="center">211</td>
+            <td align="center">210</td>
             <td align="center">
                                     59 <sup><sub>km avg</sub></sup> /
-                    12 450 <sup><sub>km total</sub></sup>
+                    12 409 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">125 961 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 13h 10m</td>
-            <td align="center">18.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">1mo 11h 47m</td>
+            <td align="center">18.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Sunday</td>
-            <td align="center">403</td>
+            <td align="center">402</td>
             <td align="center">
                                     46 <sup><sub>km avg</sub></sup> /
-                    18 356 <sup><sub>km total</sub></sup>
+                    18 317 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">185 798 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 2w 1d 5h 40m</td>
+            <td align="center">185 418 <sup><sub>m</sub></sup></td>
+            <td align="center">1mo 2w 1d 3h 46m</td>
             <td align="center">17.7 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
@@ -2448,14 +2448,14 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Night (23h - 6h)</td>
-            <td align="center">33</td>
+            <td align="center">29</td>
             <td align="center">
-                                    33 <sup><sub>km avg</sub></sup> /
-                    1 090 <sup><sub>km total</sub></sup>
+                                    32 <sup><sub>km avg</sub></sup> /
+                    930 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">380 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 21h 34m</td>
-            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 16h 25m</td>
+            <td align="center">23.0 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
@@ -2520,14 +2520,14 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Specialized Roubaix ☠️</td>
-            <td align="center">26</td>
+            <td align="center">25</td>
             <td align="center">
-                                    72 <sup><sub>km avg</sub></sup> /
-                    1 883 <sup><sub>km total</sub></sup>
+                                    73 <sup><sub>km avg</sub></sup> /
+                    1 830 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">29 095 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 15h 59m</td>
-            <td align="center">21.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">24 606 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 12h 40m</td>
+            <td align="center">21.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Cheetah Forpleasure</td>
@@ -2553,14 +2553,14 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Nicolai ☠️</td>
-            <td align="center">16</td>
+            <td align="center">17</td>
             <td align="center">
                                     48 <sup><sub>km avg</sub></sup> /
-                    769 <sup><sub>km total</sub></sup>
+                    821 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">4 323 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 22h 26m</td>
-            <td align="center">16.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">8 812 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 1h 45m</td>
+            <td align="center">16.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Huurfiets ☠️</td>
@@ -2586,13 +2586,13 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Other</td>
-            <td align="center">564</td>
+            <td align="center">560</td>
             <td align="center">
                                     48 <sup><sub>km avg</sub></sup> /
-                    27 088 <sup><sub>km total</sub></sup>
+                    26 929 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">325 036 <sup><sub>m</sub></sup></td>
-            <td align="center">2mos 1w 4d 14h</td>
+            <td align="center">324 656 <sup><sub>m</sub></sup></td>
+            <td align="center">2mos 1w 4d 8h 51m</td>
             <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
@@ -2611,7 +2611,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">1000 <sup><sub>w</sub></sup></td>
             <td align="center">12.79 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829377880">
                     Traingsrit
                 </a>
@@ -2622,7 +2622,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">1000 <sup><sub>w</sub></sup></td>
             <td align="center">12.79 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829377880">
                     Traingsrit
                 </a>
@@ -2633,7 +2633,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">1000 <sup><sub>w</sub></sup></td>
             <td align="center">12.79 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829377880">
                     Traingsrit
                 </a>
@@ -2644,7 +2644,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">890 <sup><sub>w</sub></sup></td>
             <td align="center">11.38 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829377880">
                     Traingsrit
                 </a>
@@ -2655,7 +2655,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">486 <sup><sub>w</sub></sup></td>
             <td align="center">6.21 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829389335">
                     Fietsen: Weg
                 </a>
@@ -2666,7 +2666,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">437 <sup><sub>w</sub></sup></td>
             <td align="center">5.59 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829389960">
                     Fietsen: Weg
                 </a>
@@ -2677,7 +2677,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">397 <sup><sub>w</sub></sup></td>
             <td align="center">5.08 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829389960">
                     Fietsen: Weg
                 </a>
@@ -2688,7 +2688,7 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
             <td align="center">299 <sup><sub>w</sub></sup></td>
             <td align="center">3.82 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/829380796">
                     Willy Van Nitsen Classic
                 </a>
@@ -2763,24 +2763,24 @@ I burned `1352156 calories` doing so, that's about `5 008` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">20 - 40 km</td>
-            <td align="center">498</td>
+            <td align="center">496</td>
             <td align="center">
-                                     30 <sup><sub>km avg</sub></sup> /
-                     14 700 <sup><sub>km total</sub></sup>
+                                     29 <sup><sub>km avg</sub></sup> /
+                     14 632 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">154 462 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 3d 11h 19m</td>
-            <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154 081 <sup><sub>m</sub></sup></td>
+            <td align="center">1mo 3d 9h 24m</td>
+            <td align="center">19.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">40 - 60 km</td>
-            <td align="center">296</td>
+            <td align="center">294</td>
             <td align="center">
                                      48 <sup><sub>km avg</sub></sup> /
-                     14 301 <sup><sub>km total</sub></sup>
+                     14 210 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">175 420 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 6d 13h 44m</td>
+            <td align="center">1mo 6d 10h 30m</td>
             <td align="center">17.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>

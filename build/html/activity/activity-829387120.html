@@ -1,180 +1,2193 @@
-
     <!-- Modal header -->
     <div class="z-[10000] sticky top-0 bg-white dark:bg-gray-700 flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
         <h3 class="max-w-[30%] sm:max-w-[50%] md:max-w-[100%] truncate text-lg font-semibold text-gray-900 dark:text-white">
-            <a class="hover:underline" href="https://www.strava.com/activities/829387120" rel="nofollow">Fietsen: Weg</a>
+            <a class="flex items-center gap-x-1 hover:underline" href="https://www.strava.com/activities/829387120" target="_blank"
+               rel="nofollow">
+                Fietsen: Weg
+                <svg class="w-2 h-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                     viewBox="0 0 18 18">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M15 11v4.833A1.166 1.166 0 0 1 13.833 17H2.167A1.167 1.167 0 0 1 1 15.833V4.167A1.166 1.166 0 0 1 2.167 3h4.618m4.447-2H17v5.768M9.111 8.889l7.778-7.778"/>
+                </svg>
+            </a>
         </h3>
         <span class="mx-1 text-xs font-normal text-gray-500 dark:text-gray-400">-</span>
         <span class="text-xs font-normal text-gray-500 dark:text-gray-400">
             10:03 on Saturday,
-            <a href="#" data-model-content-url="month/month-2008-03.html" class="hover:underline">March</a>
+            <a href="#" data-model-content-url="month/month-2008-03.html"
+               class="hover:underline">March</a>
              8, 2008
         </span>
-        <button type="button" class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
+        <button type="button"
+                class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
             <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
             </svg>
             <span class="sr-only">Close modal</span>
         </button>
     </div>
     <!-- Modal body -->
     <div class="p-4 md:p-5 space-y-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
-            <div>
-                <div class="mb-4 grid grid-cols-6 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
-                            <dt class="font-extrabold">119<span class="text-xs">km</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
-                            <dt class="font-extrabold">5:04:36</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
-                            <dt class="font-extrabold">1 285<span class="text-xs">m</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
-                            <dt class="font-extrabold">4767</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
-                            <dt class="text-xs font-extrabold">Other</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
-                            <dt class="text-xs font-extrabold">None</dt>
-                        </div>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+        <div>
+            <div class="mb-4 grid grid-cols-6 gap-2">
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
+                        <dt class="font-extrabold">119<span
+                                    class="text-xs">km</span></dt>
                     </div>
                 </div>
-                                                    <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
-                        Cloudy, 4.6 °C,
-                        Humidity 93%,
-                        Wind 14km/h from S.
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
+                        <dt class="font-extrabold">5:04:36</dt>
                     </div>
-                                                <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
+                        <dt class="font-extrabold">1 285<span
+                                    class="text-xs">m</span></dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
+                        <dt class="font-extrabold">4767</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
+                        <dt class="text-xs font-extrabold">Other</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
+                        <dt class="text-xs font-extrabold">None</dt>
+                    </div>
+                </div>
+            </div>
+                                        <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
+                    Cloudy, 4.6 °C,
+                    Humidity 93%,
+                    Wind 14km/h from S.
+                </div>
+                                    <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                    <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                    <tr>
+                        <th scope="col" class="px-2 py-2">
+
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Speed
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Heart rate
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Cadence
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Power
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr class="border-b dark:border-gray-600">
+                        <th class="px-2 py-2">
+                            Avg
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        23.4<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        150<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        n/a
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        234<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    <tr>
+                        <th class="px-2 py-2">
+                            Max
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        85.3<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        180<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        n/a
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        1000<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+                            <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                     <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
                         <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                                                                        <tr>
+                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5s
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 1m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 20m
+                                    </th>
+                                                                                    </tr>
+                        </thead>
+                        <tbody>
                         <tr>
-                            <th scope="col" class="px-2 py-2">
+                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        1000<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        12.79<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        595<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        7.61<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        475<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        6.07<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        335<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        4.28<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                    </tr>
+                        </tbody>
+                    </table>
+                </div>
+                    </div>
+                                <div class="h-[350px]" style="background-color:#bbbbb7"
+                 data-leaflet='{"routes":["{w}sHinh[gEqLxMgo@pTbg@vj@fYnQzY|YzyBhL]bWzn@xm@yDtTac@rWgJrH``@~g@~Pxp@xiAt{AjK|r@qX`k@u`Apu@eb@`Rfw@jPuVbDg\\h\\yMb]zq@hc@uIbF}JyAqb@eNm{@rMwYw@uj@hN}v@k_@uf@gHwZtXoOoFylA`xBkQvMla@~Wyg@tqApSvjAeTryAD_Q_~A_m@itAfdAdf@|}@WpRaZcZi|@vDmjAsJq|@wNvAjA`JcOkOvQggByV_cAhVnAtk@ne@rmAy^ip@}uA`MeWjAit@jiAmEviD_uDdv@}yBvMdIjFyKv[igDDcr@uvAoe@eSzs@wS|FqH|f@mSzOwNri@jAnWgUnp@l^~o@_Rpi@i\\zS_Lu_@s[zDqXph@mI~f@qj@`V_u@mYuP|RqKcf@tHw~AanAs`@~Agg@dRss@}Fmj@lIsYc`AtSysA_\\`GhIqQsTd]rq@aMmFzJbs@~a@tQ~OaNvN~Zbd@zxAtCjaAsHnIqGpfBzIrd@eXjOnRta@eWlzB}j@mDmJb`@Yhh@}c@fd@]n]zVdwA}Pvb@sgArDk^hm@sD_JkiApr@kn@a`BsFrMy`Ai\\sx@HqMhdAmC`kBur@jl@sPv\\md@[mKoSmb@qR{l@`CyPvc@vB`_@iI_JaVda@y]fbAoQnLmZl~Asr@`w@sFvSwoA_JsfA_l@qh@oIsWhYuQdAkMpo@vErK"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
+            </div>
+            <div class="grid grid-cols-1 gap-4">
+            <div id="accordion-segments" data-accordion="collapse"
+                 data-active-classes="text-gray-900 dark:text-white"
+                 data-inactive-classes="text-gray-900 dark:text-white">
+                <a id="accordion-segments-heading" data-accordion-target="#accordion-segments-body" aria-expanded="false"
+                   aria-controls="accordion-segments-body"
+                   class="hover:underline cursor-pointer flex items-center gap-3 justify-between w-full px-2 py-3 font-medium rtl:text-right text-gray-900 dark:text-white">
+                    <span>Segments (93)</span>
+                    <svg data-accordion-icon class="w-3 h-3 shrink-0" aria-hidden="true"
+                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M9 5 5 1 1 5"/>
+                    </svg>
+                </a>
+                <div id="accordion-segments-body" class="hidden relative overflow-x-auto"
+                     aria-labelledby="accordion-segments-heading">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-800 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-3 text-left">
 
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Speed
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M12 8V12L15 15" stroke="#F26722" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="9" stroke="#F26722" stroke-width="2"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Heart rate
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M6.34315 17.6569C5.22433 16.538 4.4624 15.1126 4.15372 13.5607C3.84504 12.0089 4.00346 10.4003 4.60896 8.93853C5.21446 7.47672 6.23984 6.22729 7.55544 5.34824C8.87103 4.46919 10.4177 4 12 4C13.5823 4 15.129 4.46919 16.4446 5.34824C17.7602 6.22729 18.7855 7.47672 19.391 8.93853C19.9965 10.4003 20.155 12.0089 19.8463 13.5607C19.5376 15.1126 18.7757 16.538 17.6569 17.6569" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12L16 10" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Cadence
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><polygon fill="none" stroke="#F26722" stroke-width="2" stroke-miterlimit="10" points="8.29 1.71 18.5 1.71 13.86 9.14 17.57 9.14 7.36 20.29 9.21 12.86 5.5 12.86 8.29 1.71"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Power
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="3" stroke="#F26722" fill="none"><path d="M17.94,54.81a.1.1,0,0,1-.14,0c-1-1.11-11.69-13.23-11.69-21.26,0-9.94,6.5-12.24,11.76-12.24,4.84,0,11.06,2.6,11.06,12.24C28.93,41.84,18.87,53.72,17.94,54.81Z"/><circle cx="17.52" cy="31.38" r="4.75"/><path d="M49.58,34.77a.11.11,0,0,1-.15,0c-.87-1-9.19-10.45-9.19-16.74,0-7.84,5.12-9.65,9.27-9.65,3.81,0,8.71,2,8.71,9.65C58.22,24.52,50.4,33.81,49.58,34.77Z"/><circle cx="49.23" cy="17.32" r="3.75"/><path d="M17.87,54.89a28.73,28.73,0,0,0,3.9.89"/><path d="M24.68,56.07c2.79.12,5.85-.28,7.9-2.08,5.8-5.09,2.89-11.25,6.75-14.71a16.72,16.72,0,0,1,4.93-3" stroke-dasharray="7.8 2.92"/><path d="M45.63,35.8a23,23,0,0,1,3.88-.95"/></svg>
+                                </div>
                             </th>
                         </tr>
                         </thead>
                         <tbody>
-                        <tr class="border-b dark:border-gray-600">
-                            <th class="px-2 py-2">
-                                Avg
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    23.4<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    150<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                n/a
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    234<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        <tr>
-                            <th class="px-2 py-2">
-                                Max
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    85.3<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    180<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                n/a
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    1000<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        </tbody>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-35236268.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bosse de la Chapelle</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            306<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.53<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-29074205.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de la Chapelle Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:07
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            344<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.75<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7332150.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">montée rue des 15 bonniers vers Villeroux</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:00
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            285<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.65<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9575311.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Boulette</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            352<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.67<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-11308875.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Punch climb Alphonse Minique </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    55s
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            357<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.34<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21523873.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">5km St Géry</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    13:20
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            318<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    4.79<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7150913.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Gentinnes vers Sombreffe</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:30
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            410<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.53<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-13433353.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue des communes (Altiaux)</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            369<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.96<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28267912.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Chaussée de Chastres</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    7:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            289<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.81<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-33717546.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">BCF - Mega Sprint des Bruyères</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            290<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.08<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8270418.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">WavCo long</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:32
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            360<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.46<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8362588.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">WavCo short</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    42s
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            313<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.23<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28404420.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue du Potriau </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    46s
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            140<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.35<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32415387.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">zig-zag</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:09
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            215<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.74<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14584131.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Boignée-Balâtre</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            105<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.81<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-17337451.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Saint-Martin vers Golf de Mazy</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    28.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            112<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.30<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-29070183.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Hold the Line</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:02
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            144<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.40<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-18901353.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Villeret vers N912</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    8:41
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            233<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.83<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19204114.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint bosse ONOZ vers SPY</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    56s
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            240<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.38<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14017248.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Onoz (Parc Containers) - Jemeppe (Police)</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:12
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            343<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.84<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8104004.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Route de Ham / Rue de la Gare / Rue Chaumont</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    7:42
+                                </td>
+                                <td class="px-2 py-2">
+                                    23.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            405<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.95<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8104063.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue Try du Bois / Rue du Longwez</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:20
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            88<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.16<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27408079.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Montée du Rabot</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    15.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            455<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.13<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-6954956.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Cote de Ham</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    10:43
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            432<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.96<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15930288.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">gaz</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:48
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            24<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.76<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24319702.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Robaux-Rond point</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:59
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            521<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.65<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-3832562.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de Sovimont</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:08
+                                </td>
+                                <td class="px-2 py-2">
+                                    10.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            520<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.69<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-25404661.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Descente vers place Buzet</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    30s
+                                </td>
+                                <td class="px-2 py-2">
+                                    36.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.30<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-2393498.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Le Piroi, Rue Royale</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:43
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            496<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.99<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-30228034.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Buzet -bois de la haute Marlagne</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:02
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            530<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.44<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-18106551.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rond point Bois de Villers - Rivière</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    10:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    33.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            103<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    6.08<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21253454.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Descente - 6 bras => Arbre</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:16
+                                </td>
+                                <td class="px-2 py-2">
+                                    36.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            135<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.20<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10649831.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Arbre - Rivière</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:24
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            70<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.75<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32524039.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Relance vers Burnot</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            84<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.55<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-34932512.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Ecole de Burnot</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            70<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.60<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-20342198.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">final Profondeville</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:02
+                                </td>
+                                <td class="px-2 py-2">
+                                    33.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            47<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.13<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9258305.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Ligne droit vers Profondeville</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:49
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            89<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.91<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27070468.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint Profondeville </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            98<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.55<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9079595.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bosse Village Profondeville</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:13
+                                </td>
+                                <td class="px-2 py-2">
+                                    23.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            139<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.47<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-6655061.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Route des Maures jusqu'au carrefour Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    9:26
+                                </td>
+                                <td class="px-2 py-2">
+                                    15.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            350<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.48<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10369399.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">côte mésange + ALFRED</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    12:30
+                                </td>
+                                <td class="px-2 py-2">
+                                    13.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            418<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.75<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27445780.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Double épingle UP </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:55
+                                </td>
+                                <td class="px-2 py-2">
+                                    15.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            378<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.76<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-25728158.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">mur Baratte entier</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:03
+                                </td>
+                                <td class="px-2 py-2">
+                                    9.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            515<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.67<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-12263664.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Mur de la Baratte </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    9.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            488<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.51<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-16263365.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Descente Vecquée jusqu'à Malonne</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    12:25
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            7<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.68<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28212175.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Malonne vers Namur partiel</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:55
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            384<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.57<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-13353741.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Chemin de Wépion</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:09
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            268<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.10<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-12217614.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">bergaf naar pairelle</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:04
+                                </td>
+                                <td class="px-2 py-2">
+                                    43.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            1<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.97<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-25990296.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">La Plante Quai de Meuse</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:09
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            69<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.37<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9446566.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Citadelle de Namur 1st part</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:47
+                                </td>
+                                <td class="px-2 py-2">
+                                    18.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            456<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.55<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-12226175.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Citadel départ</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    42s
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            354<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.23<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23429032.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Citadel --> avenue du milieu du monde</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    17:20
+                                </td>
+                                <td class="px-2 py-2">
+                                    10.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            399<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    3.10<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-16399648.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Route Merveilleuse (94 pts CC n°590)</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    7:22
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            476<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.01<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7308997.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Zig Zag</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    15.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            453<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.07<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-12248197.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Entre trois ponts </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:51
+                                </td>
+                                <td class="px-2 py-2">
+                                    13.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            434<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.41<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-9789597.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Final Citadelle</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    13.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            528<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.66<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27087900.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Terra Nova straight</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:23
+                                </td>
+                                <td class="px-2 py-2">
+                                    14.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            554<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.33<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-26024563.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Merveilleuse sprint </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:23
+                                </td>
+                                <td class="px-2 py-2">
+                                    13.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            496<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.32<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-14415646.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Casse pattes de Bel Air</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:12
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            525<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.33<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32594670.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Vecquée->navinne</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:21
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            465<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.56<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23680766.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">la Vecquée Sprint!!</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:14
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            467<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.56<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32608290.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Vecquée faux plat</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            451<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.51<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-13268483.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Navinne sprint</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:08
+                                </td>
+                                <td class="px-2 py-2">
+                                    23.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            389<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.44<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15779413.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Les Tris</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    33.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            95<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.99<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23468241.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">sprint Bransart</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:06
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            253<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.36<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10111949.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Downhill Try Malonne</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:14
+                                </td>
+                                <td class="px-2 py-2">
+                                    49.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.03<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24219021.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">N90 Court</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:33
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            260<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.03<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24693450.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Avenue De Gaule Court</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            218<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.66<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28619552.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Casse-pattes école de Floriffoux</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            270<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.32<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19294411.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Vieux Chêne - Chapelle Soye</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:20
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            275<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.25<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32593600.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">yop</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:35
+                                </td>
+                                <td class="px-2 py-2">
+                                    20.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            232<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.87<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-34268813.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">segment Basse Sambre</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    21.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            319<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.03<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19920464.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de la Basse Sambre Spy Final uphill</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    46s
+                                </td>
+                                <td class="px-2 py-2">
+                                    26.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            75<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.33<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27787130.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Soye-Spy 1e partie</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:34
+                                </td>
+                                <td class="px-2 py-2">
+                                    22.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            278<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.33<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24321966.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Climb Soye - Floreffe</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:54
+                                </td>
+                                <td class="px-2 py-2">
+                                    19.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            340<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.56<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-32683371.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">cote de soye 2eme partie </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            387<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.72<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-31296037.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">descente rue de floreffe</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    54s
+                                </td>
+                                <td class="px-2 py-2">
+                                    38.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.58<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27222684.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Saussin Intermarché-feux</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:41
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            147<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.24<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8469680.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">rue de Saucin</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:55
+                                </td>
+                                <td class="px-2 py-2">
+                                    24.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            172<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.78<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21392141.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de la Polissoire (Les Isnes -> Château Golz...</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    31.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            59<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.82<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15157601.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Montée croix rouge</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:38
+                                </td>
+                                <td class="px-2 py-2">
+                                    16.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            372<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.46<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21391970.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bossière -> Ferooz</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:11
+                                </td>
+                                <td class="px-2 py-2">
+                                    30.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            61<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.16<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-21392006.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Descente des Grands-Ha (Bossière -> Ferooz)</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:18
+                                </td>
+                                <td class="px-2 py-2">
+                                    40.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            2<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.88<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-34537391.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de Mazy version Xs</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:59
+                                </td>
+                                <td class="px-2 py-2">
+                                    15.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            388<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.50<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-11875235.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rue de Mazy version XL</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:18
+                                </td>
+                                <td class="px-2 py-2">
+                                    17.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            310<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.28<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-10930071.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Gembloux-Chastre par Cortil</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    13:02
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            95<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    5.96<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7037697.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Try des Rudes</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:33
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            84<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.63<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-7053545.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Commandant Chuillet</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    32s
+                                </td>
+                                <td class="px-2 py-2">
+                                    25.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            168<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.22<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-26433495.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Noirmont Chastre</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:28
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            132<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.60<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-29544208.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">sprint gaston delvaux </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:10
+                                </td>
+                                <td class="px-2 py-2">
+                                    29.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            139<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.06<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-35236243.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Tape-cul Gaston Delvaux</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    1:08
+                                </td>
+                                <td class="px-2 py-2">
+                                    27.7<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            211<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.52<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-12199395.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Sprint gare de Chastre</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    36s
+                                </td>
+                                <td class="px-2 py-2">
+                                    34.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            12<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.34<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-8792300.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">montée route provinciale</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    50s
+                                </td>
+                                <td class="px-2 py-2">
+                                    25.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            275<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.35<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                </tbody>
                     </table>
                 </div>
-                                    <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
-                            <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
-                                                                                    <tr>
-                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5s
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 1m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 20m
-                                        </th>
-                                                                                                </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            1000<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            12.79<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            595<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            7.61<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            475<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            6.07<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            335<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            4.28<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                            </div>
-                                            <div class="h-[350px]" style="background-color:#bbbbb7" data-leaflet='{"routes":["{w}sHinh[gEqLxMgo@pTbg@vj@fYnQzY|YzyBhL]bWzn@xm@yDtTac@rWgJrH``@~g@~Pxp@xiAt{AjK|r@qX`k@u`Apu@eb@`Rfw@jPuVbDg\\h\\yMb]zq@hc@uIbF}JyAqb@eNm{@rMwYw@uj@hN}v@k_@uf@gHwZtXoOoFylA`xBkQvMla@~Wyg@tqApSvjAeTryAD_Q_~A_m@itAfdAdf@|}@WpRaZcZi|@vDmjAsJq|@wNvAjA`JcOkOvQggByV_cAhVnAtk@ne@rmAy^ip@}uA`MeWjAit@jiAmEviD_uDdv@}yBvMdIjFyKv[igDDcr@uvAoe@eSzs@wS|FqH|f@mSzOwNri@jAnWgUnp@l^~o@_Rpi@i\\zS_Lu_@s[zDqXph@mI~f@qj@`V_u@mYuP|RqKcf@tHw~AanAs`@~Agg@dRss@}Fmj@lIsYc`AtSysA_\\`GhIqQsTd]rq@aMmFzJbs@~a@tQ~OaNvN~Zbd@zxAtCjaAsHnIqGpfBzIrd@eXjOnRta@eWlzB}j@mDmJb`@Yhh@}c@fd@]n]zVdwA}Pvb@sgArDk^hm@sD_JkiApr@kn@a`BsFrMy`Ai\\sx@HqMhdAmC`kBur@jl@sPv\\md@[mKoSmb@qR{l@`CyPvc@vB`_@iI_JaVda@y]fbAoQnLmZl~Asr@`w@sFvSwoA_JsfA_l@qh@oIsWhYuQdAkMpo@vErK"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
-                    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            </div>
+        </div>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
                             <div>
                     <h3 class="font-bold mb-1 text-center">Power distribution</h3>
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[0,41,82,123,164,205,246,287,328,369,410,451,492,533,574,615,656,697,738,779,820,861,902,943,984,1000],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":33.28590151656993},"series":[{"data":[27.738251263808277,5.785433439430818,5.719902639955064,4.7463021906010106,5.130125444673282,5.401610185358547,6.3471260063658494,8.069649878299943,6.553079947575361,7.199026399550645,5.673094926043812,3.257816888223179,3.136116832053922,2.742932035199401,1.3855083317730763,0.6272233664107845,0.15914622729825875,0,0,0.0655307994757536,0,0,0,0,0.2621231979030144,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbolSize":45,"symbol":"roundRect","itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":234,"coord":[5,29.957311364912936]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":5,"yAxis":0},{"xAxis":5,"yAxis":29.957311364912936}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"100%"}]],"silent":true}}]}'></div>
@@ -184,4 +2197,4 @@
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[60,65,70,75,80,85,90,95,100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,180,185,190,195,200],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":16.36959370904325},"series":[{"data":[0,0,0,0.08425388504025463,0.05616925669350308,0.08425388504025463,0.15914622729825875,0.09361542782250515,0.19659239842726078,0.6740310803220371,1.6382699868938402,2.527616551207639,3.005055233102415,4.240778880359483,6.983710915558884,8.55645010297697,8.91218872870249,10.35386631716907,11.336828309305373,11.692566935030893,9.033888784871746,9.960681520314548,6.609249204268863,3.744617112900206,0.05616925669350308,0,0,0,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbol":"path:\/\/M2 9.1371C2 14 6.01943 16.5914 8.96173 18.9109C10 19.7294 11 20.5 12 20.5C13 20.5 14 19.7294 15.0383 18.9109C17.9806 16.5914 22 14 22 9.1371C22 4.27416 16.4998 0.825464 12 5.50063C7.50016 0.825464 2 4.27416 2 9.1371Z","symbolSize":[55,48],"itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":150,"coord":[18,13.0956749672346]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":18,"yAxis":0},{"xAxis":18,"yAxis":13.0956749672346}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"21.785714285714%"}],[{"name":"Zone 1\n50% - 60%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#DF584A"},"x":"21.785714285714%"},{"x":"34.714285714286%"}],[{"name":"Zone 2\n60% - 70%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#D63522"},"x":"34.714285714286%"},{"x":"47.642857142857%"}],[{"name":"Zone 3\n70% - 80%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#BD2D22"},"x":"47.642857142857%"},{"x":"60.571428571429%"}],[{"name":"Zone 4\n80% - 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#942319"},"x":"60.571428571429%"},{"x":"73.5%"}],[{"name":"Zone 5\n> 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#6A1009"},"x":"73.5%"},[]]],"silent":true}}]}'></div>
                 </div>
                     </div>
-    </div>
+    

@@ -1,230 +1,727 @@
-
     <!-- Modal header -->
     <div class="z-[10000] sticky top-0 bg-white dark:bg-gray-700 flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
         <h3 class="max-w-[30%] sm:max-w-[50%] md:max-w-[100%] truncate text-lg font-semibold text-gray-900 dark:text-white">
-            <a class="hover:underline" href="https://www.strava.com/activities/7446981712" rel="nofollow">⛅ Alpbikers ritje naar de ☀️ aan de Bodensee</a>
+            <a class="flex items-center gap-x-1 hover:underline" href="https://www.strava.com/activities/7446981712" target="_blank"
+               rel="nofollow">
+                ⛅ Alpbikers ritje naar de ☀️ aan de Bodensee
+                <svg class="w-2 h-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                     viewBox="0 0 18 18">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M15 11v4.833A1.166 1.166 0 0 1 13.833 17H2.167A1.167 1.167 0 0 1 1 15.833V4.167A1.166 1.166 0 0 1 2.167 3h4.618m4.447-2H17v5.768M9.111 8.889l7.778-7.778"/>
+                </svg>
+            </a>
         </h3>
         <span class="mx-1 text-xs font-normal text-gray-500 dark:text-gray-400">-</span>
         <span class="text-xs font-normal text-gray-500 dark:text-gray-400">
             11:41 on Sunday,
-            <a href="#" data-model-content-url="month/month-2022-07.html" class="hover:underline">July</a>
+            <a href="#" data-model-content-url="month/month-2022-07.html"
+               class="hover:underline">July</a>
              10, 2022
         </span>
-        <button type="button" class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
+        <button type="button"
+                class="close text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white">
             <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
             </svg>
             <span class="sr-only">Close modal</span>
         </button>
     </div>
     <!-- Modal body -->
     <div class="p-4 md:p-5 space-y-4">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
-            <div>
-                <div class="mb-4 grid grid-cols-6 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
-                            <dt class="font-extrabold">47<span class="text-xs">km</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
-                            <dt class="font-extrabold">3:37:36</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
-                            <dt class="font-extrabold">1 188<span class="text-xs">m</span></dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
-                            <dt class="font-extrabold">1958</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
-                            <dt class="text-xs font-extrabold">Stumpie</dt>
-                        </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
-                            <dt class="text-xs font-extrabold">Garmin Edge 830</dt>
-                        </div>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+        <div>
+            <div class="mb-4 grid grid-cols-6 gap-2">
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
+                        <dt class="font-extrabold">47<span
+                                    class="text-xs">km</span></dt>
                     </div>
                 </div>
-                                                    <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
-                        Rainy, 16.7 °C,
-                        Humidity 78%,
-                        Wind 9.6km/h from NW.
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
+                        <dt class="font-extrabold">3:37:36</dt>
                     </div>
-                                                    <div class="mb-4 grid grid-cols-4 gap-2">
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-1" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/f1847903-cf24-4fc8-a842-c1e3592982e1.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-1" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/f1847903-cf24-4fc8-a842-c1e3592982e1.jpg"  alt="Activity image" />
-                            </div>
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-2" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/d4e790c4-4cfa-468d-bf0f-ed0ec3d52178.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-2" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/d4e790c4-4cfa-468d-bf0f-ed0ec3d52178.jpg"  alt="Activity image" />
-                            </div>
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-3" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/3921e83b-ee99-4b7a-a9aa-3935003df25a.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-3" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/3921e83b-ee99-4b7a-a9aa-3935003df25a.jpg"  alt="Activity image" />
-                            </div>
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-4" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/4bd22afb-f087-42b0-9cf3-fb956dadfab3.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-4" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/4bd22afb-f087-42b0-9cf3-fb956dadfab3.jpg"  alt="Activity image" />
-                            </div>
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-5" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/93cf198b-7b0e-4c0f-bcf0-d6a1a7a89f86.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-5" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/93cf198b-7b0e-4c0f-bcf0-d6a1a7a89f86.jpg"  alt="Activity image" />
-                            </div>
-                                                    <div>
-                                <a href="#" data-popover-target="popover-image-6" data-popover-placement="bottom" data-popover-trigger="click">
-                                    <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/c575e86a-fb7c-44ac-adc1-1f6c6951be71.jpg" alt="Activity image" />
-                                </a>
-                            </div>
-                            <div data-popover id="popover-image-6" role="tooltip" class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
-                                <img class="h-auto max-w-full rounded-lg lazy" src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/c575e86a-fb7c-44ac-adc1-1f6c6951be71.jpg"  alt="Activity image" />
-                            </div>
-                                            </div>
-                                <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
+                        <dt class="font-extrabold">1 188<span
+                                    class="text-xs">m</span></dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
+                        <dt class="font-extrabold">1958</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Gear</dd>
+                        <dt class="text-xs font-extrabold">Stumpie</dt>
+                    </div>
+                </div>
+                <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="text-center">
+                        <dd class="text-xs text-gray-500 dark:text-gray-400">Device</dd>
+                        <dt class="text-xs font-extrabold">Garmin Edge 830</dt>
+                    </div>
+                </div>
+            </div>
+                                        <div class="mb-4 text-xs font-normal text-gray-500 dark:text-gray-400">
+                    Rainy, 16.7 °C,
+                    Humidity 78%,
+                    Wind 9.6km/h from NW.
+                </div>
+                                        <div class="mb-4 grid grid-cols-4 gap-2">
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-1"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/f1847903-cf24-4fc8-a842-c1e3592982e1.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-1" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/f1847903-cf24-4fc8-a842-c1e3592982e1.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-2"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/d4e790c4-4cfa-468d-bf0f-ed0ec3d52178.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-2" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/d4e790c4-4cfa-468d-bf0f-ed0ec3d52178.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-3"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/3921e83b-ee99-4b7a-a9aa-3935003df25a.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-3" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/3921e83b-ee99-4b7a-a9aa-3935003df25a.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-4"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/4bd22afb-f087-42b0-9cf3-fb956dadfab3.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-4" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/4bd22afb-f087-42b0-9cf3-fb956dadfab3.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-5"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/93cf198b-7b0e-4c0f-bcf0-d6a1a7a89f86.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-5" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/93cf198b-7b0e-4c0f-bcf0-d6a1a7a89f86.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                            <div>
+                            <a href="#" data-popover-target="popover-image-6"
+                               data-popover-placement="bottom" data-popover-trigger="click">
+                                <img class="h-auto max-w-full rounded-lg lazy"
+                                     src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/c575e86a-fb7c-44ac-adc1-1f6c6951be71.jpg"
+                                     alt="Activity image"/>
+                            </a>
+                        </div>
+                        <div data-popover id="popover-image-6" role="tooltip"
+                             class="z-[1000] w-[35rem] absolute invisible inline-block text-sm text-gray-500 transition-opacity duration-300 bg-white border border-gray-200 rounded-lg shadow-sm opacity-0 dark:text-gray-400 dark:bg-gray-800 dark:border-gray-600">
+                            <img class="h-auto max-w-full rounded-lg lazy"
+                                 src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/html/placeholder.webp" data-src="https://raw.githubusercontent.com/pdoteter/Strava-activity/master/files/activities/c575e86a-fb7c-44ac-adc1-1f6c6951be71.jpg"
+                                 alt="Activity image"/>
+                        </div>
+                                    </div>
+                        <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                    <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                    <tr>
+                        <th scope="col" class="px-2 py-2">
+
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Speed
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Heart rate
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Cadence
+                        </th>
+                        <th scope="col" class="px-2 py-2">
+                            Power
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr class="border-b dark:border-gray-600">
+                        <th class="px-2 py-2">
+                            Avg
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        13<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        119<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        67
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        122<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    <tr>
+                        <th class="px-2 py-2">
+                            Max
+                        </th>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        72.9<span class="text-xs">km/h</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        161<span class="text-xs">bpm</span>
+                                                    </td>
+                        <td class="px-2 py-2 text-sm">
+                                                        114
+                        </td>
+                        <td class="px-2 py-2 text-sm">
+                                                                                        537<span class="text-xs">w</span>
+                                                    </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+                            <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                     <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
                         <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                                                                        <tr>
+                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5s
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 1m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 5m
+                                    </th>
+                                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
+                                        Best 20m
+                                    </th>
+                                                                                    </tr>
+                        </thead>
+                        <tbody>
                         <tr>
-                            <th scope="col" class="px-2 py-2">
+                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        423<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        5.41<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        281<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        3.59<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        217<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        2.77<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
+                                        186<span class="text-xs">w</span>
+                                    </td>
+                                    <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
+                                        2.38<span class="text-xs">w/kg</span>
+                                    </td>
+                                                                                    </tr>
+                        </tbody>
+                    </table>
+                </div>
+                    </div>
+                                <div class="h-[350px]" style="background-color:#bbbbb7"
+                 data-leaflet='{"routes":["wsq`H{hey@t@hAQ`BeIzUxIdMv@fF|I|HF~CeBrG^fArBlAL~Ae@`B{DpDaAzEpAtT`DlWr@IpAuN~@}@rAX|A|CrCbChE[|FvCtGs@fCuBxFTvB|@dCvD~D`C|EzKdCp@nEoBzFfIbBsWGmMhBsDmCgAi@mGPuAdCcD~@aKuCoFb@oP`@mDhD}CoC_NbGrHr@zCErDvAbKzCjFv@bCUb@`@i@gArPj@bIEvL{AzUpFkClJxChD~BlDq@zEgFx@nBlAjIwDnTRjCjBjGfAsAtDyKdQOvCwCvB_GnCmAzAtNLrPsCl]`@tPo@xDbAfDk@~AdF|GQpAZeA[jAlArApCh[`AdCaB`DvAhD|@Tj@vCh@CpApMlB|DeArVxA|KdArThAfFfM`Su@dAiIeC_DaDgHi@]`BCpPb@`ANbKvEfKpAjGpCvAPzFrBzEbDTvBdDpGx@z@`AXpB[bCwFbIwKrBwA~GyAjP}DtJiDkCiGmBoIBaTbI}CA{FiFyHgOi@iJbAuHgAkGeDmDcHtAmGWu@bAc@tFsAtBmLQmEtGsD`CQdCrAjFz@xRrFzT|@hPpEhNl@tGeCvR_CzBlAhJ{AbLmD|GyAbLeDrA{BfCkC{@uL}JaE~@}CiMwAqCsDcA|@@WS^kAlJ]iAwEwCaPeCrC}AbGiUF}CdDqCPq@]g@mCaAUiAoFqAjAiAG}CyCsB_Es@p@qG[_EqJiIsCaAwErAqLmE_K}FuX{BsG{JqPiE}K}HcDyB`B}@c@yDqJyAuHmG}KcFkAmDiEaK}FcGg`@GcHkAQo@`AU{I{BdDsBVw@YB}BeAYyExFuDx@gIyB}F~@{EpByCvDeA_CkNuAoFkFyGeO{HiMsBePkGaHyCxHeChC_PjBoFlCgBwF@uAzLsLtEcADi@kBFPyAG`CdBOjPgQrEkLnEsUzAg^zBeLUwFJe@d@r@dEc`@w@{TkA}HSyYkBsk@dDqBTiAsDa`@r@q@`ETvAmALgPh@iCj@EvA`HnC`FdA|FWjFjAfG^`@dBuA[eJtAqAbAx@nBvKxGrKvEdDfCfI`@|D|AhArAw@vA~AbB~Gb@zF`AnBJ{GlBgFm@}EnA{Tc@yIV}TvCiEb@wNbBmRt@{AhEdKpDdC|BmOn@g@~HzXpJ|UeDbIp@jGhIpMjDnJbIr^fF`ORrEeA~HlC`JoCoIbA{IUsBZO~JxJmFqOoCgSD_Cx@eEjC|ChOf@`@lAi@sATgD]mF_DoJVcC~BcNdEeJTsBpGaFLoLuBwIBoBlTel@JqAu@_C"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
+            </div>
+            <div class="grid grid-cols-1 gap-4">
+            <div id="accordion-segments" data-accordion="collapse"
+                 data-active-classes="text-gray-900 dark:text-white"
+                 data-inactive-classes="text-gray-900 dark:text-white">
+                <a id="accordion-segments-heading" data-accordion-target="#accordion-segments-body" aria-expanded="false"
+                   aria-controls="accordion-segments-body"
+                   class="hover:underline cursor-pointer flex items-center gap-3 justify-between w-full px-2 py-3 font-medium rtl:text-right text-gray-900 dark:text-white">
+                    <span>Segments (19)</span>
+                    <svg data-accordion-icon class="w-3 h-3 shrink-0" aria-hidden="true"
+                         xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M9 5 5 1 1 5"/>
+                    </svg>
+                </a>
+                <div id="accordion-segments-body" class="hidden relative overflow-x-auto"
+                     aria-labelledby="accordion-segments-heading">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-800 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-3 text-left">
 
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Speed
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M12 8V12L15 15" stroke="#F26722" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="9" stroke="#F26722" stroke-width="2"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Heart rate
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><path d="M6.34315 17.6569C5.22433 16.538 4.4624 15.1126 4.15372 13.5607C3.84504 12.0089 4.00346 10.4003 4.60896 8.93853C5.21446 7.47672 6.23984 6.22729 7.55544 5.34824C8.87103 4.46919 10.4177 4 12 4C13.5823 4 15.129 4.46919 16.4446 5.34824C17.7602 6.22729 18.7855 7.47672 19.391 8.93853C19.9965 10.4003 20.155 12.0089 19.8463 13.5607C19.5376 15.1126 18.7757 16.538 17.6569 17.6569" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12L16 10" stroke="#F26722" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Cadence
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><polygon fill="none" stroke="#F26722" stroke-width="2" stroke-miterlimit="10" points="8.29 1.71 18.5 1.71 13.86 9.14 17.57 9.14 7.36 20.29 9.21 12.86 5.5 12.86 8.29 1.71"/></svg>
+                                </div>
                             </th>
-                            <th scope="col" class="px-2 py-2">
-                                Power
+                            <th scope="col" class="px-2 py-3">
+                                <div class="flex items-center justify-center">
+                                    <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="3" stroke="#F26722" fill="none"><path d="M17.94,54.81a.1.1,0,0,1-.14,0c-1-1.11-11.69-13.23-11.69-21.26,0-9.94,6.5-12.24,11.76-12.24,4.84,0,11.06,2.6,11.06,12.24C28.93,41.84,18.87,53.72,17.94,54.81Z"/><circle cx="17.52" cy="31.38" r="4.75"/><path d="M49.58,34.77a.11.11,0,0,1-.15,0c-.87-1-9.19-10.45-9.19-16.74,0-7.84,5.12-9.65,9.27-9.65,3.81,0,8.71,2,8.71,9.65C58.22,24.52,50.4,33.81,49.58,34.77Z"/><circle cx="49.23" cy="17.32" r="3.75"/><path d="M17.87,54.89a28.73,28.73,0,0,0,3.9.89"/><path d="M24.68,56.07c2.79.12,5.85-.28,7.9-2.08,5.8-5.09,2.89-11.25,6.75-14.71a16.72,16.72,0,0,1,4.93-3" stroke-dasharray="7.8 2.92"/><path d="M45.63,35.8a23,23,0,0,1,3.88-.95"/></svg>
+                                </div>
                             </th>
                         </tr>
                         </thead>
                         <tbody>
-                        <tr class="border-b dark:border-gray-600">
-                            <th class="px-2 py-2">
-                                Avg
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    13<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    119<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                67
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    122<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        <tr>
-                            <th class="px-2 py-2">
-                                Max
-                            </th>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    72.9<span class="text-xs">km/h</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    161<span class="text-xs">bpm</span>
-                                                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                114
-                            </td>
-                            <td class="px-2 py-2 text-sm">
-                                                                                                    537<span class="text-xs">w</span>
-                                                            </td>
-                        </tr>
-                        </tbody>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-23589250.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Weidstrasse Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    8:19
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            203<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.90<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-829668.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Oberrechstein Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    13:18
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            191<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.52<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-20956685.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Krönli Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:52
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.5<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            168<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.64<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-20998529.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Kurzer Drücker </span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:21
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            201<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.44<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-16046590.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bleichi Sprint</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:04
+                                </td>
+                                <td class="px-2 py-2">
+                                    10.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            160<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.53<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-4389872.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bendlehn Sprint</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    10.3<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            188<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.45<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19983005.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Speicher bois Speicherschwendi</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:24
+                                </td>
+                                <td class="px-2 py-2">
+                                    46.6<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.86<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-2202895.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Martinsbrücke - Untereggen</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:51
+                                </td>
+                                <td class="px-2 py-2">
+                                    9.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            179<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.04<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-33158058.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">early in the morning - blast the lake</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:23
+                                </td>
+                                <td class="px-2 py-2">
+                                    12.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            52<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.28<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24208611.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Wilenstrasse Sprint</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    2:46
+                                </td>
+                                <td class="px-2 py-2">
+                                    10.1<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            227<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.46<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-20365138.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Linkolnsbergstrasse / Hofhaldenstrasse</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    10:59
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            184<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.18<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-19220846.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Bergli</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    6:13
+                                </td>
+                                <td class="px-2 py-2">
+                                    7.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            193<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.72<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-15104102.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Rorschacherberg (Hofstrasse - Abzw. Fünfländerb...</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    28:58
+                                </td>
+                                <td class="px-2 py-2">
+                                    5.8<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            166<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.80<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-28006665.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Asylzentrum bis Fünfländerblick</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    9:37
+                                </td>
+                                <td class="px-2 py-2">
+                                    7.0<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            188<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    1.13<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-3158357.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Obermühle 605 Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    25:56
+                                </td>
+                                <td class="px-2 py-2">
+                                    4.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            124<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    2.12<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-5312483.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Wiehnacht - Finish</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    5:55
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            201<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.68<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-3981095.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">De Muur van de Fünfländerblick</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    12:21
+                                </td>
+                                <td class="px-2 py-2">
+                                    2.9<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            91<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.60<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="border-b bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-24196979.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Aaarghh</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    4:22
+                                </td>
+                                <td class="px-2 py-2">
+                                    6.2<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            236<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.45<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                    <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-700">
+                                <td class="px-2 py-2 text-left">
+                                    <a href="#" data-model-content-url="segment/segment-27772546.html"
+                                       class="flex items-center gap-x-1 font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                                       rel="nofollow">
+                                        <span class="truncate">Springplatz Climb</span>
+                                    </a>
+                                </td>
+                                <td class="px-2 py-2">
+                                    3:17
+                                </td>
+                                <td class="px-2 py-2">
+                                    7.4<span class="text-xs">km/h</span>
+                                </td>
+                                <td class="px-2 py-2">
+                                                                            171<span class="text-xs">w</span>
+                                                                    </td>
+                                <td class="px-2 py-2">
+                                    0.40<span class="text-xs">km</span>
+                                </td>
+                            </tr>
+                                                </tbody>
                     </table>
                 </div>
-                                    <div class="relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
-                            <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
-                                                                                    <tr>
-                                                                                                                                                <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5s
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 1m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 5m
-                                        </th>
-                                                                                                                                                                                    <th scope="col" colspan="2" class="px-2 py-2">
-                                            Best 20m
-                                        </th>
-                                                                                                </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                                                                                                                                <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            423<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            5.41<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            281<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            3.59<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            217<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            2.77<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                                                                                                    <td class="px-2 py-2 first:border-l-0 border-l dark:border-gray-600">
-                                            186<span class="text-xs">w</span>
-                                        </td>
-                                        <td class="px-2 py-2 last:border-r-0 border-r dark:border-gray-600">
-                                            2.38<span class="text-xs">w/kg</span>
-                                        </td>
-                                                                                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                            </div>
-                                            <div class="h-[350px]" style="background-color:#bbbbb7" data-leaflet='{"routes":["wsq`H{hey@t@hAQ`BeIzUxIdMv@fF|I|HF~CeBrG^fArBlAL~Ae@`B{DpDaAzEpAtT`DlWr@IpAuN~@}@rAX|A|CrCbChE[|FvCtGs@fCuBxFTvB|@dCvD~D`C|EzKdCp@nEoBzFfIbBsWGmMhBsDmCgAi@mGPuAdCcD~@aKuCoFb@oP`@mDhD}CoC_NbGrHr@zCErDvAbKzCjFv@bCUb@`@i@gArPj@bIEvL{AzUpFkClJxChD~BlDq@zEgFx@nBlAjIwDnTRjCjBjGfAsAtDyKdQOvCwCvB_GnCmAzAtNLrPsCl]`@tPo@xDbAfDk@~AdF|GQpAZeA[jAlArApCh[`AdCaB`DvAhD|@Tj@vCh@CpApMlB|DeArVxA|KdArThAfFfM`Su@dAiIeC_DaDgHi@]`BCpPb@`ANbKvEfKpAjGpCvAPzFrBzEbDTvBdDpGx@z@`AXpB[bCwFbIwKrBwA~GyAjP}DtJiDkCiGmBoIBaTbI}CA{FiFyHgOi@iJbAuHgAkGeDmDcHtAmGWu@bAc@tFsAtBmLQmEtGsD`CQdCrAjFz@xRrFzT|@hPpEhNl@tGeCvR_CzBlAhJ{AbLmD|GyAbLeDrA{BfCkC{@uL}JaE~@}CiMwAqCsDcA|@@WS^kAlJ]iAwEwCaPeCrC}AbGiUF}CdDqCPq@]g@mCaAUiAoFqAjAiAG}CyCsB_Es@p@qG[_EqJiIsCaAwErAqLmE_K}FuX{BsG{JqPiE}K}HcDyB`B}@c@yDqJyAuHmG}KcFkAmDiEaK}FcGg`@GcHkAQo@`AU{I{BdDsBVw@YB}BeAYyExFuDx@gIyB}F~@{EpByCvDeA_CkNuAoFkFyGeO{HiMsBePkGaHyCxHeChC_PjBoFlCgBwF@uAzLsLtEcADi@kBFPyAG`CdBOjPgQrEkLnEsUzAg^zBeLUwFJe@d@r@dEc`@w@{TkA}HSyYkBsk@dDqBTiAsDa`@r@q@`ETvAmALgPh@iCj@EvA`HnC`FdA|FWjFjAfG^`@dBuA[eJtAqAbAx@nBvKxGrKvEdDfCfI`@|D|AhArAw@vA~AbB~Gb@zF`AnBJ{GlBgFm@}EnA{Tc@yIV}TvCiEb@wNbBmRt@{AhEdKpDdC|BmOn@g@~HzXpJ|UeDbIp@jGhIpMjDnJbIr^fF`ORrEeA~HlC`JoCoIbA{IUsBZO~JxJmFqOoCgSD_Cx@eEjC|ChOf@`@lAi@sATgD]mF_DoJVcC~BcNdEeJTsBpGaFLoLuBwIBoBlTel@JqAu@_C"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
-                    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            </div>
+        </div>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
                             <div>
                     <h3 class="font-bold mb-1 text-center">Power distribution</h3>
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[0,25,50,75,100,125,150,175,200,225,250,275,300,325,350,375,400,425,450,475,500,525,550,575,600],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":46.57623158304667},"series":[{"data":[38.81352631920556,2.3301096904004672,4.3811254624521325,5.302784448627247,5.101577205166483,4.7445966119296425,6.7891218277406375,10.508210553644446,12.033491270201855,5.672746154345427,2.382034140325826,1.0319984422665023,0.33750892451483094,0.21418835594210422,0.1298111248133965,0.14279223729473617,0.05192444992535861,0.006490556240669826,0.012981112481339652,0.006490556240669826,0,0.006490556240669826,0,0,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbolSize":45,"symbol":"roundRect","itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":122,"coord":[4,41.918608424742004]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":4,"yAxis":0},{"xAxis":4,"yAxis":41.918608424742004}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"100%"}]],"silent":true}}]}'></div>
@@ -234,4 +731,4 @@
                     <div class="h-[350px]" data-echarts-options='{"grid":{"left":"1%","right":"1%","bottom":"7%","height":"325px","containLabel":false},"xAxis":{"type":"category","data":[60,65,70,75,80,85,90,95,100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,180,185,190,195,200],"axisTick":{"show":false},"axisLine":{"show":false},"axisLabel":{"interval":2,"showMinLabel":true}},"yAxis":{"show":false,"min":0,"max":14.7125854646746},"series":[{"data":[0,0,0.12661433274246645,1.1521904279564448,4.02000506457331,7.571537097999494,10.281083818688277,7.843757913395796,8.305900227905799,6.223094454292226,4.494808812357559,4.570777412003038,4.861990377310712,5.001266143327425,6.761205368447707,10.508989617624716,9.122562674094707,4.209926563687009,3.057736135730565,1.4180805267156242,0.46847303114712585,0,0,0,0,0,0,0,0],"type":"bar","barCategoryGap":1,"itemStyle":{"color":"#fff","borderRadius":[25,25,0,0]},"markPoint":{"silent":true,"animation":false,"symbol":"path:\/\/M2 9.1371C2 14 6.01943 16.5914 8.96173 18.9109C10 19.7294 11 20.5 12 20.5C13 20.5 14 19.7294 15.0383 18.9109C17.9806 16.5914 22 14 22 9.1371C22 4.27416 16.4998 0.825464 12 5.50063C7.50016 0.825464 2 4.27416 2 9.1371Z","symbolSize":[55,48],"itemStyle":{"color":"#7F7F7F"},"label":{"formatter":"{label|AVG}\n{sub|{c}}","lineHeight":15,"rich":{"label":{"fontWeight":"bold"},"sub":{"fontSize":12}}},"data":[{"value":119,"coord":[11,11.770068371739681]}]},"markLine":{"symbol":"none","animation":false,"lineStyle":{"type":"solid","width":2,"color":"#7F7F7F"},"label":{"show":false},"data":[[{"xAxis":11,"yAxis":0},{"xAxis":11,"yAxis":11.770068371739681}]],"silent":true},"markArea":{"data":[[{"itemStyle":{"color":"#303030"}},{"x":"16.785714285714%"}],[{"name":"Zone 1\n50% - 60%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#DF584A"},"x":"16.785714285714%"},{"x":"28.714285714286%"}],[{"name":"Zone 2\n60% - 70%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#D63522"},"x":"28.714285714286%"},{"x":"40.642857142857%"}],[{"name":"Zone 3\n70% - 80%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#BD2D22"},"x":"40.642857142857%"},{"x":"52.571428571429%"}],[{"name":"Zone 4\n80% - 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#942319"},"x":"52.571428571429%"},{"x":"64.5%"}],[{"name":"Zone 5\n> 90%","label":{"position":"insideTop","fontWeight":"bold","fontSize":10,"textAlign":"center","distance":12,"textBorderColor":"none"},"itemStyle":{"color":"#6A1009"},"x":"64.5%"},[]]],"silent":true}}]}'></div>
                 </div>
                     </div>
-    </div>
+    
