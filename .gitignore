@@ -8,3 +8,4 @@ var
 node_modules
 RATE_LIMITS_REACHED
 database/db.strava-read
+docker/.env.private
