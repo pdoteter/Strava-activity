@@ -1,6 +1,8 @@
 #!/bin/bash
 #set -e
 
+echo "---Updating to latest template"
+
 git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1
 
 # Copy all files from template to this repo.
@@ -54,8 +56,8 @@ rm -Rf strava-activities-template
 
 #make .env
 rm .env
-echo ENVIRONMENT=dev >> .env
-echo DISPLAY_ERROR_DETAILS=1 >> .env
+echo ENVIRONMENT=prd >> .env
+echo DISPLAY_ERROR_DETAILS=0 >> .env
 echo LOG_ERRORS=0 >> .env
 echo LOG_ERROR_DETAILS=0 >> .env
 echo DATABASE_NAME="database/db.strava" >> .env
@@ -64,29 +66,28 @@ echo REPOSITORY_NAME=localhost >> .env  #todo potential problem
 #should be done through docker run echo STRAVA_CLIENT_SECRET=${{ secrets.STRAVA_CLIENT_SECRET }} >> .env
 #should be done through docker run echo STRAVA_REFRESH_TOKEN=${{ secrets.STRAVA_REFRESH_TOKEN }} >> .env
 
+echo "---Install composer"
+
 composer install --prefer-dist
 
-# Run migrations.
+echo "---Run migrations."
+
+
 ./bin/doctrine-migrations migrate --no-interaction
 
-# Exit when only template update.
-if [ "$1" == "--only-template" ]; then
-  exit 0;
+if [ "$1" != '--no-import' ]; then
+  echo "---Update strava stats."
+  bin/console app:strava:import-data
 fi
 
-# Update strava stats.
-#bin/console app:strava:import-data
-#bin/console app:strava:build-files
+echo "---Build files"
+bin/console app:strava:build-files
 
 # Vacuum database
-#bin/console app:strava:vacuum
+bin/console app:strava:vacuum
 
-# Generate charts
+echo "---Generate charts"
 npm ci
 node echart.js
 
-# Push changes
-#git add .
-#git status
-#git diff --staged --quiet || git commit -m"Updated strava activities"
-#git push
+echo "---Finished"

@@ -50,6 +50,9 @@ ADD --chmod=u+x docker/docker-entrypoint.sh /usr/local/bin/
 RUN dos2unix /usr/local/bin/docker-entrypoint.sh
 RUN dos2unix /docker-entrypoint.d/*
 
+# change php default memory limit
+RUN echo 'memory_limit = 2048M' >> /usr/local/etc/php/conf.d/docker-php-memlimit.ini
+
 # webserver config
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 RUN dos2unix /etc/nginx/conf.d/default.conf
