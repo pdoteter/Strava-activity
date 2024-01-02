@@ -56,7 +56,7 @@ rm -Rf strava-activities-template
 
 #make .env
 rm .env
-echo ENVIRONMENT=prd >> .env
+echo ENVIRONMENT=dev >> .env
 echo DISPLAY_ERROR_DETAILS=0 >> .env
 echo LOG_ERRORS=0 >> .env
 echo LOG_ERROR_DETAILS=0 >> .env

@@ -46,10 +46,10 @@ fi
 
 FILE=/strava/README.md
 if test -f "$FILE"; then
+    echo "Website was already build once, just starting and let cron update."
+else
     echo "Building website for the first time"
     /strava/cron.sh --no-import
-else
-    echo "Website was already build once, just starting and let cron update."
 fi
 
 exec "$@"
