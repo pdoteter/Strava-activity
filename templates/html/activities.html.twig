@@ -21,7 +21,7 @@
         <div class="grid grid-cols-1">
             <div class="p-4 bg-white border border-gray-200 rounded-lg shadow-sm dark:border-gray-700 sm:p-6 dark:bg-gray-800">
                 <!--HTML-->
-                <div data-dataTable-settings='{"url":"activity-data-table.json"}' class="relative">
+                <div data-dataTable-settings='{"url":"fetch-json/activity-data-table.json"}' class="relative">
                     <form class="mb-2 flex items-center">
                         <label for="search" class="sr-only">Search</label>
                         <div class="relative w-full">
@@ -47,45 +47,46 @@
                                     </div>
                                 </th>
                                 <th scope="col" class="px-2 py-3 bg-gray-50 dark:bg-gray-700 lg:sticky lg:left-0">
+                                    <div class="w-[23rem]">&nbsp;</div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="distance" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('distance') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="elevation" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('elevation') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="moving-time" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('time') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="power" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[rem] flex items-center justify-center">
                                         {{ renderSvg('power') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="speed" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('speed') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="heart-rate" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('heart-rate') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
                                 </th>
                                 <th scope="col" data-dataTable-sort="calories" class="px-6 py-3 cursor-pointer">
-                                    <div class="flex items-center justify-center">
+                                    <div class="w-[4rem] flex items-center justify-center">
                                         {{ renderSvg('calories') }}
                                         {{ renderSvg('sorting-icon') }}
                                     </div>
