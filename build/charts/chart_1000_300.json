@@ -54,7 +54,7 @@
                 "axisLabel": {
                     "formatter": "{value} km"
                 },
-                "max": 100
+                "max": 150
             }
         ],
         "series": [
@@ -90,7 +90,7 @@
                     82,
                     41,
                     77,
-                    77
+                    117
                 ]
             }
         ]

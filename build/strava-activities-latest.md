@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Peguera Mallorca | Spain 40 km" title="ROUVY - Challenge Peguera Mallorca | Spain 40 km"/>
+<a href="https://www.strava.com/activities/10511079567" title="Kcal: 667 | Gear: None ">ROUVY - Challenge Peguera ...</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">500 <sup><sub>m</sub></sup></td>
+            <td align="center">1:26:09</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">132</td>
+        </tr>
+            <tr>
             <td>04-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne" title="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne"/>
@@ -60,19 +73,6 @@
             <td align="center">137 <sup><sub>w</sub></sup></td>
             <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">127</td>
-        </tr>
-            <tr>
-            <td>23-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Zion National Park | USA" title="ROUVY - Zion National Park | USA"/>
-<a href="https://www.strava.com/activities/10425665938" title="Kcal: 573 | Gear: None ">ROUVY - Zion National Park...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">548 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:12</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
