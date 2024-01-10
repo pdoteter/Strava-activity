@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany" title="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany"/>
+<a href="https://www.strava.com/activities/10525291237" title="Kcal: 582 | Gear: None ">ROUVY - Tour Down Under 20...</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">486 <sup><sub>m</sub></sup></td>
+            <td align="center">1:19:20</td>
+            <td align="center">128 <sup><sub>w</sub></sup></td>
+            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
             <td>08-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - DATEV Challenge Roth | Germany 40 km" title="ROUVY - DATEV Challenge Roth | Germany 40 km"/>
@@ -60,19 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>26-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Valdresflye to Sjodalsvatnet | Norway" title="ROUVY - Valdresflye to Sjodalsvatnet | Norway"/>
-<a href="https://www.strava.com/activities/10440344414" title="Kcal: 210 | Gear: None ">ROUVY - Valdresflye to Sjo...</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">80 <sup><sub>m</sub></sup></td>
-            <td align="center">37:48</td>
-            <td align="center">97 <sup><sub>w</sub></sup></td>
-            <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">116</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
