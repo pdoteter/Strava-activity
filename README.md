@@ -2733,6 +2733,181 @@ I burned `1355240 calories` doing so, that's about `5 019` pizza slices 🍕
 
 <img src="build/charts/chart-yearly-distance-stats.svg" alt="Yearly distance stats"/>
 
+<table>
+    <thead>
+    <tr>
+        <th>Year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
+        <th>Δ prev year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">2024</td>
+            <td align="center">188 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -3 700 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">2 001 <sup><sub>m</sub></sup></td>
+            <td align="center">6h 45m</td>
+        </tr>
+            <tr>
+            <td align="center">2023</td>
+            <td align="center">3 888 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -144 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">46 224 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 1h 53m</td>
+        </tr>
+            <tr>
+            <td align="center">2022</td>
+            <td align="center">4 032 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    893 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">48 074 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 21h 55m</td>
+        </tr>
+            <tr>
+            <td align="center">2021</td>
+            <td align="center">3 139 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    769 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">32 464 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 16h 38m</td>
+        </tr>
+            <tr>
+            <td align="center">2020</td>
+            <td align="center">2 370 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -337 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">21 066 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 11h 5m</td>
+        </tr>
+            <tr>
+            <td align="center">2019</td>
+            <td align="center">2 707 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -1 228 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">25 218 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 18h 59m</td>
+        </tr>
+            <tr>
+            <td align="center">2018</td>
+            <td align="center">3 935 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    523 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">36 202 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 19h 24m</td>
+        </tr>
+            <tr>
+            <td align="center">2017</td>
+            <td align="center">3 412 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    678 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">41 583 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 17h 21m</td>
+        </tr>
+            <tr>
+            <td align="center">2016</td>
+            <td align="center">2 734 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    690 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">26 564 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 4h 28m</td>
+        </tr>
+            <tr>
+            <td align="center">2015</td>
+            <td align="center">2 044 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    1 047 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">21 082 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 23h 23m</td>
+        </tr>
+            <tr>
+            <td align="center">2014</td>
+            <td align="center">997 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -406 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">7 029 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 9h 31m</td>
+        </tr>
+            <tr>
+            <td align="center">2013</td>
+            <td align="center">1 403 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -1 598 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">24 507 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 15h 32m</td>
+        </tr>
+            <tr>
+            <td align="center">2012</td>
+            <td align="center">3 001 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -102 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">57 058 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 20h 55m</td>
+        </tr>
+            <tr>
+            <td align="center">2011</td>
+            <td align="center">3 103 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    248 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">51 202 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 22h 3m</td>
+        </tr>
+            <tr>
+            <td align="center">2010</td>
+            <td align="center">2 855 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -2 147 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">38 977 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 21h 54m</td>
+        </tr>
+            <tr>
+            <td align="center">2009</td>
+            <td align="center">5 001 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    1 353 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">57 314 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 4d 21h 5m</td>
+        </tr>
+            <tr>
+            <td align="center">2008</td>
+            <td align="center">3 649 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -1 065 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">36 296 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 17h 34m</td>
+        </tr>
+            <tr>
+            <td align="center">2007</td>
+            <td align="center">4 713 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                            </td>
+            <td align="center">57 860 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 6d 3h 5m</td>
+        </tr>
+        </tbody>
+</table>
+
 ## Distance breakdown
 
 <table>
