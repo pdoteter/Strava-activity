@@ -10,69 +10,69 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
-            <td>26-12-23</td>
+            <td>09-01-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Valdresflye to Sjodalsvatnet | Norway" title="ROUVY - Valdresflye to Sjodalsvatnet | Norway"/>
-<a href="https://www.strava.com/activities/10440344414" title="Kcal: 210 | Gear: None ">ROUVY - Valdresflye to Sjo...</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">80 <sup><sub>m</sub></sup></td>
-            <td align="center">37:48</td>
-            <td align="center">97 <sup><sub>w</sub></sup></td>
-            <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">116</td>
-        </tr>
-            <tr>
-            <td>26-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Atlantic Road | Norway" title="ROUVY - Atlantic Road | Norway"/>
-<a href="https://www.strava.com/activities/10440118301" title="Kcal: 290 | Gear: None ">ROUVY - Atlantic Road | No...</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">120 <sup><sub>m</sub></sup></td>
-            <td align="center">36:54</td>
-            <td align="center">137 <sup><sub>w</sub></sup></td>
-            <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
-        </tr>
-            <tr>
-            <td>23-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Zion National Park | USA" title="ROUVY - Zion National Park | USA"/>
-<a href="https://www.strava.com/activities/10425665938" title="Kcal: 573 | Gear: None ">ROUVY - Zion National Park...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">548 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:12</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>19-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Around Mara Dam | Slovakia" title="ROUVY - Around Mara Dam | Slovakia"/>
-<a href="https://www.strava.com/activities/10405328999" title="Kcal: 677 | Gear: None ">ROUVY - Around Mara Dam | ...</a>
-            </td>
-            <td align="center">23 <sup><sub>km</sub></sup></td>
-            <td align="center">615 <sup><sub>m</sub></sup></td>
-            <td align="center">1:09:53</td>
-            <td align="center">169 <sup><sub>w</sub></sup></td>
-            <td align="center">19.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>17-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Panorama Route 2 | High Tatras | Slovakia" title="ROUVY - Panorama Route 2 | High Tatras | Slovakia"/>
-<a href="https://www.strava.com/activities/10393805186" title="Kcal: 826 | Gear: None ">ROUVY - Panorama Route 2 |...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany" title="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany"/>
+<a href="https://www.strava.com/activities/10525291237" title="Kcal: 582 | Gear: None ">ROUVY - Tour Down Under 20...</a>
             </td>
             <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">735 <sup><sub>m</sub></sup></td>
-            <td align="center">1:34:46</td>
-            <td align="center">152 <sup><sub>w</sub></sup></td>
-            <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">137</td>
+            <td align="center">486 <sup><sub>m</sub></sup></td>
+            <td align="center">1:19:20</td>
+            <td align="center">128 <sup><sub>w</sub></sup></td>
+            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
+            <td>08-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - DATEV Challenge Roth | Germany 40 km" title="ROUVY - DATEV Challenge Roth | Germany 40 km"/>
+<a href="https://www.strava.com/activities/10518782642" title="Kcal: 631 | Gear: None ">ROUVY - DATEV Challenge Ro...</a>
+            </td>
+            <td align="center">38 <sup><sub>km</sub></sup></td>
+            <td align="center">414 <sup><sub>m</sub></sup></td>
+            <td align="center">1:21:28</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">28 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
+            <td>07-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Peguera Mallorca | Spain 40 km" title="ROUVY - Challenge Peguera Mallorca | Spain 40 km"/>
+<a href="https://www.strava.com/activities/10511079567" title="Kcal: 667 | Gear: None ">ROUVY - Challenge Peguera ...</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">500 <sup><sub>m</sub></sup></td>
+            <td align="center">1:26:09</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">132</td>
+        </tr>
+            <tr>
+            <td>04-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne" title="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne"/>
+<a href="https://www.strava.com/activities/10493450113" title="Kcal: 594 | Gear: None ">ROUVY - Tour Down Under 20...</a>
+            </td>
+            <td align="center">35 <sup><sub>km</sub></sup></td>
+            <td align="center">332 <sup><sub>m</sub></sup></td>
+            <td align="center">1:16:41</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
+            <td>02-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Lake Pukaki | New Zealand" title="ROUVY - Lake Pukaki | New Zealand"/>
+<a href="https://www.strava.com/activities/10480422697" title="Kcal: 688 | Gear: None ">ROUVY - Lake Pukaki | New ...</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">269 <sup><sub>m</sub></sup></td>
+            <td align="center">1:21:39</td>
+            <td align="center">147 <sup><sub>w</sub></sup></td>
+            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">145</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
