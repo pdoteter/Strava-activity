@@ -6,41 +6,45 @@ echo "---Updating to latest template"
 git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1
 
 # Copy all files from template to this repo.
+## ROOT FILES
 mv -f strava-activities-template/.gitignore .gitignore
+mv -f strava-activities-template/tailwind.config.js tailwind.config.js
+mv -f strava-activities-template/echart.js echart.js
+mv -f strava-activities-template/composer.json composer.json
+mv -f strava-activities-template/composer.lock composer.lock
+mv -f strava-activities-template/Makefile Makefile
+mv -f strava-activities-template/package.json package.json
+mv -f strava-activities-template/package-lock.json package-lock.json
+mv -f strava-activities-template/vercel.json vercel.json
+## SUB DIRECTORIES
+rm -Rf config/* && mv -f strava-activities-template/config/* config/
+rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
+rm -Rf public/* && mv -f strava-activities-template/public/* public/
+rm -Rf src/* && mv -f strava-activities-template/src/* src/
+rm -Rf templates/* && mv -f strava-activities-template/templates/* templates/
+mkdir .docker && rm -Rf .docker/* && mv -f strava-activities-template/.docker/* .docker/
+# BIN EXECUTABLES
 mv -f strava-activities-template/bin/console bin/console
 mv -f strava-activities-template/bin/doctrine-migrations bin/doctrine-migrations
-rm -Rf config/* && rmdir config 
-mkdir config && mv -f strava-activities-template/config/* config/
-rm -Rf migrations/* && rmdir migrations 
-mkdir migrations && mv -f strava-activities-template/migrations/* migrations/
-rm -Rf public/* && rmdir public 
-mkdir public && mv -f strava-activities-template/public/* public/
-rm -Rf src/* && rmdir src 
-mkdir src && mv -f strava-activities-template/src/* src/
-rm -Rf templates/* && rmdir templates 
-mkdir templates && mv -f strava-activities-template/templates/* templates/
-## Build asset files
-rm -Rf build/html/echarts/* && rmdir build/html/echarts 
-mkdir build/html/echarts && mv -f strava-activities-template/build/html/echarts/* build/html/echarts/
-rm -Rf build/html/flowbite/* && rmdir build/html/flowbite 
-mkdir build/html/flowbite && mv -f strava-activities-template/build/html/flowbite/* build/html/flowbite/
-rm -Rf build/html/leaflet/* && rmdir build/html/leaflet 
+## HTML BUILD FILES
+rm -Rf build/html/echarts/* && mv -f strava-activities-template/build/html/echarts/* build/html/echarts/
+rm -Rf build/html/flowbite/* && mv -f strava-activities-template/build/html/flowbite/* build/html/flowbite/
 mkdir -p build/html/leaflet && rm -Rf build/html/leaflet/* && mv -f strava-activities-template/build/html/leaflet/* build/html/leaflet/
+mkdir -p build/html/data-table && rm -Rf build/html/data-table/* && mv -f strava-activities-template/build/html/data-table/* build/html/data-table/
 mv -f strava-activities-template/build/html/dark-mode-toggle.js build/html/dark-mode-toggle.js
 mv -f strava-activities-template/build/html/favicon.ico build/html/favicon.ico
 mv -f strava-activities-template/build/html/placeholder.webp build/html/placeholder.webp
 mv -f strava-activities-template/build/html/lazyload.min.js build/html/lazyload.min.js
 mv -f strava-activities-template/build/html/router.js build/html/router.js
-mv -f strava-activities-template/build/html/searchable.js build/html/searchable.js
-mv -f strava-activities-template/build/html/sortable.min.js build/html/sortable.min.js
 
-mv -f strava-activities-template/tailwind.config.js tailwind.config.js
-mv -f strava-activities-template/echart.js echart.js
-mv -f strava-activities-template/composer.json composer.json
-mv -f strava-activities-template/composer.lock composer.lock
-mv -f strava-activities-template/package.json package.json
-mv -f strava-activities-template/package-lock.json package-lock.json
-mv -f strava-activities-template/vercel.json vercel.json
+
+# Remove old files
+rm -f build/html/searchable.js
+rm -f build/html/sortable.js
+rm -f build/html/activity-data-table.json
+rm -f build/html/segment-data-table.json
+rm -f build/charts/chart-yearly-riding-stats.json
+rm -f build/charts/chart-yearly-riding-stats.svg
 
 # Make sure database and migration directories exist
 mkdir -p migrations
@@ -71,8 +75,7 @@ echo "---Install composer"
 composer install --prefer-dist
 
 echo "---Run migrations."
-
-
+rm -Rf database/db.strava-read
 ./bin/doctrine-migrations migrate --no-interaction
 
 if [ "$1" != '--no-import' ]; then
