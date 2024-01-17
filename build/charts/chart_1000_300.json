@@ -13,6 +13,7 @@
             "bottom": "3%",
             "containLabel": true
         },
+        "legend": null,
         "dataZoom": [],
         "xAxis": [
             {
@@ -29,12 +30,12 @@
                     "Nov 2023",
                     "",
                     "",
-                    "",
                     "Dec 2023",
                     "",
                     "",
                     "",
                     "Jan 2024",
+                    "",
                     ""
                 ],
                 "splitLine": {
@@ -55,17 +56,17 @@
                     "formatter": "{value} km"
                 },
                 "max": 150
-            }
+            },
+            []
         ],
         "series": [
             {
-                "name": "Average distance \/ week",
                 "type": "line",
                 "smooth": false,
                 "label": {
                     "show": true,
-                    "formatter": "{@[1]} km",
-                    "rotate": -45
+                    "rotate": -45,
+                    "formatter": "{@[1]} km"
                 },
                 "lineStyle": {
                     "width": 1
@@ -79,8 +80,8 @@
                 "emphasis": {
                     "focus": "series"
                 },
+                "name": "Average distance \/ week",
                 "data": [
-                    0,
                     62,
                     51,
                     21,
@@ -90,8 +91,10 @@
                     41,
                     77,
                     117,
-                    110
-                ]
+                    110,
+                    32
+                ],
+                "yAxisIndex": 0
             }
         ]
     }
