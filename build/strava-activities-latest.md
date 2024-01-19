@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="70rpm Strength Ramps in Watopia" title="70rpm Strength Ramps in Watopia"/>
+<a href="https://www.strava.com/activities/10582728399" title="Kcal: 491 | Gear: None ">70rpm Strength Ramps in Wa...</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">46 <sup><sub>m</sub></sup></td>
+            <td align="center">1:01:20</td>
+            <td align="center">140 <sup><sub>w</sub></sup></td>
+            <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
             <td>16-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Back to Basics in Makuri Islands" title="Back to Basics in Makuri Islands"/>
@@ -60,19 +73,6 @@
             <td align="center">135 <sup><sub>w</sub></sup></td>
             <td align="center">28 <sup><sub>km/h</sub></sup></td>
             <td align="center">130</td>
-        </tr>
-            <tr>
-            <td>07-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Peguera Mallorca | Spain 40 km" title="ROUVY - Challenge Peguera Mallorca | Spain 40 km"/>
-<a href="https://www.strava.com/activities/10511079567" title="Kcal: 667 | Gear: None ">ROUVY - Challenge Peguera ...</a>
-            </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">500 <sup><sub>m</sub></sup></td>
-            <td align="center">1:26:09</td>
-            <td align="center">135 <sup><sub>w</sub></sup></td>
-            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
