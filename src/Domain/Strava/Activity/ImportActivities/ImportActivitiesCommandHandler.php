@@ -9,8 +9,9 @@ use App\Domain\Strava\Activity\ActivityType;
 use App\Domain\Strava\Activity\ReadModel\ActivityDetailsRepository;
 use App\Domain\Strava\Activity\WriteModel\ActivityRepository;
 use App\Domain\Strava\Gear\GearId;
-use App\Domain\Strava\ReachedStravaApiRateLimits;
+use App\Domain\Strava\MaxResourceUsageHasBeenReached;
 use App\Domain\Strava\Strava;
+use App\Domain\Strava\StravaErrorStatusCode;
 use App\Domain\Weather\OpenMeteo\OpenMeteo;
 use App\Infrastructure\Attribute\AsCommandHandler;
 use App\Infrastructure\CQRS\CommandHandler\CommandHandler;
@@ -38,7 +39,7 @@ final readonly class ImportActivitiesCommandHandler implements CommandHandler
         private ActivityDetailsRepository $activityDetailsRepository,
         private KeyValueStore $keyValueStore,
         private FilesystemOperator $filesystem,
-        private ReachedStravaApiRateLimits $reachedStravaApiRateLimits,
+        private MaxResourceUsageHasBeenReached $maxResourceUsageHasBeenReached,
         private UuidFactory $uuidFactory,
         private Sleep $sleep,
     ) {
@@ -63,6 +64,9 @@ final readonly class ImportActivitiesCommandHandler implements CommandHandler
         );
 
         foreach ($this->strava->getActivities() as $stravaActivity) {
+            if ($command->getResourceUsage()->maxExecutionTimeReached()) {
+                return;
+            }
             if (!$activityType = ActivityType::tryFrom($stravaActivity['type'])) {
                 continue;
             }
@@ -151,14 +155,16 @@ final readonly class ImportActivitiesCommandHandler implements CommandHandler
                     // Try to avoid Strava rate limits.
                     $this->sleep->sweetDreams(10);
                 } catch (ClientException $exception) {
-                    if (429 !== $exception->getResponse()->getStatusCode()) {
-                        // Re-throw, we only want to catch "429 Too Many Requests".
+                    if (!StravaErrorStatusCode::tryFrom(
+                        $exception->getResponse()->getStatusCode()
+                    )) {
+                        // Re-throw, we only want to catch supported error codes.
                         throw $exception;
                     }
                     // This will allow initial imports with a lot of activities to proceed the next day.
-                    // This occurs when we exceed Strava API rate limits.
-                    $this->reachedStravaApiRateLimits->markAsReached();
-                    $command->getOutput()->writeln('<error>You reached Strava API rate limits. You will need to import the rest of your activities tomorrow</error>');
+                    // This occurs when we exceed Strava API rate limits or throws an unexpected error.
+                    $this->maxResourceUsageHasBeenReached->markAsReached();
+                    $command->getOutput()->writeln('<error>You probably reached Strava API rate limits. You will need to import the rest of your activities tomorrow</error>');
 
                     return;
                 }
