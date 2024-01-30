@@ -4,19 +4,19 @@
 </p>
 
 Since I began cycling `18 years and 6 months` ago on `02-01-2007`,
-I had `1258 cycling days`.<br />
-I recorded a total distance of `53 345 km`
+I had `1259 cycling days`.<br />
+I recorded a total distance of `53 380 km`
 (`1.33` trips around the world 🌍 and
 `0.139` trips to the moon 🌕),
-an elevation of `632 786 m`
+an elevation of `632 923 m`
 (`71.5` times Mount Everest 🏔)
-and a total time of `4mos 2w 2d 16h 21m` 🎉
+and a total time of `4mos 2w 2d 17h 32m` 🎉
 
 That's a daily average of `9 km`,
 a weekly average of `60 km` and a
 monthly average of `260 km` 🐣
 
-I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
+I burned `1344797 calories` doing so, that's about `4 981` pizza slices 🍕
 
 ---
 
@@ -51,6 +51,19 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>29-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Threshold Scatter in Watopia" title="Threshold Scatter in Watopia"/>
+<a href="https://www.strava.com/activities/10654647729" title="Kcal: 636 | Gear: Tacx Neo ">Threshold Scatter in Watopia</a>
+            </td>
+            <td align="center">35 <sup><sub>km</sub></sup></td>
+            <td align="center">137 <sup><sub>m</sub></sup></td>
+            <td align="center">1:11:08</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
             <tr>
             <td>25-01-24</td>
             <td>
@@ -103,19 +116,6 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
             <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">138</td>
         </tr>
-            <tr>
-            <td>16-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Back to Basics in Makuri Islands" title="Back to Basics in Makuri Islands"/>
-<a href="https://www.strava.com/activities/10570468839" title="Kcal: 588 | Gear: Tacx Neo ">Back to Basics in Makuri I...</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">173 <sup><sub>m</sub></sup></td>
-            <td align="center">1:09:07</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
-        </tr>
         </table>
 <details>
     <summary>Older activities</summary>
@@ -130,6 +130,19 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
+                    <tr>
+                <td>16-01-24</td>
+                <td>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Back to Basics in Makuri Islands" title="Back to Basics in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10570468839" title="Kcal: 588 | Gear: Tacx Neo ">Back to Basics in Makuri I...</a>
+                </td>
+                <td align="center">32 <sup><sub>km</sub></sup></td>
+                <td align="center">173 <sup><sub>m</sub></sup></td>
+                <td align="center">1:09:07</td>
+                <td align="center">149 <sup><sub>w</sub></sup></td>
+                <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
+                <td align="center">135</td>
+            </tr>
                     <tr>
                 <td>14-01-24</td>
                 <td>
@@ -767,19 +780,6 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
                 <td align="center">10.9 <sup><sub>km/h</sub></sup></td>
                 <td align="center">117</td>
             </tr>
-                    <tr>
-                <td>16-07-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Tutti Frutti XL - Freeride" title="☀️ Tutti Frutti XL - Freeride"/>
-<a href="https://www.strava.com/activities/9462654978" title="Kcal: 2526 | Gear: Stumpie ">☀️ Tutti Frutti XL - Freer...</a>
-                </td>
-                <td align="center">72 <sup><sub>km</sub></sup></td>
-                <td align="center">4 441 <sup><sub>m</sub></sup></td>
-                <td align="center">4:22:11</td>
-                <td align="center">32 <sup><sub>w</sub></sup></td>
-                <td align="center">16.4 <sup><sub>km/h</sub></sup></td>
-                <td align="center">97</td>
-            </tr>
             </table>
 </details>
 
@@ -800,10 +800,10 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">January 2024</td>
-            <td align="center">11</td>
-            <td align="center">364 <sup><sub>km</sub></sup></td>
-            <td align="center">3 534 <sup><sub>m</sub></sup></td>
-            <td align="center">13h 30m</td>
+            <td align="center">12</td>
+            <td align="center">399 <sup><sub>km</sub></sup></td>
+            <td align="center">3 671 <sup><sub>m</sub></sup></td>
+            <td align="center">14h 41m</td>
             <td align="center">2</td>
         </tr>
             <tr>
@@ -2280,10 +2280,10 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
         </tr>
         <tr>
         <td align="center"><b>Virtual/Indoor</b></td>
-        <td align="center"><b>413</td>
-        <td align="center"><b>9 859 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>98 934 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>2w 4d 21h 5m</b></td>
+        <td align="center"><b>414</td>
+        <td align="center"><b>9 894 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>99 071 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>2w 4d 22h 16m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
@@ -2296,10 +2296,10 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>1337</td>
-        <td align="center"><b>53 345 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>632 786 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>4mos 2w 2d 16h 21m</b></td>
+        <td align="center"><b>1338</td>
+        <td align="center"><b>53 380 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>632 923 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>4mos 2w 2d 17h 32m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -2327,14 +2327,14 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Monday</td>
-            <td align="center">116</td>
+            <td align="center">117</td>
             <td align="center">
                                     34 <sup><sub>km avg</sub></sup> /
-                    3 899 <sup><sub>km total</sub></sup>
+                    3 934 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">62 470 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 3d 20h 2m</td>
-            <td align="center">15.0 <sup><sub>km/h</sub></sup></td>
+            <td align="center">62 607 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 3d 21h 13m</td>
+            <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Tuesday</td>
@@ -2446,14 +2446,14 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Evening (17h - 23h)</td>
-            <td align="center">64</td>
+            <td align="center">65</td>
             <td align="center">
                                     21 <sup><sub>km avg</sub></sup> /
-                    1 358 <sup><sub>km total</sub></sup>
+                    1 393 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">3 954 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 15h 48m</td>
-            <td align="center">15.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">4 091 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 17h</td>
+            <td align="center">15.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Night (23h - 6h)</td>
@@ -2485,13 +2485,13 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Tacx Neo</td>
-            <td align="center">383</td>
+            <td align="center">384</td>
             <td align="center">
-                                    24 <sup><sub>km avg</sub></sup> /
-                    9 383 <sup><sub>km total</sub></sup>
+                                    25 <sup><sub>km avg</sub></sup> /
+                    9 418 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">98 955 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 2d 19h 2m</td>
+            <td align="center">99 092 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 2d 20h 13m</td>
             <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -2746,12 +2746,12 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">2024</td>
-            <td align="center">364 <sup><sub>km</sub></sup></td>
+            <td align="center">399 <sup><sub>km</sub></sup></td>
             <td align="center">
-                                    -3 524 <sup><sub>km</sub></sup>
+                                    -3 489 <sup><sub>km</sub></sup>
                             </td>
-            <td align="center">3 534 <sup><sub>m</sub></sup></td>
-            <td align="center">13h 30m</td>
+            <td align="center">3 671 <sup><sub>m</sub></sup></td>
+            <td align="center">14h 41m</td>
         </tr>
             <tr>
             <td align="center">2023</td>
@@ -2935,13 +2935,13 @@ I burned `1344161 calories` doing so, that's about `4 978` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">20 - 40 km</td>
-            <td align="center">500</td>
+            <td align="center">501</td>
             <td align="center">
                                      30 <sup><sub>km avg</sub></sup> /
-                     14 779 <sup><sub>km total</sub></sup>
+                     14 814 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">156 653 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 3d 20h 48m</td>
+            <td align="center">156 790 <sup><sub>m</sub></sup></td>
+            <td align="center">1mo 3d 21h 59m</td>
             <td align="center">19.3 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
