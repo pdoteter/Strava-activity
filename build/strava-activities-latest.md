@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Rollercoaster in New York" title="The Rollercoaster in New York"/>
+<a href="https://www.strava.com/activities/10708598341" title="Kcal: 531 | Gear: None ">The Rollercoaster in New York</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">328 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:43</td>
+            <td align="center">153 <sup><sub>w</sub></sup></td>
+            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>04-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Bealach na Ba at 100% Elevation in Watopia" title="Climb Portal: Bealach na Ba at 100% Elevation in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">156 <sup><sub>w</sub></sup></td>
             <td align="center">26.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">143</td>
-        </tr>
-            <tr>
-            <td>23-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="65rpm Strength Ramps in France" title="65rpm Strength Ramps in France"/>
-<a href="https://www.strava.com/activities/10614501104" title="Kcal: 527 | Gear: None ">65rpm Strength Ramps in Fr...</a>
-            </td>
-            <td align="center">15 <sup><sub>km</sub></sup></td>
-            <td align="center">492 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:06</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">14.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">137</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
