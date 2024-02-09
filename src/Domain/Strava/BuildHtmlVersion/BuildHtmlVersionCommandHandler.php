@@ -20,6 +20,7 @@ use App\Domain\Strava\Activity\Image\Image;
 use App\Domain\Strava\Activity\Image\ImageRepository;
 use App\Domain\Strava\Activity\PowerDistributionChartBuilder;
 use App\Domain\Strava\Activity\ReadModel\ActivityDetailsRepository;
+use App\Domain\Strava\Activity\Stream\PowerOutputChartBuilder;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityHeartRateRepository;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityPowerRepository;
 use App\Domain\Strava\Activity\Stream\ReadModel\ActivityStreamDetailsRepository;
@@ -93,10 +94,19 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         $allImages = $this->imageRepository->findAll();
         $allFtps = $this->ftpDetailsRepository->findAll();
         $allSegments = $this->segmentDetailsRepository->findAll();
+
+        $command->getOutput()->writeln('  => Calculating Eddington');
         $eddington = Eddington::fromActivities($allActivities);
+
+        $command->getOutput()->writeln('  => Calculating activity highlights');
         $activityHighlights = ActivityHighlights::fromActivities($allActivities);
+
+        $command->getOutput()->writeln('  => Calculating weekday stats');
         $weekdayStats = WeekdayStats::fromActivities($allActivities);
+
+        $command->getOutput()->writeln('  => Calculating daytime stats');
         $dayTimeStats = DaytimeStats::fromActivities($allActivities);
+
         $allMonths = MonthCollection::create(
             startDate: $allActivities->getFirstActivityStartDate(),
             now: $now
@@ -105,17 +115,31 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             startDate: $allActivities->getFirstActivityStartDate(),
             endDate: $now
         );
+
+        $command->getOutput()->writeln('  => Calculating monthly stats');
         $monthlyStatistics = MonthlyStatistics::fromActivitiesAndChallenges(
             activities: $allActivities,
             challenges: $allChallenges,
             months: $allMonths,
         );
+        $command->getOutput()->writeln('  => Calculating best power outputs');
+        $bestPowerOutputs = $this->activityPowerRepository->findBest();
 
+        $command->getOutput()->writeln('  => Enriching activities with data');
         /** @var \App\Domain\Strava\Activity\Activity $activity */
         foreach ($allActivities as $activity) {
             $activity->enrichWithBestPowerOutputs(
                 $this->activityPowerRepository->findBestForActivity($activity->getId())
             );
+
+            $streams = $this->activityStreamDetailsRepository->findByActivityAndStreamTypes(
+                activityId: $activity->getId(),
+                streamTypes: StreamTypeCollection::fromArray([StreamType::CADENCE])
+            );
+
+            if ($cadenceStream = $streams->getByStreamType(StreamType::CADENCE)) {
+                $activity->enrichWithMaxCadence(max($cadenceStream->getData()));
+            }
 
             try {
                 $ftp = $this->ftpDetailsRepository->find($activity->getStartDate());
@@ -124,12 +148,11 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             }
             $activity->enrichWithAthleteBirthday($athleteBirthday);
 
-            if (!$activity->getGearId()) {
-                continue;
+            if ($activity->getGearId()) {
+                $activity->enrichWithGearName(
+                    $this->gearDetailsRepository->find($activity->getGearId())->getName()
+                );
             }
-            $activity->enrichWithGearName(
-                $this->gearDetailsRepository->find($activity->getGearId())->getName()
-            );
         }
 
         /** @var \App\Domain\Strava\Ftp\Ftp $ftp */
@@ -142,6 +165,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             }
         }
 
+        $command->getOutput()->writeln('  => Building index.html');
         $this->filesystem->write(
             'build/html/index.html',
             $this->twig->load('html/index.html.twig')->render([
@@ -154,10 +178,11 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building dashboard.html');
         $this->filesystem->write(
             'build/html/dashboard.html',
             $this->twig->load('html/dashboard.html.twig')->render([
-                'mostRecentActivities' => array_slice($allActivities->toArray(), 0, 5),
+                'mostRecentActivities' => $allActivities->slice(0, 5),
                 'activityHighlights' => $activityHighlights,
                 'intro' => ActivityTotals::fromActivities(
                     activities: $allActivities,
@@ -171,9 +196,10 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                         ->withAnimation(true)
                         ->withoutBackgroundColor()
                         ->withDataZoom(true)
+                        ->withAverageTimes(true)
                         ->build(),
                 ),
-                'powerOutputs' => $this->activityPowerRepository->findBest(),
+                'powerOutputs' => $bestPowerOutputs,
                 'activityHeatmapChart' => Json::encode(
                     ActivityHeatmapChartBuilder::fromActivities(
                         activities: $allActivities,
@@ -233,14 +259,20 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                     activities: $allActivities,
                     years: $allYears
                 ),
+                'powerOutputChart' => !empty($bestPowerOutputs) ? PowerOutputChartBuilder::fromBestPowerOutputs($bestPowerOutputs)
+                    ->withAnimation(true)
+                    ->withoutBackgroundColor()
+                    ->build() : null,
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building activities.html');
         $this->filesystem->write(
             'build/html/activities.html',
             $this->twig->load('html/activities.html.twig')->render(),
         );
 
+        $command->getOutput()->writeln('  => Building photos.html');
         $this->filesystem->write(
             'build/html/photos.html',
             $this->twig->load('html/photos.html.twig')->render([
@@ -250,6 +282,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building challenges.html');
         $challengesGroupedByMonth = [];
         foreach ($allChallenges as $challenge) {
             $challengesGroupedByMonth[$challenge->getCreatedOn()->format('F Y')][] = $challenge;
@@ -261,6 +294,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building eddington.html');
         $this->filesystem->write(
             'build/html/eddington.html',
             $this->twig->load('html/eddington.html.twig')->render([
@@ -274,6 +308,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building segments.html');
         $dataDatableRows = [];
         /** @var \App\Domain\Strava\Segment\Segment $segment */
         foreach ($allSegments as $segment) {
@@ -324,6 +359,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             $this->twig->load('html/segments.html.twig')->render(),
         );
 
+        $command->getOutput()->writeln('  => Building monthly-stats.html');
         $this->filesystem->write(
             'build/html/monthly-stats.html',
             $this->twig->load('html/monthly-stats.html.twig')->render([
@@ -347,6 +383,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             );
         }
 
+        $command->getOutput()->writeln('  => Building gear-stats.html');
         $this->filesystem->write(
             'build/html/gear-stats.html',
             $this->twig->load('html/gear-stats.html.twig')->render([
@@ -384,6 +421,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             }
         }
 
+        $command->getOutput()->writeln('  => Building heatmap.html');
         $this->filesystem->write(
             'build/html/heatmap.html',
             $this->twig->load('html/heatmap.html.twig')->render([
@@ -392,17 +430,9 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
             ]),
         );
 
+        $command->getOutput()->writeln('  => Building activity.html');
         $dataDatableRows = [];
         foreach ($allActivities as $activity) {
-            $streams = $this->activityStreamDetailsRepository->findByActivityAndStreamTypes(
-                activityId: $activity->getId(),
-                streamTypes: StreamTypeCollection::fromArray([StreamType::CADENCE])
-            );
-
-            if ($cadenceStream = $streams->getByStreamType(StreamType::CADENCE)) {
-                $activity->enrichWithMaxCadence(max($cadenceStream->getData()));
-            }
-
             $heartRateData = $this->activityHeartRateRepository->findTimeInSecondsPerHeartRateForActivity($activity->getId());
             $powerData = $this->activityPowerRepository->findTimeInSecondsPerWattageForActivity($activity->getId());
             $leafletMap = $activity->getLeafletMap();

@@ -10,69 +10,69 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
-            <td>14-01-24</td>
+            <td>08-02-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Sugar Cookie in Watopia" title="Sugar Cookie in Watopia"/>
-<a href="https://www.strava.com/activities/10555967538" title="Kcal: 696 | Gear: None ">Sugar Cookie in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The &#039;Grind&#039; Finale in New York" title="The &#039;Grind&#039; Finale in New York"/>
+<a href="https://www.strava.com/activities/10721942311" title="Kcal: 388 | Gear: None ">The &#039;Grind&#039; Finale in New ...</a>
             </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">260 <sup><sub>m</sub></sup></td>
-            <td align="center">1:19:17</td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">331 <sup><sub>m</sub></sup></td>
+            <td align="center">52:01</td>
+            <td align="center">131 <sup><sub>w</sub></sup></td>
+            <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
+            <td>06-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Rollercoaster in New York" title="The Rollercoaster in New York"/>
+<a href="https://www.strava.com/activities/10708598341" title="Kcal: 531 | Gear: None ">The Rollercoaster in New York</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">328 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:43</td>
             <td align="center">153 <sup><sub>w</sub></sup></td>
-            <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
+            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
         </tr>
             <tr>
-            <td>09-01-24</td>
+            <td>04-02-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany" title="ROUVY - Tour Down Under 2024 | Stage 1 - Bethany"/>
-<a href="https://www.strava.com/activities/10525291237" title="Kcal: 582 | Gear: None ">ROUVY - Tour Down Under 20...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Bealach na Ba at 100% Elevation in Watopia" title="Climb Portal: Bealach na Ba at 100% Elevation in Watopia"/>
+<a href="https://www.strava.com/activities/10693341214" title="Kcal: 853 | Gear: None ">Climb Portal: Bealach na B...</a>
             </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">486 <sup><sub>m</sub></sup></td>
-            <td align="center">1:19:20</td>
-            <td align="center">128 <sup><sub>w</sub></sup></td>
-            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">120</td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">721 <sup><sub>m</sub></sup></td>
+            <td align="center">1:30:27</td>
+            <td align="center">165 <sup><sub>w</sub></sup></td>
+            <td align="center">20.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">151</td>
         </tr>
             <tr>
-            <td>08-01-24</td>
+            <td>02-02-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - DATEV Challenge Roth | Germany 40 km" title="ROUVY - DATEV Challenge Roth | Germany 40 km"/>
-<a href="https://www.strava.com/activities/10518782642" title="Kcal: 631 | Gear: None ">ROUVY - DATEV Challenge Ro...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Strength Surges in Watopia" title="Strength Surges in Watopia"/>
+<a href="https://www.strava.com/activities/10681655455" title="Kcal: 437 | Gear: None ">Strength Surges in Watopia</a>
             </td>
-            <td align="center">38 <sup><sub>km</sub></sup></td>
-            <td align="center">414 <sup><sub>m</sub></sup></td>
-            <td align="center">1:21:28</td>
-            <td align="center">135 <sup><sub>w</sub></sup></td>
-            <td align="center">28 <sup><sub>km/h</sub></sup></td>
-            <td align="center">130</td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">96 <sup><sub>m</sub></sup></td>
+            <td align="center">53:14</td>
+            <td align="center">144 <sup><sub>w</sub></sup></td>
+            <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
         </tr>
             <tr>
-            <td>07-01-24</td>
+            <td>29-01-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Peguera Mallorca | Spain 40 km" title="ROUVY - Challenge Peguera Mallorca | Spain 40 km"/>
-<a href="https://www.strava.com/activities/10511079567" title="Kcal: 667 | Gear: None ">ROUVY - Challenge Peguera ...</a>
-            </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">500 <sup><sub>m</sub></sup></td>
-            <td align="center">1:26:09</td>
-            <td align="center">135 <sup><sub>w</sub></sup></td>
-            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
-        </tr>
-            <tr>
-            <td>04-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne" title="ROUVY - Tour Down Under 2024 | Stage 4 - Ashbourne"/>
-<a href="https://www.strava.com/activities/10493450113" title="Kcal: 594 | Gear: None ">ROUVY - Tour Down Under 20...</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Threshold Scatter in Watopia" title="Threshold Scatter in Watopia"/>
+<a href="https://www.strava.com/activities/10654647729" title="Kcal: 636 | Gear: None ">Threshold Scatter in Watopia</a>
             </td>
             <td align="center">35 <sup><sub>km</sub></sup></td>
-            <td align="center">332 <sup><sub>m</sub></sup></td>
-            <td align="center">1:16:41</td>
-            <td align="center">135 <sup><sub>w</sub></sup></td>
-            <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
+            <td align="center">137 <sup><sub>m</sub></sup></td>
+            <td align="center">1:11:08</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>

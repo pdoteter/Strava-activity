@@ -7,5 +7,6 @@ var
 .phpunit.result.cache
 node_modules
 RATE_LIMITS_REACHED
+MAX_RESOURCE_USAGE_REACHED
 database/db.strava-read
 docker/.env.private
