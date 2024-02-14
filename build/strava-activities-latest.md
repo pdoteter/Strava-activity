@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Saw Legs in Makuri Islands" title="Saw Legs in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10754544228" title="Kcal: 678 | Gear: None ">Saw Legs in Makuri Islands</a>
+            </td>
+            <td align="center">29 <sup><sub>km</sub></sup></td>
+            <td align="center">393 <sup><sub>m</sub></sup></td>
+            <td align="center">1:17:20</td>
+            <td align="center">153 <sup><sub>w</sub></sup></td>
+            <td align="center">22.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">129</td>
+        </tr>
+            <tr>
             <td>12-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Lumpy Ramps in Watopia" title="Lumpy Ramps in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">153 <sup><sub>w</sub></sup></td>
             <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>04-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Bealach na Ba at 100% Elevation in Watopia" title="Climb Portal: Bealach na Ba at 100% Elevation in Watopia"/>
-<a href="https://www.strava.com/activities/10693341214" title="Kcal: 853 | Gear: None ">Climb Portal: Bealach na B...</a>
-            </td>
-            <td align="center">31 <sup><sub>km</sub></sup></td>
-            <td align="center">721 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:27</td>
-            <td align="center">165 <sup><sub>w</sub></sup></td>
-            <td align="center">20.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
