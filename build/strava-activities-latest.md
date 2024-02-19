@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia" title="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia"/>
+<a href="https://www.strava.com/activities/10785775695" title="Kcal: 505 | Gear: None ">Climb Portal: Col du Platz...</a>
+            </td>
+            <td align="center">17 <sup><sub>km</sub></sup></td>
+            <td align="center">626 <sup><sub>m</sub></sup></td>
+            <td align="center">1:05:13</td>
+            <td align="center">136 <sup><sub>w</sub></sup></td>
+            <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
+            <tr>
             <td>15-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="24 Shots to Fire in Watopia" title="24 Shots to Fire in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">152 <sup><sub>w</sub></sup></td>
             <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>08-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The &#039;Grind&#039; Finale in New York" title="The &#039;Grind&#039; Finale in New York"/>
-<a href="https://www.strava.com/activities/10721942311" title="Kcal: 388 | Gear: None ">The &#039;Grind&#039; Finale in New ...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">331 <sup><sub>m</sub></sup></td>
-            <td align="center">52:01</td>
-            <td align="center">131 <sup><sub>w</sub></sup></td>
-            <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">128</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
