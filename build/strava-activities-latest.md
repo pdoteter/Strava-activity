@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="6 Bombs to Drop on Cote de Pike in Watopia" title="6 Bombs to Drop on Cote de Pike in Watopia"/>
+<a href="https://www.strava.com/activities/10794364069" title="Kcal: 480 | Gear: None ">6 Bombs to Drop on Cote de...</a>
+            </td>
+            <td align="center">23 <sup><sub>km</sub></sup></td>
+            <td align="center">327 <sup><sub>m</sub></sup></td>
+            <td align="center">58:47</td>
+            <td align="center">143 <sup><sub>w</sub></sup></td>
+            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>18-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia" title="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">157 <sup><sub>w</sub></sup></td>
             <td align="center">30.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>11-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Over-Under&#039;s, MTB Style in Richmond" title="Over-Under&#039;s, MTB Style in Richmond"/>
-<a href="https://www.strava.com/activities/10739744699" title="Kcal: 524 | Gear: None ">Over-Under&#039;s, MTB Style in...</a>
-            </td>
-            <td align="center">28 <sup><sub>km</sub></sup></td>
-            <td align="center">205 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:22</td>
-            <td align="center">152 <sup><sub>w</sub></sup></td>
-            <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
