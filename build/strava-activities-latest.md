@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>29-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="6 Strength Bombs in Watopia" title="6 Strength Bombs in Watopia"/>
+<a href="https://www.strava.com/activities/10862038932" title="Kcal: 485 | Gear: None ">6 Strength Bombs in Watopia</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">308 <sup><sub>m</sub></sup></td>
+            <td align="center">1:01:12</td>
+            <td align="center">138 <sup><sub>w</sub></sup></td>
+            <td align="center">26.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
             <td>26-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Max O&#039;clock in France" title="Max O&#039;clock in France"/>
@@ -60,19 +73,6 @@
             <td align="center">143 <sup><sub>w</sub></sup></td>
             <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">133</td>
-        </tr>
-            <tr>
-            <td>18-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia" title="Climb Portal: Col du Platzerwasel at 100% Elevation in Watopia"/>
-<a href="https://www.strava.com/activities/10785775695" title="Kcal: 505 | Gear: None ">Climb Portal: Col du Platz...</a>
-            </td>
-            <td align="center">17 <sup><sub>km</sub></sup></td>
-            <td align="center">626 <sup><sub>m</sub></sup></td>
-            <td align="center">1:05:13</td>
-            <td align="center">136 <sup><sub>w</sub></sup></td>
-            <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
