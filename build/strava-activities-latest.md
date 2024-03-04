@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>03-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Coll d&#039;Ordino at 100% Elevation in Watopia" title="Climb Portal: Coll d&#039;Ordino at 100% Elevation in Watopia"/>
+<a href="https://www.strava.com/activities/10879958902" title="Kcal: 650 | Gear: None ">Climb Portal: Coll d&#039;Ordin...</a>
+            </td>
+            <td align="center">28 <sup><sub>km</sub></sup></td>
+            <td align="center">583 <sup><sub>m</sub></sup></td>
+            <td align="center">1:08:26</td>
+            <td align="center">166 <sup><sub>w</sub></sup></td>
+            <td align="center">24.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">151</td>
+        </tr>
+            <tr>
             <td>29-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="6 Strength Bombs in Watopia" title="6 Strength Bombs in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">149 <sup><sub>w</sub></sup></td>
             <td align="center">15.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">130</td>
-        </tr>
-            <tr>
-            <td>19-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="6 Bombs to Drop on Cote de Pike in Watopia" title="6 Bombs to Drop on Cote de Pike in Watopia"/>
-<a href="https://www.strava.com/activities/10794364069" title="Kcal: 480 | Gear: None ">6 Bombs to Drop on Cote de...</a>
-            </td>
-            <td align="center">23 <sup><sub>km</sub></sup></td>
-            <td align="center">327 <sup><sub>m</sub></sup></td>
-            <td align="center">58:47</td>
-            <td align="center">143 <sup><sub>w</sub></sup></td>
-            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
