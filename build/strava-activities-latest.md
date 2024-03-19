@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tidbinbilla to Corin Dam | Australia" title="ROUVY - Tidbinbilla to Corin Dam | Australia"/>
+<a href="https://www.strava.com/activities/10986740403" title="Kcal: 681 | Gear: None ">ROUVY - Tidbinbilla to Cor...</a>
+            </td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">723 <sup><sub>m</sub></sup></td>
+            <td align="center">1:15:01</td>
+            <td align="center">157 <sup><sub>w</sub></sup></td>
+            <td align="center">20 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
             <td>17-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Antwerpen, Vlaanderen - Lunch Gravel Ride" title="⛅ Antwerpen, Vlaanderen - Lunch Gravel Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">162 <sup><sub>w</sub></sup></td>
             <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>03-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Coll d&#039;Ordino at 100% Elevation in Watopia" title="Climb Portal: Coll d&#039;Ordino at 100% Elevation in Watopia"/>
-<a href="https://www.strava.com/activities/10879958902" title="Kcal: 650 | Gear: None ">Climb Portal: Coll d&#039;Ordin...</a>
-            </td>
-            <td align="center">28 <sup><sub>km</sub></sup></td>
-            <td align="center">583 <sup><sub>m</sub></sup></td>
-            <td align="center">1:08:26</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">24.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
