@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>31-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Lier, Vlaanderen - Lunch Ride" title="⛅ Lier, Vlaanderen - Lunch Ride"/>
+<a href="https://www.strava.com/activities/11075437771" title="Kcal: 1077 | Gear: None ">⛅ Lier, Vlaanderen - Lunch...</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">106 <sup><sub>m</sub></sup></td>
+            <td align="center">1:44:11</td>
+            <td align="center">149 <sup><sub>w</sub></sup></td>
+            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">145</td>
+        </tr>
+            <tr>
+            <td>31-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Mortsel, Vlaanderen - Morning Ride" title="☀️ Mortsel, Vlaanderen - Morning Ride"/>
+<a href="https://www.strava.com/activities/11074567236" title="Kcal: 538 | Gear: None ">☀️ Mortsel, Vlaanderen - M...</a>
+            </td>
+            <td align="center">21 <sup><sub>km</sub></sup></td>
+            <td align="center">73 <sup><sub>m</sub></sup></td>
+            <td align="center">49:16</td>
+            <td align="center">159 <sup><sub>w</sub></sup></td>
+            <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">145</td>
+        </tr>
+            <tr>
             <td>26-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - La Vuelta 2023 | Stage 21 - Madrid Part 1" title="ROUVY - La Vuelta 2023 | Stage 21 - Madrid Part 1"/>
@@ -47,32 +73,6 @@
             <td align="center">149 <sup><sub>w</sub></sup></td>
             <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
-        </tr>
-            <tr>
-            <td>18-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tidbinbilla to Corin Dam | Australia" title="ROUVY - Tidbinbilla to Corin Dam | Australia"/>
-<a href="https://www.strava.com/activities/10986740403" title="Kcal: 681 | Gear: None ">ROUVY - Tidbinbilla to Cor...</a>
-            </td>
-            <td align="center">25 <sup><sub>km</sub></sup></td>
-            <td align="center">723 <sup><sub>m</sub></sup></td>
-            <td align="center">1:15:01</td>
-            <td align="center">157 <sup><sub>w</sub></sup></td>
-            <td align="center">20 <sup><sub>km/h</sub></sup></td>
-            <td align="center">137</td>
-        </tr>
-            <tr>
-            <td>17-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Antwerpen, Vlaanderen - Lunch Gravel Ride" title="⛅ Antwerpen, Vlaanderen - Lunch Gravel Ride"/>
-<a href="https://www.strava.com/activities/10977504829" title="Kcal: 388 | Gear: None ">⛅ Antwerpen, Vlaanderen - ...</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">37 <sup><sub>m</sub></sup></td>
-            <td align="center">36:24</td>
-            <td align="center">155 <sup><sub>w</sub></sup></td>
-            <td align="center">22.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
