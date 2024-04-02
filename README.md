@@ -160,7 +160,7 @@ I burned `1359942 calories` doing so, that's about `5 037` pizza slices 🍕
                 <td>10-03-24</td>
                 <td>
                     <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Bertem, Vlaanderen - Morning Mountain Bike Ride" title="☀️ Bertem, Vlaanderen - Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/10929185377" title="Kcal: 1514 | Gear: Nicolai ☠️ ">☀️ Bertem, Vlaanderen - Mo...</a>
+<a href="https://www.strava.com/activities/10929185377" title="Kcal: 1514 | Gear: Cheetah Forpleasure ">☀️ Bertem, Vlaanderen - Mo...</a>
                 </td>
                 <td align="center">48 <sup><sub>km</sub></sup></td>
                 <td align="center">678 <sup><sub>m</sub></sup></td>
@@ -2556,14 +2556,14 @@ I burned `1359942 calories` doing so, that's about `5 037` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Cheetah Forpleasure</td>
-            <td align="center">30</td>
+            <td align="center">31</td>
             <td align="center">
                                     50 <sup><sub>km avg</sub></sup> /
-                    1 489 <sup><sub>km total</sub></sup>
+                    1 537 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">13 130 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 17h 8m</td>
-            <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">13 808 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 19h 44m</td>
+            <td align="center">16.8 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">YT Szepter</td>
@@ -2578,13 +2578,13 @@ I burned `1359942 calories` doing so, that's about `5 037` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Nicolai ☠️</td>
-            <td align="center">20</td>
+            <td align="center">19</td>
             <td align="center">
                                     48 <sup><sub>km avg</sub></sup> /
-                    954 <sup><sub>km total</sub></sup>
+                    907 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">9 549 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 9h 19m</td>
+            <td align="center">8 871 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 6h 44m</td>
             <td align="center">16.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
