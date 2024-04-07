@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Ossendrecht, Noord-Brabant - Lunch Gravel Ride" title="⛅ Ossendrecht, Noord-Brabant - Lunch Gravel Ride"/>
+<a href="https://www.strava.com/activities/11118743479" title="Kcal: 2015 | Gear: None ">⛅ Ossendrecht, Noord-Braba...</a>
+            </td>
+            <td align="center">64 <sup><sub>km</sub></sup></td>
+            <td align="center">233 <sup><sub>m</sub></sup></td>
+            <td align="center">3:07:58</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
             <td>31-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Lier, Vlaanderen - Lunch Ride" title="⛅ Lier, Vlaanderen - Lunch Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">149 <sup><sub>w</sub></sup></td>
             <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>21-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Wales | UK 30 km" title="ROUVY - Challenge Wales | UK 30 km"/>
-<a href="https://www.strava.com/activities/11008717546" title="Kcal: 524 | Gear: None ">ROUVY - Challenge Wales | ...</a>
-            </td>
-            <td align="center">30 <sup><sub>km</sub></sup></td>
-            <td align="center">343 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:16</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
