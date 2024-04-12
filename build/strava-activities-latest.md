@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot" title="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot"/>
+<a href="https://www.strava.com/activities/11157849918" title="Kcal: 603 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
+            </td>
+            <td align="center">26 <sup><sub>km</sub></sup></td>
+            <td align="center">495 <sup><sub>m</sub></sup></td>
+            <td align="center">1:06:10</td>
+            <td align="center">159 <sup><sub>w</sub></sup></td>
+            <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>06-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Ossendrecht, Noord-Brabant - Lunch Gravel Ride" title="⛅ Ossendrecht, Noord-Brabant - Lunch Gravel Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">161 <sup><sub>w</sub></sup></td>
             <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>24-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Challenge Puerto Varas | Chile 45 Km" title="ROUVY - Challenge Puerto Varas | Chile 45 Km"/>
-<a href="https://www.strava.com/activities/11026647336" title="Kcal: 726 | Gear: None ">ROUVY - Challenge Puerto V...</a>
-            </td>
-            <td align="center">45 <sup><sub>km</sub></sup></td>
-            <td align="center">341 <sup><sub>m</sub></sup></td>
-            <td align="center">1:24:58</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
