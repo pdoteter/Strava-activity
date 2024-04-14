@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Gravel Wellen, Eddington 90" title="⛅ Gravel Wellen, Eddington 90"/>
+<a href="https://www.strava.com/activities/11172256759" title="Kcal: 2618 | Gear: None ">⛅ Gravel Wellen, Eddington...</a>
+            </td>
+            <td align="center">93 <sup><sub>km</sub></sup></td>
+            <td align="center">734 <sup><sub>m</sub></sup></td>
+            <td align="center">4:23:50</td>
+            <td align="center">142 <sup><sub>w</sub></sup></td>
+            <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">136</td>
+        </tr>
+            <tr>
             <td>11-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot" title="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot"/>
@@ -60,19 +73,6 @@
             <td align="center">159 <sup><sub>w</sub></sup></td>
             <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>26-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - La Vuelta 2023 | Stage 21 - Madrid Part 1" title="ROUVY - La Vuelta 2023 | Stage 21 - Madrid Part 1"/>
-<a href="https://www.strava.com/activities/11043053913" title="Kcal: 474 | Gear: None ">ROUVY - La Vuelta 2023 | S...</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">311 <sup><sub>m</sub></sup></td>
-            <td align="center">51:03</td>
-            <td align="center">161 <sup><sub>w</sub></sup></td>
-            <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
