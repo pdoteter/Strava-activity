@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>16-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 2 - Stans" title="ROUVY - Tour of the Alps 2024 | Stage 2 - Stans"/>
+<a href="https://www.strava.com/activities/11195456841" title="Kcal: 461 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">434 <sup><sub>m</sub></sup></td>
+            <td align="center">48:40</td>
+            <td align="center">165 <sup><sub>w</sub></sup></td>
+            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
             <td>13-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Gravel Wellen, Eddington 90" title="⛅ Gravel Wellen, Eddington 90"/>
@@ -59,19 +72,6 @@
             <td align="center">1:44:11</td>
             <td align="center">149 <sup><sub>w</sub></sup></td>
             <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>31-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Mortsel, Vlaanderen - Morning Ride" title="☀️ Mortsel, Vlaanderen - Morning Ride"/>
-<a href="https://www.strava.com/activities/11074567236" title="Kcal: 538 | Gear: None ">☀️ Mortsel, Vlaanderen - M...</a>
-            </td>
-            <td align="center">21 <sup><sub>km</sub></sup></td>
-            <td align="center">73 <sup><sub>m</sub></sup></td>
-            <td align="center">49:16</td>
-            <td align="center">159 <sup><sub>w</sub></sup></td>
-            <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
         </tr>
                 <tr>
