@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 3 - Schwaz" title="ROUVY - Tour of the Alps 2024 | Stage 3 - Schwaz"/>
+<a href="https://www.strava.com/activities/11210865015" title="Kcal: 730 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">753 <sup><sub>m</sub></sup></td>
+            <td align="center">1:19:04</td>
+            <td align="center">161 <sup><sub>w</sub></sup></td>
+            <td align="center">18.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">129</td>
+        </tr>
+            <tr>
             <td>16-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 2 - Stans" title="ROUVY - Tour of the Alps 2024 | Stage 2 - Stans"/>
@@ -60,19 +73,6 @@
             <td align="center">156 <sup><sub>w</sub></sup></td>
             <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>31-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Lier, Vlaanderen - Lunch Ride" title="⛅ Lier, Vlaanderen - Lunch Ride"/>
-<a href="https://www.strava.com/activities/11075437771" title="Kcal: 1077 | Gear: None ">⛅ Lier, Vlaanderen - Lunch...</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">106 <sup><sub>m</sub></sup></td>
-            <td align="center">1:44:11</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
