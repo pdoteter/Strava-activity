@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>25-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 5 - Levico Terme" title="ROUVY - Tour of the Alps 2024 | Stage 5 - Levico Terme"/>
+<a href="https://www.strava.com/activities/11262210301" title="Kcal: 703 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
+            </td>
+            <td align="center">14 <sup><sub>km</sub></sup></td>
+            <td align="center">802 <sup><sub>m</sub></sup></td>
+            <td align="center">1:08:23</td>
+            <td align="center">181 <sup><sub>w</sub></sup></td>
+            <td align="center">12.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>23-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 4 - Borgo Valsugana" title="ROUVY - Tour of the Alps 2024 | Stage 4 - Borgo Valsugana"/>
@@ -60,19 +73,6 @@
             <td align="center">142 <sup><sub>w</sub></sup></td>
             <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>11-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot" title="ROUVY - Tour of the Alps 2024 | Stage 1 - Lafot"/>
-<a href="https://www.strava.com/activities/11157849918" title="Kcal: 603 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">495 <sup><sub>m</sub></sup></td>
-            <td align="center">1:06:10</td>
-            <td align="center">159 <sup><sub>w</sub></sup></td>
-            <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
