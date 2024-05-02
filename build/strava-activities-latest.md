@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Lille, Ultimate  Gravel Antwerpse Kempen, met nieuwe cockpit" title="⛅ Lille, Ultimate  Gravel Antwerpse Kempen, met nieuwe cockpit"/>
+<a href="https://www.strava.com/activities/11306715373" title="Kcal: 1773 | Gear: None ">⛅ Lille, Ultimate  Gravel ...</a>
+            </td>
+            <td align="center">59 <sup><sub>km</sub></sup></td>
+            <td align="center">138 <sup><sub>m</sub></sup></td>
+            <td align="center">2:58:10</td>
+            <td align="center">143 <sup><sub>w</sub></sup></td>
+            <td align="center">20 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
             <td>30-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Mortsel, Vlaanderen - Afternoon Ride" title="⛅ Mortsel, Vlaanderen - Afternoon Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
-        </tr>
-            <tr>
-            <td>18-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 3 - Schwaz" title="ROUVY - Tour of the Alps 2024 | Stage 3 - Schwaz"/>
-<a href="https://www.strava.com/activities/11210865015" title="Kcal: 730 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">753 <sup><sub>m</sub></sup></td>
-            <td align="center">1:19:04</td>
-            <td align="center">161 <sup><sub>w</sub></sup></td>
-            <td align="center">18.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
