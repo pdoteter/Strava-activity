@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌫️ Bierbeek, 666 gravel - Morning Gravel Ride" title="🌫️ Bierbeek, 666 gravel - Morning Gravel Ride"/>
+<a href="https://www.strava.com/activities/11368540687" title="Kcal: 2301 | Gear: None ">🌫️ Bierbeek, 666 gravel - ...</a>
+            </td>
+            <td align="center">75 <sup><sub>km</sub></sup></td>
+            <td align="center">850 <sup><sub>m</sub></sup></td>
+            <td align="center">3:33:57</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">21 <sup><sub>km/h</sub></sup></td>
+            <td align="center">152</td>
+        </tr>
+            <tr>
             <td>07-05-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Wye Valley | Babble Ride Across Britain" title="ROUVY - Wye Valley | Babble Ride Across Britain"/>
@@ -60,19 +73,6 @@
             <td align="center">141 <sup><sub>w</sub></sup></td>
             <td align="center">14.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>25-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Tour of the Alps 2024 | Stage 5 - Levico Terme" title="ROUVY - Tour of the Alps 2024 | Stage 5 - Levico Terme"/>
-<a href="https://www.strava.com/activities/11262210301" title="Kcal: 703 | Gear: None ">ROUVY - Tour of the Alps 2...</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">802 <sup><sub>m</sub></sup></td>
-            <td align="center">1:08:23</td>
-            <td align="center">181 <sup><sub>w</sub></sup></td>
-            <td align="center">12.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
