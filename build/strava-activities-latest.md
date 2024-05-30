@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>29-05-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Monno to Passo del Mortirolo | Italy" title="ROUVY - Monno to Passo del Mortirolo | Italy"/>
+<a href="https://www.strava.com/activities/11525590390" title="Kcal: 611 | Gear: None ">ROUVY - Monno to Passo del...</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">704 <sup><sub>m</sub></sup></td>
+            <td align="center">55:30</td>
+            <td align="center">193 <sup><sub>w</sub></sup></td>
+            <td align="center">11.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
+            <tr>
             <td>26-05-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Ortisei to Passo Sella | Italy" title="ROUVY - Ortisei to Passo Sella | Italy"/>
@@ -60,19 +73,6 @@
             <td align="center">152 <sup><sub>w</sub></sup></td>
             <td align="center">15.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">146</td>
-        </tr>
-            <tr>
-            <td>17-05-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Le Prese to Pradelle | Italy" title="ROUVY - Le Prese to Pradelle | Italy"/>
-<a href="https://www.strava.com/activities/11432554773" title="Kcal: 557 | Gear: None ">ROUVY - Le Prese to Pradel...</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">543 <sup><sub>m</sub></sup></td>
-            <td align="center">1:01:25</td>
-            <td align="center">158 <sup><sub>w</sub></sup></td>
-            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">124</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
