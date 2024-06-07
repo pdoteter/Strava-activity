@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Bertem, Vlaanderen - Afternoon Ride" title="⛅ Bertem, Vlaanderen - Afternoon Ride"/>
+<a href="https://www.strava.com/activities/11588797026" title="Kcal: 1377 | Gear: None ">⛅ Bertem, Vlaanderen - Aft...</a>
+            </td>
+            <td align="center">53 <sup><sub>km</sub></sup></td>
+            <td align="center">555 <sup><sub>m</sub></sup></td>
+            <td align="center">2:05:59</td>
+            <td align="center">159 <sup><sub>w</sub></sup></td>
+            <td align="center">25 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
             <td>04-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Mortsel, Vlaanderen - Afternoon Ride" title="⛅ Mortsel, Vlaanderen - Afternoon Ride"/>
@@ -59,19 +72,6 @@
             <td align="center">1:25:52</td>
             <td align="center">189 <sup><sub>w</sub></sup></td>
             <td align="center">12.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>24-05-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Predazzo to Passo Rolle | Italy" title="ROUVY - Predazzo to Passo Rolle | Italy"/>
-<a href="https://www.strava.com/activities/11486867177" title="Kcal: 908 | Gear: None ">ROUVY - Predazzo to Passo ...</a>
-            </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">959 <sup><sub>m</sub></sup></td>
-            <td align="center">1:24:19</td>
-            <td align="center">188 <sup><sub>w</sub></sup></td>
-            <td align="center">14.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
         </tr>
                 <tr>
