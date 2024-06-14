@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Bertem, Vlaanderen - Afternoon Ride" title="☀️ Bertem, Vlaanderen - Afternoon Ride"/>
+<a href="https://www.strava.com/activities/11644179925" title="Kcal: 1670 | Gear: None ">☀️ Bertem, Vlaanderen - Af...</a>
+            </td>
+            <td align="center">62 <sup><sub>km</sub></sup></td>
+            <td align="center">736 <sup><sub>m</sub></sup></td>
+            <td align="center">2:35:43</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>08-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Ninove, Vlaanderen - Morning Gravel Ride" title="☀️ Ninove, Vlaanderen - Morning Gravel Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">171 <sup><sub>w</sub></sup></td>
             <td align="center">22.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>29-05-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Monno to Passo del Mortirolo | Italy" title="ROUVY - Monno to Passo del Mortirolo | Italy"/>
-<a href="https://www.strava.com/activities/11525590390" title="Kcal: 611 | Gear: None ">ROUVY - Monno to Passo del...</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">704 <sup><sub>m</sub></sup></td>
-            <td align="center">55:30</td>
-            <td align="center">193 <sup><sub>w</sub></sup></td>
-            <td align="center">11.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
