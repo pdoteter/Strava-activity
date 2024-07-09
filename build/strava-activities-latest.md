@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride" title="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/11838742502" title="Kcal: 2462 | Gear: None ">⛅ Dimaro Folgarida, Trenti...</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">1 669 <sup><sub>m</sub></sup></td>
+            <td align="center">4:21:50</td>
+            <td align="center">126 <sup><sub>w</sub></sup></td>
+            <td align="center">9.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
             <td>30-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ bolero Maasmechelen gravel - een vettige bedoeling..." title="⛅ bolero Maasmechelen gravel - een vettige bedoeling..."/>
@@ -60,19 +73,6 @@
             <td align="center">153 <sup><sub>w</sub></sup></td>
             <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>13-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Bertem, Vlaanderen - Afternoon Ride" title="☀️ Bertem, Vlaanderen - Afternoon Ride"/>
-<a href="https://www.strava.com/activities/11644179925" title="Kcal: 1670 | Gear: None ">☀️ Bertem, Vlaanderen - Af...</a>
-            </td>
-            <td align="center">62 <sup><sub>km</sub></sup></td>
-            <td align="center">736 <sup><sub>m</sub></sup></td>
-            <td align="center">2:35:43</td>
-            <td align="center">156 <sup><sub>w</sub></sup></td>
-            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
