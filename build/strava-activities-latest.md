@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride" title="☀️ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/11846524333" title="Kcal: 3147 | Gear: None ">☀️ Dimaro Folgarida, Trent...</a>
+            </td>
+            <td align="center">71 <sup><sub>km</sub></sup></td>
+            <td align="center">1 813 <sup><sub>m</sub></sup></td>
+            <td align="center">5:49:39</td>
+            <td align="center">123 <sup><sub>w</sub></sup></td>
+            <td align="center">12.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">129</td>
+        </tr>
+            <tr>
             <td>08-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride" title="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">140 <sup><sub>w</sub></sup></td>
             <td align="center">16.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>19-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Bertem, Vlaanderen - Afternoon Ride" title="⛅ Bertem, Vlaanderen - Afternoon Ride"/>
-<a href="https://www.strava.com/activities/11690708763" title="Kcal: 1714 | Gear: None ">⛅ Bertem, Vlaanderen - Aft...</a>
-            </td>
-            <td align="center">66 <sup><sub>km</sub></sup></td>
-            <td align="center">733 <sup><sub>m</sub></sup></td>
-            <td align="center">2:41:58</td>
-            <td align="center">153 <sup><sub>w</sub></sup></td>
-            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
