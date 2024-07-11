@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ dag 3 deel twee, na de lift" title="⛅ dag 3 deel twee, na de lift"/>
+<a href="https://www.strava.com/activities/11855497307" title="Kcal: 1343 | Gear: None ">⛅ dag 3 deel twee, na de l...</a>
+            </td>
+            <td align="center">53 <sup><sub>km</sub></sup></td>
+            <td align="center">527 <sup><sub>m</sub></sup></td>
+            <td align="center">3:39:14</td>
+            <td align="center">74 <sup><sub>w</sub></sup></td>
+            <td align="center">14.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">117</td>
+        </tr>
+            <tr>
+            <td>10-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Dag 3 deel 1, naar de lift" title="⛅ Dag 3 deel 1, naar de lift"/>
+<a href="https://www.strava.com/activities/11853218351" title="Kcal: 1548 | Gear: None ">⛅ Dag 3 deel 1, naar de li...</a>
+            </td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">1 021 <sup><sub>m</sub></sup></td>
+            <td align="center">2:26:14</td>
+            <td align="center">151 <sup><sub>w</sub></sup></td>
+            <td align="center">7.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">125</td>
+        </tr>
+            <tr>
             <td>09-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride" title="☀️ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride"/>
@@ -47,32 +73,6 @@
             <td align="center">168 <sup><sub>w</sub></sup></td>
             <td align="center">22.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">147</td>
-        </tr>
-            <tr>
-            <td>25-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Zaventem, Vlaanderen - Afternoon Xtreme Gravel" title="☀️ Zaventem, Vlaanderen - Afternoon Xtreme Gravel"/>
-<a href="https://www.strava.com/activities/11737373578" title="Kcal: 1731 | Gear: None ">☀️ Zaventem, Vlaanderen - ...</a>
-            </td>
-            <td align="center">56 <sup><sub>km</sub></sup></td>
-            <td align="center">776 <sup><sub>m</sub></sup></td>
-            <td align="center">3:03:37</td>
-            <td align="center">135 <sup><sub>w</sub></sup></td>
-            <td align="center">18.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
-        </tr>
-            <tr>
-            <td>23-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Antwerpen, Vlaanderen - Afternoon Mountain Bike Ride" title="⛅ Antwerpen, Vlaanderen - Afternoon Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/11721825355" title="Kcal: 1251 | Gear: None ">⛅ Antwerpen, Vlaanderen - ...</a>
-            </td>
-            <td align="center">36 <sup><sub>km</sub></sup></td>
-            <td align="center">176 <sup><sub>m</sub></sup></td>
-            <td align="center">2:07:04</td>
-            <td align="center">140 <sup><sub>w</sub></sup></td>
-            <td align="center">16.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
