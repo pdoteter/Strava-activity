@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Dag 4 Dimaro Folgarida, Trentino-Alto Adige" title="☀️ Dag 4 Dimaro Folgarida, Trentino-Alto Adige"/>
+<a href="https://www.strava.com/activities/11863266352" title="Kcal: 2860 | Gear: None ">☀️ Dag 4 Dimaro Folgarida,...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">1 552 <sup><sub>m</sub></sup></td>
+            <td align="center">5:23:27</td>
+            <td align="center">120 <sup><sub>w</sub></sup></td>
+            <td align="center">13.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
+        </tr>
+            <tr>
             <td>10-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ dag 3 deel twee, na de lift" title="⛅ dag 3 deel twee, na de lift"/>
@@ -60,19 +73,6 @@
             <td align="center">126 <sup><sub>w</sub></sup></td>
             <td align="center">9.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>30-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ bolero Maasmechelen gravel - een vettige bedoeling..." title="⛅ bolero Maasmechelen gravel - een vettige bedoeling..."/>
-<a href="https://www.strava.com/activities/11774978798" title="Kcal: 3740 | Gear: None ">⛅ bolero Maasmechelen grav...</a>
-            </td>
-            <td align="center">122 <sup><sub>km</sub></sup></td>
-            <td align="center">601 <sup><sub>m</sub></sup></td>
-            <td align="center">5:26:17</td>
-            <td align="center">168 <sup><sub>w</sub></sup></td>
-            <td align="center">22.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">147</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
