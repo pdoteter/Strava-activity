@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ laatste dag val Di Sole; gsm verloren, maar toch terug door eerlijke vinder," title="⛅ laatste dag val Di Sole; gsm verloren, maar toch terug door eerlijke vinder,"/>
+<a href="https://www.strava.com/activities/11878060108" title="Kcal: 1589 | Gear: None ">⛅ laatste dag val Di Sole;...</a>
+            </td>
+            <td align="center">47 <sup><sub>km</sub></sup></td>
+            <td align="center">1 874 <sup><sub>m</sub></sup></td>
+            <td align="center">3:23:57</td>
+            <td align="center">92 <sup><sub>w</sub></sup></td>
+            <td align="center">13.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">117</td>
+        </tr>
+            <tr>
             <td>11-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Dag 4 Dimaro Folgarida, Trentino-Alto Adige" title="☀️ Dag 4 Dimaro Folgarida, Trentino-Alto Adige"/>
@@ -60,19 +73,6 @@
             <td align="center">123 <sup><sub>w</sub></sup></td>
             <td align="center">12.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>08-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride" title="⛅ Dimaro Folgarida, Trentino-Alto Adige - Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/11838742502" title="Kcal: 2462 | Gear: None ">⛅ Dimaro Folgarida, Trenti...</a>
-            </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">1 669 <sup><sub>m</sub></sup></td>
-            <td align="center">4:21:50</td>
-            <td align="center">126 <sup><sub>w</sub></sup></td>
-            <td align="center">9.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
