@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride" title="⛅ Oud-Heverlee, Vlaanderen - Afternoon Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/12019859917" title="Kcal: 1151 | Gear: None ">⛅ Oud-Heverlee, Vlaanderen...</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">441 <sup><sub>m</sub></sup></td>
+            <td align="center">1:47:19</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
             <td>26-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Gravel naar Meerdaelbos, snel, pittig einde" title="⛅ Gravel naar Meerdaelbos, snel, pittig einde"/>
@@ -60,19 +73,6 @@
             <td align="center">103 <sup><sub>w</sub></sup></td>
             <td align="center">25.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">122</td>
-        </tr>
-            <tr>
-            <td>13-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ laatste dag val Di Sole; gsm verloren, maar toch terug door eerlijke vinder," title="⛅ laatste dag val Di Sole; gsm verloren, maar toch terug door eerlijke vinder,"/>
-<a href="https://www.strava.com/activities/11878060108" title="Kcal: 1589 | Gear: None ">⛅ laatste dag val Di Sole;...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">1 874 <sup><sub>m</sub></sup></td>
-            <td align="center">3:23:57</td>
-            <td align="center">92 <sup><sub>w</sub></sup></td>
-            <td align="center">13.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">117</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
