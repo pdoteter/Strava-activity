@@ -2562,17 +2562,6 @@ I burned `1430037 calories` doing so, that's about `5 296` pizza slices 🍕
             <td align="center">15.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">Specialized Roubaix ☠️</td>
-            <td align="center">35</td>
-            <td align="center">
-                                    77 <sup><sub>km avg</sub></sup> /
-                    2 707 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">30 557 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 9h 34m</td>
-            <td align="center">20.9 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
             <td align="center">YT Szepter</td>
             <td align="center">40</td>
             <td align="center">
@@ -2582,17 +2571,6 @@ I burned `1430037 calories` doing so, that's about `5 296` pizza slices 🍕
             <td align="center">17 430 <sup><sub>m</sub></sup></td>
             <td align="center">5d 6h 22m</td>
             <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">Cannondale Jekyll ☠️</td>
-            <td align="center">64</td>
-            <td align="center">
-                                    41 <sup><sub>km avg</sub></sup> /
-                    2 621 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">53 859 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 1d 6h 51m</td>
-            <td align="center">13.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Litespeed T5G</td>
@@ -2615,6 +2593,28 @@ I burned `1430037 calories` doing so, that's about `5 296` pizza slices 🍕
             <td align="center">13 808 <sup><sub>m</sub></sup></td>
             <td align="center">3d 19h 44m</td>
             <td align="center">16.8 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">Specialized Roubaix ☠️</td>
+            <td align="center">35</td>
+            <td align="center">
+                                    77 <sup><sub>km avg</sub></sup> /
+                    2 707 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">30 557 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 9h 34m</td>
+            <td align="center">20.9 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">Cannondale Jekyll ☠️</td>
+            <td align="center">64</td>
+            <td align="center">
+                                    41 <sup><sub>km avg</sub></sup> /
+                    2 621 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">53 859 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 1d 6h 51m</td>
+            <td align="center">13.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Nicolai ☠️</td>
