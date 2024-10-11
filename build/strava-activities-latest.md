@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Mallorca - Coll d&#039;Honor to Alaro" title="Mallorca - Coll d&#039;Honor to Alaro"/>
+<a href="https://www.strava.com/activities/12614816200" title="Kcal: 491 | Gear: None ">Mallorca - Coll d&#039;Honor to...</a>
+            </td>
+            <td align="center">21 <sup><sub>km</sub></sup></td>
+            <td align="center">446 <sup><sub>m</sub></sup></td>
+            <td align="center">1:02:05</td>
+            <td align="center">138 <sup><sub>w</sub></sup></td>
+            <td align="center">20 <sup><sub>km/h</sub></sup></td>
+            <td align="center">142</td>
+        </tr>
+            <tr>
             <td>06-10-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Mallorca - Monestir de Lluc" title="Mallorca - Monestir de Lluc"/>
@@ -59,19 +72,6 @@
             <td align="center">2:10:00</td>
             <td align="center">158 <sup><sub>w</sub></sup></td>
             <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">139</td>
-        </tr>
-            <tr>
-            <td>10-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="☀️ Herentals, Vlaanderen - Morning Gravel Ride" title="☀️ Herentals, Vlaanderen - Morning Gravel Ride"/>
-<a href="https://www.strava.com/activities/12111533893" title="Kcal: 2046 | Gear: None ">☀️ Herentals, Vlaanderen -...</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">215 <sup><sub>m</sub></sup></td>
-            <td align="center">3:18:45</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">22.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">139</td>
         </tr>
                 <tr>
