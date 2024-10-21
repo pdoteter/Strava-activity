@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>20-10-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart" title="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart"/>
+<a href="https://www.strava.com/activities/12699593880" title="Kcal: 1535 | Gear: None ">🌧 TT Meerle Hoogstraten, G...</a>
+            </td>
+            <td align="center">47 <sup><sub>km</sub></sup></td>
+            <td align="center">106 <sup><sub>m</sub></sup></td>
+            <td align="center">2:14:58</td>
+            <td align="center">163 <sup><sub>w</sub></sup></td>
+            <td align="center">20.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
+            <td>20-10-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ TT Meerle Hoogstraten, Vlaanderen - Garmin wou niet opstarten" title="⛅ TT Meerle Hoogstraten, Vlaanderen - Garmin wou niet opstarten"/>
+<a href="https://www.strava.com/activities/12698160101" title="Kcal: 177 | Gear: None ">⛅ TT Meerle Hoogstraten, V...</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">31 <sup><sub>m</sub></sup></td>
+            <td align="center">20:53</td>
+            <td align="center">127 <sup><sub>w</sub></sup></td>
+            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>13-10-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Italy - Passo della Mendola" title="Italy - Passo della Mendola"/>
@@ -47,32 +73,6 @@
             <td align="center">149 <sup><sub>w</sub></sup></td>
             <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">108</td>
-        </tr>
-            <tr>
-            <td>25-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Zoersel, Vlaanderen - Morning Gravel Ride" title="⛅ Zoersel, Vlaanderen - Morning Gravel Ride"/>
-<a href="https://www.strava.com/activities/12237570211" title="Kcal: 1554 | Gear: None ">⛅ Zoersel, Vlaanderen - Mo...</a>
-            </td>
-            <td align="center">55 <sup><sub>km</sub></sup></td>
-            <td align="center">94 <sup><sub>m</sub></sup></td>
-            <td align="center">2:19:09</td>
-            <td align="center">163 <sup><sub>w</sub></sup></td>
-            <td align="center">23.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>18-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Rotselaar, Vlaanderen - Morning Gravel Ride" title="⛅ Rotselaar, Vlaanderen - Morning Gravel Ride"/>
-<a href="https://www.strava.com/activities/12179060654" title="Kcal: 3274 | Gear: None ">⛅ Rotselaar, Vlaanderen - ...</a>
-            </td>
-            <td align="center">120 <sup><sub>km</sub></sup></td>
-            <td align="center">830 <sup><sub>m</sub></sup></td>
-            <td align="center">5:14:12</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">23 <sup><sub>km/h</sub></sup></td>
-            <td align="center">150</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
