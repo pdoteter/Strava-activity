@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>24-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Germany - Hamburg - Trail around Kaiserstuhl (MTB)" title="Germany - Hamburg - Trail around Kaiserstuhl (MTB)"/>
+<a href="https://www.strava.com/activities/12734442660" title="Kcal: 454 | Gear: None ">Germany - Hamburg - Trail ...</a>
+            </td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">349 <sup><sub>m</sub></sup></td>
+            <td align="center">56:01</td>
+            <td align="center">145 <sup><sub>w</sub></sup></td>
+            <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>20-10-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart" title="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart"/>
@@ -60,19 +73,6 @@
             <td align="center">138 <sup><sub>w</sub></sup></td>
             <td align="center">20 <sup><sub>km/h</sub></sup></td>
             <td align="center">142</td>
-        </tr>
-            <tr>
-            <td>06-10-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Mallorca - Monestir de Lluc" title="Mallorca - Monestir de Lluc"/>
-<a href="https://www.strava.com/activities/12589095482" title="Kcal: 613 | Gear: None ">Mallorca - Monestir de Lluc</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">591 <sup><sub>m</sub></sup></td>
-            <td align="center">1:11:58</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">108</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
