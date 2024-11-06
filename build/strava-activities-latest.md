@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Rhodes - Part 2 - from Psynthos to Salakos" title="Rhodes - Part 2 - from Psynthos to Salakos"/>
+<a href="https://www.strava.com/activities/12829832096" title="Kcal: 517 | Gear: None ">Rhodes - Part 2 - from Psy...</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">452 <sup><sub>m</sub></sup></td>
+            <td align="center">1:04:53</td>
+            <td align="center">139 <sup><sub>w</sub></sup></td>
+            <td align="center">22.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>03-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride" title="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">163 <sup><sub>w</sub></sup></td>
             <td align="center">20.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>20-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ TT Meerle Hoogstraten, Vlaanderen - Garmin wou niet opstarten" title="⛅ TT Meerle Hoogstraten, Vlaanderen - Garmin wou niet opstarten"/>
-<a href="https://www.strava.com/activities/12698160101" title="Kcal: 177 | Gear: None ">⛅ TT Meerle Hoogstraten, V...</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">31 <sup><sub>m</sub></sup></td>
-            <td align="center">20:53</td>
-            <td align="center">127 <sup><sub>w</sub></sup></td>
-            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">154</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
