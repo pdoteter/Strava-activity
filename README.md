@@ -68,7 +68,7 @@ I burned `1437865 calories` doing so, that's about `5 325` pizza slices 🍕
             <td>03-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride" title="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/12812079605" title="Kcal: 1647 | Gear: Stumpie ">🌫️ Heusden-Zolder, Vlaande...</a>
+<a href="https://www.strava.com/activities/12812079605" title="Kcal: 1647 | Gear: Cheetah Forpleasure ">🌫️ Heusden-Zolder, Vlaande...</a>
             </td>
             <td align="center">48 <sup><sub>km</sub></sup></td>
             <td align="center">219 <sup><sub>m</sub></sup></td>
@@ -2568,13 +2568,13 @@ I burned `1437865 calories` doing so, that's about `5 325` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Stumpie</td>
-            <td align="center">161</td>
+            <td align="center">160</td>
             <td align="center">
                                     43 <sup><sub>km avg</sub></sup> /
-                    6 881 <sup><sub>km total</sub></sup>
+                    6 833 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">93 353 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 4d 8h 17m</td>
+            <td align="center">93 134 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 4d 5h 42m</td>
             <td align="center">15.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -2601,13 +2601,13 @@ I burned `1437865 calories` doing so, that's about `5 325` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Cheetah Forpleasure</td>
-            <td align="center">31</td>
+            <td align="center">32</td>
             <td align="center">
                                     50 <sup><sub>km avg</sub></sup> /
-                    1 537 <sup><sub>km total</sub></sup>
+                    1 585 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">13 808 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 19h 44m</td>
+            <td align="center">14 027 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 22h 20m</td>
             <td align="center">16.8 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
