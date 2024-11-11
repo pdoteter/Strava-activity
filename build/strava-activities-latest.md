@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride" title="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/12866747342" title="Kcal: 1565 | Gear: None ">⛅ Brecht, Vlaanderen - Mor...</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">94 <sup><sub>m</sub></sup></td>
+            <td align="center">2:26:30</td>
+            <td align="center">151 <sup><sub>w</sub></sup></td>
+            <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>05-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Rhodes - Part 2 - from Psynthos to Salakos" title="Rhodes - Part 2 - from Psynthos to Salakos"/>
@@ -60,19 +73,6 @@
             <td align="center">145 <sup><sub>w</sub></sup></td>
             <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">133</td>
-        </tr>
-            <tr>
-            <td>20-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart" title="🌧 TT Meerle Hoogstraten, Garmin na 20 minuten eindelijk opgestart"/>
-<a href="https://www.strava.com/activities/12699593880" title="Kcal: 1535 | Gear: None ">🌧 TT Meerle Hoogstraten, G...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">106 <sup><sub>m</sub></sup></td>
-            <td align="center">2:14:58</td>
-            <td align="center">163 <sup><sub>w</sub></sup></td>
-            <td align="center">20.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">153</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
