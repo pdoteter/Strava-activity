@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>12-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur" title="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur"/>
+<a href="https://www.strava.com/activities/12884384333" title="Kcal: 83 | Gear: None ">ROUVY - GWA Iceland | Stag...</a>
+            </td>
+            <td align="center">4 <sup><sub>km</sub></sup></td>
+            <td align="center">80 <sup><sub>m</sub></sup></td>
+            <td align="center">10:27</td>
+            <td align="center">143 <sup><sub>w</sub></sup></td>
+            <td align="center">25.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
+        </tr>
+            <tr>
+            <td>12-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 1 - Seljalands Falls" title="ROUVY - GWA Iceland | Stage 1 - Seljalands Falls"/>
+<a href="https://www.strava.com/activities/12884312392" title="Kcal: 308 | Gear: None ">ROUVY - GWA Iceland | Stag...</a>
+            </td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">25 <sup><sub>m</sub></sup></td>
+            <td align="center">37:03</td>
+            <td align="center">145 <sup><sub>w</sub></sup></td>
+            <td align="center">33 <sup><sub>km/h</sub></sup></td>
+            <td align="center">125</td>
+        </tr>
+            <tr>
             <td>10-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride" title="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride"/>
@@ -47,32 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>27-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Lille, Vlaanderen - Morning Gravel Ride" title="⛅ Lille, Vlaanderen - Morning Gravel Ride"/>
-<a href="https://www.strava.com/activities/12756258866" title="Kcal: 1452 | Gear: None ">⛅ Lille, Vlaanderen - Morn...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">124 <sup><sub>m</sub></sup></td>
-            <td align="center">2:12:56</td>
-            <td align="center">158 <sup><sub>w</sub></sup></td>
-            <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>24-10-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Germany - Hamburg - Trail around Kaiserstuhl (MTB)" title="Germany - Hamburg - Trail around Kaiserstuhl (MTB)"/>
-<a href="https://www.strava.com/activities/12734442660" title="Kcal: 454 | Gear: None ">Germany - Hamburg - Trail ...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">349 <sup><sub>m</sub></sup></td>
-            <td align="center">56:01</td>
-            <td align="center">145 <sup><sub>w</sub></sup></td>
-            <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
