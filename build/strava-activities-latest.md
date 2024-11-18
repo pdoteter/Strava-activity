@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>17-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Kalmthout, Vlaanderen - Morning Mountain Bike Ride" title="⛅ Kalmthout, Vlaanderen - Morning Mountain Bike Ride"/>
+<a href="https://www.strava.com/activities/12921401504" title="Kcal: 1387 | Gear: None ">⛅ Kalmthout, Vlaanderen - ...</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">109 <sup><sub>m</sub></sup></td>
+            <td align="center">2:14:30</td>
+            <td align="center">145 <sup><sub>w</sub></sup></td>
+            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>12-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur" title="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur"/>
@@ -60,19 +73,6 @@
             <td align="center">139 <sup><sub>w</sub></sup></td>
             <td align="center">22.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>03-11-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride" title="🌫️ Heusden-Zolder, Vlaanderen - Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/12812079605" title="Kcal: 1647 | Gear: None ">🌫️ Heusden-Zolder, Vlaande...</a>
-            </td>
-            <td align="center">48 <sup><sub>km</sub></sup></td>
-            <td align="center">219 <sup><sub>m</sub></sup></td>
-            <td align="center">2:35:40</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
