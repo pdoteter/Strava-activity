@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur" title="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur"/>
+<a href="https://www.strava.com/activities/12937618303" title="Kcal: 191 | Gear: None ">ROUVY - GWA Iceland | Stag...</a>
+            </td>
+            <td align="center">12 <sup><sub>km</sub></sup></td>
+            <td align="center">134 <sup><sub>m</sub></sup></td>
+            <td align="center">24:15</td>
+            <td align="center">137 <sup><sub>w</sub></sup></td>
+            <td align="center">28.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
+            <td>19-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Race: GWA Colombia | Stage 1 - Tatacoa Desert" title="ROUVY - Race: GWA Colombia | Stage 1 - Tatacoa Desert"/>
+<a href="https://www.strava.com/activities/12937441111" title="Kcal: 366 | Gear: None ">ROUVY - Race: GWA Colombia...</a>
+            </td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">302 <sup><sub>m</sub></sup></td>
+            <td align="center">32:41</td>
+            <td align="center">195 <sup><sub>w</sub></sup></td>
+            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">151</td>
+        </tr>
+            <tr>
             <td>17-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Kalmthout, Vlaanderen - Morning Mountain Bike Ride" title="⛅ Kalmthout, Vlaanderen - Morning Mountain Bike Ride"/>
@@ -47,32 +73,6 @@
             <td align="center">145 <sup><sub>w</sub></sup></td>
             <td align="center">33 <sup><sub>km/h</sub></sup></td>
             <td align="center">125</td>
-        </tr>
-            <tr>
-            <td>10-11-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride" title="⛅ Brecht, Vlaanderen - Morning Mountain Bike Ride"/>
-<a href="https://www.strava.com/activities/12866747342" title="Kcal: 1565 | Gear: None ">⛅ Brecht, Vlaanderen - Mor...</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">94 <sup><sub>m</sub></sup></td>
-            <td align="center">2:26:30</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>05-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="Rhodes - Part 2 - from Psynthos to Salakos" title="Rhodes - Part 2 - from Psynthos to Salakos"/>
-<a href="https://www.strava.com/activities/12829832096" title="Kcal: 517 | Gear: None ">Rhodes - Part 2 - from Psy...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">452 <sup><sub>m</sub></sup></td>
-            <td align="center">1:04:53</td>
-            <td align="center">139 <sup><sub>w</sub></sup></td>
-            <td align="center">22.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
