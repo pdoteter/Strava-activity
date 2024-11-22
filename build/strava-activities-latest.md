@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Race: GWA Colombia | Stage 3 - Nevado del Ruiz" title="ROUVY - Race: GWA Colombia | Stage 3 - Nevado del Ruiz"/>
+<a href="https://www.strava.com/activities/12952643539" title="Kcal: 820 | Gear: None ">ROUVY - Race: GWA Colombia...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">909 <sup><sub>m</sub></sup></td>
+            <td align="center">1:13:44</td>
+            <td align="center">194 <sup><sub>w</sub></sup></td>
+            <td align="center">12.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
+            <tr>
             <td>19-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur" title="ROUVY - GWA Iceland | Stage 5 - Coastal Djúpivogur"/>
@@ -60,19 +73,6 @@
             <td align="center">143 <sup><sub>w</sub></sup></td>
             <td align="center">25.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">115</td>
-        </tr>
-            <tr>
-            <td>12-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 1 - Seljalands Falls" title="ROUVY - GWA Iceland | Stage 1 - Seljalands Falls"/>
-<a href="https://www.strava.com/activities/12884312392" title="Kcal: 308 | Gear: None ">ROUVY - GWA Iceland | Stag...</a>
-            </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">25 <sup><sub>m</sub></sup></td>
-            <td align="center">37:03</td>
-            <td align="center">145 <sup><sub>w</sub></sup></td>
-            <td align="center">33 <sup><sub>km/h</sub></sup></td>
-            <td align="center">125</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
