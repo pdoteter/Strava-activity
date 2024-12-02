@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 3 - Skalafells Glacier" title="ROUVY - GWA Iceland | Stage 3 - Skalafells Glacier"/>
+<a href="https://www.strava.com/activities/13021896487" title="Kcal: 775 | Gear: None ">ROUVY - GWA Iceland | Stag...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">919 <sup><sub>m</sub></sup></td>
+            <td align="center">1:16:48</td>
+            <td align="center">176 <sup><sub>w</sub></sup></td>
+            <td align="center">12.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
             <td>27-11-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Iceland | Stage 2 - Jökulsárlón Glacier Lagoon" title="ROUVY - GWA Iceland | Stage 2 - Jökulsárlón Glacier Lagoon"/>
@@ -60,19 +73,6 @@
             <td align="center">137 <sup><sub>w</sub></sup></td>
             <td align="center">28.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">135</td>
-        </tr>
-            <tr>
-            <td>19-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Race: GWA Colombia | Stage 1 - Tatacoa Desert" title="ROUVY - Race: GWA Colombia | Stage 1 - Tatacoa Desert"/>
-<a href="https://www.strava.com/activities/12937441111" title="Kcal: 366 | Gear: None ">ROUVY - Race: GWA Colombia...</a>
-            </td>
-            <td align="center">15 <sup><sub>km</sub></sup></td>
-            <td align="center">302 <sup><sub>m</sub></sup></td>
-            <td align="center">32:41</td>
-            <td align="center">195 <sup><sub>w</sub></sup></td>
-            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
