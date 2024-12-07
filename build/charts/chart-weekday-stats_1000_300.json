@@ -42,7 +42,7 @@
                         "name": "Monday"
                     },
                     {
-                        "value": 13.66,
+                        "value": 13.65,
                         "name": "Tuesday"
                     },
                     {
@@ -54,15 +54,15 @@
                         "name": "Thursday"
                     },
                     {
-                        "value": 7.26,
+                        "value": 7.28,
                         "name": "Friday"
                     },
                     {
-                        "value": 21.72,
+                        "value": 21.71,
                         "name": "Saturday"
                     },
                     {
-                        "value": 33.65,
+                        "value": 33.64,
                         "name": "Sunday"
                     }
                 ]

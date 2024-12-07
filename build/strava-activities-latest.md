@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Madagascar | Stage 4 - Ambakoana" title="ROUVY - GWA Madagascar | Stage 4 - Ambakoana"/>
+<a href="https://www.strava.com/activities/13059808607" title="Kcal: 331 | Gear: None ">ROUVY - GWA Madagascar | S...</a>
+            </td>
+            <td align="center">22 <sup><sub>km</sub></sup></td>
+            <td align="center">241 <sup><sub>m</sub></sup></td>
+            <td align="center">43:01</td>
+            <td align="center">134 <sup><sub>w</sub></sup></td>
+            <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">131</td>
+        </tr>
+            <tr>
             <td>04-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Madagascar | Stage 2 - Ambatolampy" title="ROUVY - GWA Madagascar | Stage 2 - Ambatolampy"/>
@@ -60,19 +73,6 @@
             <td align="center">158 <sup><sub>w</sub></sup></td>
             <td align="center">25.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">137</td>
-        </tr>
-            <tr>
-            <td>21-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Race: GWA Colombia | Stage 3 - Nevado del Ruiz" title="ROUVY - Race: GWA Colombia | Stage 3 - Nevado del Ruiz"/>
-<a href="https://www.strava.com/activities/12952643539" title="Kcal: 820 | Gear: None ">ROUVY - Race: GWA Colombia...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">909 <sup><sub>m</sub></sup></td>
-            <td align="center">1:13:44</td>
-            <td align="center">194 <sup><sub>w</sub></sup></td>
-            <td align="center">12.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
