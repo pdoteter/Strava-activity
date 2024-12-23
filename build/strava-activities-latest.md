@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Winter Hilchenbach | Germany" title="ROUVY - Winter Hilchenbach | Germany"/>
+<a href="https://www.strava.com/activities/13166735750" title="Kcal: 469 | Gear: None ">ROUVY - Winter Hilchenbach...</a>
+            </td>
+            <td align="center">33 <sup><sub>km</sub></sup></td>
+            <td align="center">226 <sup><sub>m</sub></sup></td>
+            <td align="center">57:37</td>
+            <td align="center">142 <sup><sub>w</sub></sup></td>
+            <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>17-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Wout&#039;s Power Play | Wout van Aert&#039;s favourite" title="ROUVY - Wout&#039;s Power Play | Wout van Aert&#039;s favourite"/>
@@ -60,19 +73,6 @@
             <td align="center">134 <sup><sub>w</sub></sup></td>
             <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">131</td>
-        </tr>
-            <tr>
-            <td>04-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Madagascar | Stage 2 - Ambatolampy" title="ROUVY - GWA Madagascar | Stage 2 - Ambatolampy"/>
-<a href="https://www.strava.com/activities/13046681780" title="Kcal: 393 | Gear: None ">ROUVY - GWA Madagascar | S...</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">350 <sup><sub>m</sub></sup></td>
-            <td align="center">47:33</td>
-            <td align="center">144 <sup><sub>w</sub></sup></td>
-            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
