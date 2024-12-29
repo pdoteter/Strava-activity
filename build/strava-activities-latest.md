@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>28-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Cote de Montecalvo | Italy" title="ROUVY - Cote de Montecalvo | Italy"/>
+<a href="https://www.strava.com/activities/13207138804" title="Kcal: 514 | Gear: None ">ROUVY - Cote de Montecalvo...</a>
+            </td>
+            <td align="center">23 <sup><sub>km</sub></sup></td>
+            <td align="center">469 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:30</td>
+            <td align="center">148 <sup><sub>w</sub></sup></td>
+            <td align="center">23.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>25-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Torka | Slovenia" title="ROUVY - Torka | Slovenia"/>
@@ -60,19 +73,6 @@
             <td align="center">141 <sup><sub>w</sub></sup></td>
             <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>08-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Madagascar | Stage 6 - Ankafina - Tsarafidy" title="ROUVY - GWA Madagascar | Stage 6 - Ankafina - Tsarafidy"/>
-<a href="https://www.strava.com/activities/13071040253" title="Kcal: 519 | Gear: None ">ROUVY - GWA Madagascar | S...</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">473 <sup><sub>m</sub></sup></td>
-            <td align="center">1:02:01</td>
-            <td align="center">146 <sup><sub>w</sub></sup></td>
-            <td align="center">25 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
