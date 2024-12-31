@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - TOUR DE SUISSE 2024 | STAGE 2 - KOLLBRUNN" title="ROUVY - TOUR DE SUISSE 2024 | STAGE 2 - KOLLBRUNN"/>
+<a href="https://www.strava.com/activities/13224467402" title="Kcal: 439 | Gear: None ">ROUVY - TOUR DE SUISSE 202...</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">177 <sup><sub>m</sub></sup></td>
+            <td align="center">55:31</td>
+            <td align="center">138 <sup><sub>w</sub></sup></td>
+            <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
             <td>28-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Cote de Montecalvo | Italy" title="ROUVY - Cote de Montecalvo | Italy"/>
@@ -60,19 +73,6 @@
             <td align="center">137 <sup><sub>w</sub></sup></td>
             <td align="center">12.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>15-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - GWA Madagascar | Stage 1 - Ampefy" title="ROUVY - GWA Madagascar | Stage 1 - Ampefy"/>
-<a href="https://www.strava.com/activities/13119535331" title="Kcal: 563 | Gear: None ">ROUVY - GWA Madagascar | S...</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">363 <sup><sub>m</sub></sup></td>
-            <td align="center">1:09:37</td>
-            <td align="center">141 <sup><sub>w</sub></sup></td>
-            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
