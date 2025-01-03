@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-01-25</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Makhadah | Oman" title="ROUVY - Makhadah | Oman"/>
+<a href="https://www.strava.com/activities/13247512790" title="Kcal: 543 | Gear: None ">ROUVY - Makhadah | Oman</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">326 <sup><sub>m</sub></sup></td>
+            <td align="center">59:54</td>
+            <td align="center">158 <sup><sub>w</sub></sup></td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
+            <tr>
             <td>30-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - TOUR DE SUISSE 2024 | STAGE 2 - KOLLBRUNN" title="ROUVY - TOUR DE SUISSE 2024 | STAGE 2 - KOLLBRUNN"/>
@@ -60,19 +73,6 @@
             <td align="center">142 <sup><sub>w</sub></sup></td>
             <td align="center">33.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>17-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-rouvy.svg" width="12" alt="ROUVY - Wout&#039;s Power Play | Wout van Aert&#039;s favourite" title="ROUVY - Wout&#039;s Power Play | Wout van Aert&#039;s favourite"/>
-<a href="https://www.strava.com/activities/13135673577" title="Kcal: 479 | Gear: None ">ROUVY - Wout&#039;s Power Play ...</a>
-            </td>
-            <td align="center">13 <sup><sub>km</sub></sup></td>
-            <td align="center">544 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:54</td>
-            <td align="center">137 <sup><sub>w</sub></sup></td>
-            <td align="center">12.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
